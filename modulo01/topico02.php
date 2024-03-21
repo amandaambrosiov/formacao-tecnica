@@ -132,8 +132,7 @@ include('layout/header.php');
                         <div class="row gap-2 card_dis">
                             <div class="col">
                                 <p class="FonteFigura FonteMenor text-secondary d-flex justify-content-center">
-                                    <strong>Fonte:</strong>
-                                    <a href="https://www.freepik.com/free-vector/flat-illustration-secretary-s-day-celebration_39431981.htm#query=woman%20illustration%20work&position=0&from_view=keyword&track=ais&uuid=597a7d63-6726-430f-9e03-4025b3b9b520" target="_blank" rel="noopener noreferrer">Imagem retirada do Freepik</a>
+                                    Fonte: Freepik
                                 </p>
                                 <div class="conteudo-card">
                                     <div class="card">
@@ -141,43 +140,43 @@ include('layout/header.php');
                                         <div class="content">
                                             <div class="desc">
                                                 <div>
-                                                    <p>inserção de ações voltadas para o atendimento escolar, no âmbito do SINASE, nos Planos Municipais, Estaduais e Distrital de Educação;</p>
+                                                    <p> ⭢ Inserção de ações voltadas para o atendimento escolar, no âmbito do SINASE, nos Planos Municipais, Estaduais e Distrital de Educação;</p>
                                                     <p>
-                                                        implementação de políticas, programas, projetos e ações educacionais para a qualificação da oferta de escolarização, no âmbito do SINASE, contemplando as diferentes modalidades e etapas do atendimento socioeducativo;
+                                                    ⭢ Implementação de políticas, programas, projetos e ações educacionais para a qualificação da oferta de escolarização, no âmbito do SINASE, contemplando as diferentes modalidades e etapas do atendimento socioeducativo;
                                                     </p>
                                                     <p>
-                                                        integração dos diferentes sistemas de informação para identificação da matrícula, acompanhamento da frequência e do rendimento escolar de adolescentes e jovens em atendimento socioeducativo;
+                                                    ⭢ Integração dos diferentes sistemas de informação para identificação da matrícula, acompanhamento da frequência e do rendimento escolar de adolescentes e jovens em atendimento socioeducativo;
                                                     </p>
                                                     <p>
-                                                        O aperfeiçoamento e a adequação qualificada e contínua do censo escolar para atendimento às especificidades educacionais de adolescentes e jovens em cumprimento de medidas socioeducativas;
+                                                    ⭢ O aperfeiçoamento e a adequação qualificada e contínua do censo escolar para atendimento às especificidades educacionais de adolescentes e jovens em cumprimento de medidas socioeducativas;
                                                     </p>
                                                     <p>
-                                                        promoção da participação de adolescentes e jovens em atendimento socioeducativo em exames de larga escala, nacionais e locais, em especial aqueles voltados à produção de indicadores educacionais, à certificação e ao acesso à Educação Superior;
+                                                    ⭢ Promoção da participação de adolescentes e jovens em atendimento socioeducativo em exames de larga escala, nacionais e locais, em especial aqueles voltados à produção de indicadores educacionais, à certificação e ao acesso à Educação Superior;
                                                     </p>
                                                     <p>
-                                                        promoção de parcerias com instituições de Educação Superior para o desenvolvimento de ações de pesquisa e extensão que contribuam para a criação, implementação e fortalecimento de políticas públicas educacionais no âmbito do SINASE;
+                                                    ⭢ Promoção de parcerias com instituições de Educação Superior para o desenvolvimento de ações de pesquisa e extensão que contribuam para a criação, implementação e fortalecimento de políticas públicas educacionais no âmbito do SINASE;
                                                     </p>
                                                     <p>
-                                                        implementação de políticas, programas, projetos e ações educacionais, por meio de parcerias com instituições públicas de Educação Profissional e Tecnológica, com os serviços nacionais de aprendizagem e outras entidades sociais para a inserção de adolescentes e jovens do sistema socioeducativo ou de seus egressos, como aprendizes e estagiários do Ensino Médio ou da Educação Superior, em órgãos da administração pública direta ou indireta e da iniciativa privada.
+                                                    ⭢ Implementação de políticas, programas, projetos e ações educacionais, por meio de parcerias com instituições públicas de Educação Profissional e Tecnológica, com os serviços nacionais de aprendizagem e outras entidades sociais para a inserção de adolescentes e jovens do sistema socioeducativo ou de seus egressos, como aprendizes e estagiários do Ensino Médio ou da Educação Superior, em órgãos da administração pública direta ou indireta e da iniciativa privada.
                                                     </p>
-                                                    <p>inserção de ações voltadas para o atendimento escolar, no âmbito do SINASE, nos Planos Municipais, Estaduais e Distrital de Educação;</p>
+                                                    <p>⭢ Inserção de ações voltadas para o atendimento escolar, no âmbito do SINASE, nos Planos Municipais, Estaduais e Distrital de Educação;</p>
                                                     <p>
-                                                        implementação de políticas, programas, projetos e ações educacionais para a qualificação da oferta de escolarização, no âmbito do SINASE, contemplando as diferentes modalidades e etapas do atendimento socioeducativo;
-                                                    </p>
-                                                    <p>
-                                                        integração dos diferentes sistemas de informação para identificação da matrícula, acompanhamento da frequência e do rendimento escolar de adolescentes e jovens em atendimento socioeducativo;
+                                                    ⭢ Implementação de políticas, programas, projetos e ações educacionais para a qualificação da oferta de escolarização, no âmbito do SINASE, contemplando as diferentes modalidades e etapas do atendimento socioeducativo;
                                                     </p>
                                                     <p>
-                                                        O aperfeiçoamento e a adequação qualificada e contínua do censo escolar para atendimento às especificidades educacionais de adolescentes e jovens em cumprimento de medidas socioeducativas;
+                                                    ⭢ Integração dos diferentes sistemas de informação para identificação da matrícula, acompanhamento da frequência e do rendimento escolar de adolescentes e jovens em atendimento socioeducativo;
                                                     </p>
                                                     <p>
-                                                        promoção da participação de adolescentes e jovens em atendimento socioeducativo em exames de larga escala, nacionais e locais, em especial aqueles voltados à produção de indicadores educacionais, à certificação e ao acesso à Educação Superior;
+                                                    ⭢ O aperfeiçoamento e a adequação qualificada e contínua do censo escolar para atendimento às especificidades educacionais de adolescentes e jovens em cumprimento de medidas socioeducativas;
                                                     </p>
                                                     <p>
-                                                        promoção de parcerias com instituições de Educação Superior para o desenvolvimento de ações de pesquisa e extensão que contribuam para a criação, implementação e fortalecimento de políticas públicas educacionais no âmbito do SINASE;
+                                                    ⭢ Promoção da participação de adolescentes e jovens em atendimento socioeducativo em exames de larga escala, nacionais e locais, em especial aqueles voltados à produção de indicadores educacionais, à certificação e ao acesso à Educação Superior;
                                                     </p>
                                                     <p>
-                                                        implementação de políticas, programas, projetos e ações educacionais, por meio de parcerias com instituições públicas de Educação Profissional e Tecnológica, com os serviços nacionais de aprendizagem e outras entidades sociais para a inserção de adolescentes e jovens do sistema socioeducativo ou de seus egressos, como aprendizes e estagiários do Ensino Médio ou da Educação Superior, em órgãos da administração pública direta ou indireta e da iniciativa privada.
+                                                    ⭢ Promoção de parcerias com instituições de Educação Superior para o desenvolvimento de ações de pesquisa e extensão que contribuam para a criação, implementação e fortalecimento de políticas públicas educacionais no âmbito do SINASE;
+                                                    </p>
+                                                    <p>
+                                                    ⭢ Implementação de políticas, programas, projetos e ações educacionais, por meio de parcerias com instituições públicas de Educação Profissional e Tecnológica, com os serviços nacionais de aprendizagem e outras entidades sociais para a inserção de adolescentes e jovens do sistema socioeducativo ou de seus egressos, como aprendizes e estagiários do Ensino Médio ou da Educação Superior, em órgãos da administração pública direta ou indireta e da iniciativa privada.
                                                     </p>
                                                 </div>
                                             </div>
@@ -208,33 +207,32 @@ include('layout/header.php');
                         <div class="row gap-2 card_dis">
                             <div class="col">
                                 <p class="FonteFigura FonteMenor text-secondary d-flex justify-content-center">
-                                    <strong>Fonte:</strong>
-                                    <a href="https://www.freepik.com/free-vector/flat-illustration-secretary-s-day-celebration_39431981.htm#query=woman%20illustration%20work&position=0&from_view=keyword&track=ais&uuid=597a7d63-6726-430f-9e03-4025b3b9b520" target="_blank" rel="noopener noreferrer">Imagem retirada do Freepik</a>
+                                    Fonte: Freepik
                                 </p>
                                 <div class="conteudo-card">
                                     <div class="card">
                                         <img src="imgs/figuraextra05.jpg" class="img" alt="">
                                         <div class="content">
                                             <div class="desc">
-                                                <p>Definir, no âmbito de sua administração, instância gestora responsável pela implementação e acompanhamento da escolarização de adolescentes e jovens em cumprimento de medidas socioeducativas e dos egressos;
+                                                <p>⭢ Definir, no âmbito de sua administração, instância gestora responsável pela implementação e acompanhamento da escolarização de adolescentes e jovens em cumprimento de medidas socioeducativas e dos egressos;
                                                     <br><br>
-                                                    Formalizar instrumentos para a cooperação técnica com outros órgãos setoriais para a efetivação de políticas no âmbito do SINASE;
+                                                    ⭢ Formalizar instrumentos para a cooperação técnica com outros órgãos setoriais para a efetivação de políticas no âmbito do SINASE;
                                                     <br><br>
-                                                    Participar dos espaços políticos institucionais responsáveis pela definição das políticas e acompanhamento do SINASE;
+                                                    ⭢ Participar dos espaços políticos institucionais responsáveis pela definição das políticas e acompanhamento do SINASE;
                                                     <br><br>
-                                                    Observar os parâmetros definidos pelos sistemas de ensino e pelo SINASE ligados ao campo educacional;
+                                                    ⭢ Observar os parâmetros definidos pelos sistemas de ensino e pelo SINASE ligados ao campo educacional;
                                                     <br><br>
-                                                    Manter interlocução constante entre a escola e os programas de atendimento socioeducativo;
+                                                    ⭢ Manter interlocução constante entre a escola e os programas de atendimento socioeducativo;
                                                     <br><br>
-                                                    Disponibilizar, a qualquer tempo e sempre que necessário, documentação escolar de adolescentes e jovens, em especial para subsidiar a definição da medida e a construção do Plano Individual de Atendimento;
+                                                    ⭢ Disponibilizar, a qualquer tempo e sempre que necessário, documentação escolar de adolescentes e jovens, em especial para subsidiar a definição da medida e a construção do Plano Individual de Atendimento;
                                                     <br><br>
-                                                    Fortalecer a participação dos profissionais da educação na elaboração e acompanhamento do Plano Individual de Atendimento;
+                                                    ⭢ Fortalecer a participação dos profissionais da educação na elaboração e acompanhamento do Plano Individual de Atendimento;
                                                     <br><br>
-                                                    Articular organizações, serviços, programas e projetos disponíveis no território que potencializem e complementem as experiências educacionais em curso;
+                                                    ⭢ Articular organizações, serviços, programas e projetos disponíveis no território que potencializem e complementem as experiências educacionais em curso;
                                                     <br><br>
-                                                    Manter compromisso com a garantia do sigilo, conservando dados referentes à situação do adolescente ou jovem em atendimento socioeducativo restritos àqueles profissionais a quem tal informação seja indispensável;
+                                                    ⭢ Manter compromisso com a garantia do sigilo, conservando dados referentes à situação do adolescente ou jovem em atendimento socioeducativo restritos àqueles profissionais a quem tal informação seja indispensável;
                                                     <br><br>
-                                                    Articular o Plano Individual de Atendimento, com as ações desenvolvidas nas unidades escolares, com o projeto institucional e com o projeto político-pedagógico da unidade socioeducativa.
+                                                    ⭢ Articular o Plano Individual de Atendimento, com as ações desenvolvidas nas unidades escolares, com o projeto institucional e com o projeto político-pedagógico da unidade socioeducativa.
                                                 </p>
                                             </div>
                                         </div>
@@ -252,29 +250,28 @@ include('layout/header.php');
                             <div class="row gap-2 card_dis">
                                 <div class="col">
                                     <p class="FonteFigura FonteMenor text-secondary d-flex justify-content-center">
-                                        <strong>Fonte:</strong>
-                                        <a href="https://www.freepik.com/free-vector/flat-illustration-secretary-s-day-celebration_39431981.htm#query=woman%20illustration%20work&position=0&from_view=keyword&track=ais&uuid=597a7d63-6726-430f-9e03-4025b3b9b520" target="_blank" rel="noopener noreferrer">Imagem retirada do Freepik</a>
+                                        Fonte: Freepik
                                     </p>
                                     <div class="conteudo-card">
                                         <div class="card">
                                             <img src="imgs/figuraextra06.jpg" class="img" alt="">
                                             <div class="content">
                                                 <div class="desc">
-                                                    <p>§ 1° A matrícula deve ser efetivada sempre que houver demanda e a qualquer tempo.
+                                                    <p><strong>§ 1°</strong> A matrícula deve ser efetivada sempre que houver demanda e a qualquer tempo.
                                                         <br><br>
-                                                        § 2° A matrícula deve ser assegurada independentemente da apresentação de documento de identificação pessoal, podendo ser realizada mediante a autodeclaração ou declaração do responsável.
+                                                        <strong>§ 2°</strong> A matrícula deve ser assegurada independentemente da apresentação de documento de identificação pessoal, podendo ser realizada mediante a autodeclaração ou declaração do responsável.
                                                         <br><br>
-                                                        § 3° Caso o estudante não disponha, no ato da matrícula, de boletim, histórico escolar, certificado, memorial ou qualquer outra documentação referente a sua trajetória escolar expedida por instituição de educação anterior, deverá ser realizada avaliação diagnóstica para definição da série ou ciclo, etapa e modalidade mais adequada ao seu nível de aprendizagem.
+                                                        <strong>§ 3°</strong> Caso o estudante não disponha, no ato da matrícula, de boletim, histórico escolar, certificado, memorial ou qualquer outra documentação referente a sua trajetória escolar expedida por instituição de educação anterior, deverá ser realizada avaliação diagnóstica para definição da série ou ciclo, etapa e modalidade mais adequada ao seu nível de aprendizagem.
                                                         <br><br>
-                                                        § 4° Para adolescentes e jovens já matriculados, logo após a definição da medida, deve ser feita articulação com a sua rede de ensino, com vistas à garantia da continuidade da escolarização em sua escola de origem ou escola de sua comunidade, sempre que não inviabilizado pela medida socioeducativa aplicada e respeitado o seu interesse.
+                                                        <strong>§ 4°</strong> Para adolescentes e jovens já matriculados, logo após a definição da medida, deve ser feita articulação com a sua rede de ensino, com vistas à garantia da continuidade da escolarização em sua escola de origem ou escola de sua comunidade, sempre que não inviabilizado pela medida socioeducativa aplicada e respeitado o seu interesse.
                                                         <br><br>
-                                                        § 5° Caso o estudante retorne a sua escola de origem, após cumprimento de internação provisória, a instituição de ensino deve viabilizar a recuperação do rendimento escolar, sem considerar as respectivas faltas no período.
+                                                        <strong>§ 5°</strong> Caso o estudante retorne a sua escola de origem, após cumprimento de internação provisória, a instituição de ensino deve viabilizar a recuperação do rendimento escolar, sem considerar as respectivas faltas no período.
                                                         <br><br>
-                                                        § 6° Os adolescentes e jovens em cumprimento de medidas de Prestação de Serviços à Comunidade (PSC), Liberdade Assistida (LA) ou semiliberdade devem ter suas matrículas integradas às demais turmas de estudantes, não sendo permitida a formação de turmas exclusivas.
+                                                        <strong>§ 6°</strong> Os adolescentes e jovens em cumprimento de medidas de Prestação de Serviços à Comunidade (PSC), Liberdade Assistida (LA) ou semiliberdade devem ter suas matrículas integradas às demais turmas de estudantes, não sendo permitida a formação de turmas exclusivas.
                                                         <br><br>
-                                                        § 7° Nos casos de falta de qualquer tipo de documentação, seja de identificação pessoal ou escolar, os órgãos competentes pela sua expedição devem ser acionados pelos pais ou responsáveis, conselhos tutelares ou operadores de órgãos de assistência social ou de justiça.
+                                                        <strong>§ 7°</strong> Nos casos de falta de qualquer tipo de documentação, seja de identificação pessoal ou escolar, os órgãos competentes pela sua expedição devem ser acionados pelos pais ou responsáveis, conselhos tutelares ou operadores de órgãos de assistência social ou de justiça.
                                                         <br><br>
-                                                        § 8° Os sistemas de ensino devem, quando solicitado e a qualquer tempo, fornecer aos órgãos de assistência social e de justiça documentação relativa à trajetória escolar do estudante em cumprimento de medidas socioeducativas.
+                                                        <strong>§ 8°</strong> Os sistemas de ensino devem, quando solicitado e a qualquer tempo, fornecer aos órgãos de assistência social e de justiça documentação relativa à trajetória escolar do estudante em cumprimento de medidas socioeducativas.
                                                     </p>
                                                 </div>
                                             </div>
@@ -390,23 +387,23 @@ include('layout/header.php');
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                    Garantir e promover a atenção integral à saúde de adolescentes em cumprimento de medida socioeducativa;
+                                ⭢ Garantir e promover a atenção integral à saúde de adolescentes em cumprimento de medida socioeducativa;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                    Organizar os serviços de saúde dentro dos princípios do SUS e do SINASE;
+                                ⭢ Organizar os serviços de saúde dentro dos princípios do SUS e do SINASE;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                    Desenvolver ações de promoção da saúde, prevenção de agravos e doenças e recuperação da saúde;
+                                ⭢ Desenvolver ações de promoção da saúde, prevenção de agravos e doenças e recuperação da saúde;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                    Cumprir a Constituição Federal, a Lei Orgânica da Saúde e o ECA;
+                                ⭢ Cumprir a Constituição Federal, a Lei Orgânica da Saúde e o ECA;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                    Cumprir o princípio da INCOMPLETUDE INSTITUCIONAL.
+                                ⭢ Cumprir o princípio da INCOMPLETUDE INSTITUCIONAL.
                                 </p>
 
                                 <!-- CAIXA DE TEXTO FIQUE ATENTO -->
@@ -480,7 +477,7 @@ include('layout/header.php');
                                                     <img class="w-75" src="imgs/Figura07.png" alt="Radio Bluetooth N80" id="img-1">
                                                 </a>
                                             </div>
-                                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            
                                         </div>
 
                                         <!-- Imagem - MODAL-->
@@ -489,9 +486,7 @@ include('layout/header.php');
                                                 <div class="modal-content w-75">
                                                     <img class="img-fluid" src="imgs/Figura07.png" alt="Radio Bluetooth N80">
                                                 </div>
-                                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                         <!-- Imagem - End-->
@@ -508,7 +503,7 @@ include('layout/header.php');
                                                     <img class="w-75" src="imgs/Figura08.png" alt="Radio Bluetooth N80" id="img-1">
                                                 </a>
                                             </div>
-                                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            
                                         </div>
 
                                         <!-- Imagem - MODAL-->
@@ -517,9 +512,7 @@ include('layout/header.php');
                                                 <div class="modal-content w-75">
                                                     <img class="img-fluid" src="imgs/Figura08.png" alt="Radio Bluetooth N80">
                                                 </div>
-                                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                         <!-- Imagem - End-->
@@ -537,7 +530,7 @@ include('layout/header.php');
                                                     <img class="w-75" src="imgs/Figura09.png" alt="Radio Bluetooth N80" id="img-1">
                                                 </a>
                                             </div>
-                                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            
                                         </div>
 
                                         <!-- Imagem - MODAL-->
@@ -546,9 +539,7 @@ include('layout/header.php');
                                                 <div class="modal-content w-75">
                                                     <img class="img-fluid" src="imgs/Figura09.png" alt="Radio Bluetooth N80">
                                                 </div>
-                                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                         <!-- Imagem - End-->
@@ -565,7 +556,7 @@ include('layout/header.php');
                                                     <img class="w-75" src="imgs/Figura10.png" alt="Radio Bluetooth N80" id="img-1">
                                                 </a>
                                             </div>
-                                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            
                                         </div>
 
                                         <!-- Imagem - MODAL-->
@@ -574,9 +565,7 @@ include('layout/header.php');
                                                 <div class="modal-content w-75">
                                                     <img class="img-fluid" src="imgs/Figura10.png" alt="Radio Bluetooth N80">
                                                 </div>
-                                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                         <!-- Imagem - End-->
@@ -589,38 +578,22 @@ include('layout/header.php');
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
                                     A seguir, relacionaremos as principais atribuições do SUS com relação ao atendimento dos adolescentes em cumprimento de medidas socioeducativas:
-                                </p>
+                                </p><br>
 
-                                <div class="row">
-                                    <div class="col">
-                                        <div class="wow fadeIn col-sm-12 col-md-12" data-wow-delay="0.3s">
-                                            <ol class="card-style list-group list-group-flush">
-
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Elaboração de estratégias de sensibilização de gestores e profissionais dos serviços de saúde para ampliar o acesso dessa população à rede de saúde.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Garantir a utilização do código 03.01.01.029-3 no atendimento da APS a adolescentes em cumprimento de MSE, conforme Portaria nº 493/2020.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Atendimento individual ou coletivo aos adolescentes na unidade do SUAS ou do SUS com a possibilidade de realização de grupos.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Atualização da cobertura vacinal aos adolescentes atendidos.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Inserção dos adolescentes, que cumprem MSE em meio aberto, em ações de prevenção em geral: saúde bucal, crescimento e desenvolvimento, uso de substâncias psicoativas ou outras disponíveis na rede de saúde local ou que se fizerem necessárias de acordo com a demanda.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> A não-aderência a tratamentos de saúde não pode ser considerada como descumprimento de medida.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Acompanhamento das famílias dos adolescentes por meio da Estratégia de Saúde da Família (ESF) nos territórios em articulação com o atendimento ao adolescente.</li>
-                                                </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col">
-                                        <div class="wow fadeIn col-sm-12 col-md-12" data-wow-delay="0.3s">
-                                            <ol class="card-style list-group list-group-flush">
-
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Acesso irrestrito a tratamento de saúde, inclusive odontológico, com realização de exames laboratoriais, prescrição de medicações, realização de testes rápidos e demais coberturas do SUS sem quaisquer tipos de preconceitos ou discriminações pela condição de socioeducando do adolescente.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Atendimento dos egressos em tempo oportuno, e pelo período que se fizer necessário, sem interrupção dos cuidados em decorrência da extinção da medida.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Continuidade imediata do acompanhamento terapêutico iniciado nas unidades de internação e semiliberdade para adolescentes que tiveram a medida substituída por LA e/ou PSC preservando os plano terapêutico singulares (PTS) junto às unidades de saúde de referência dos municípios (as unidades do meio fechado já devem articular-se com a gestão da PNAISARI ou saúde local em tempo hábil antes da saída do adolescente). O mesmo vale para os adolescentes que migram do meio aberto para o meio fechado.</li>
-                                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> O descumprimento da medida por qualquer motivo não enseja interrupção ou negação de atendimento por parte do SUS, este, no entanto, deve mobilizar o adolescente a regularizar sua situação junto aos serviços do SUAS e ao Sistema de Justiça.</li>
-                                            </ol>
-                                        </div>
-                                    </div>
-                                </div>
+                                <p>⭢ Elaboração de estratégias de sensibilização de gestores e profissionais dos serviços de saúde para ampliar o acesso dessa população à rede de saúde.</p>
+                                <p>⭢ Garantir a utilização do código 03.01.01.029-3 no atendimento da APS a adolescentes em cumprimento de MSE, conforme Portaria nº 493/2020.</p>
+                                <p>⭢ Atendimento individual ou coletivo aos adolescentes na unidade do SUAS ou do SUS com a possibilidade de realização de grupos.</p>
+                                <p>⭢ Atualização da cobertura vacinal aos adolescentes atendidos.</p>
+                                <p>⭢ Inserção dos adolescentes, que cumprem MSE em meio aberto, em ações de prevenção em geral: saúde bucal, crescimento e desenvolvimento, uso de substâncias psicoativas ou outras disponíveis na rede de saúde local ou que se fizerem necessárias de acordo com a demanda.</p>
+                                <p>⭢ A não-aderência a tratamentos de saúde não pode ser considerada como descumprimento de medida.</p>
+                                <p>⭢ Acompanhamento das famílias dos adolescentes por meio da Estratégia de Saúde da Família (ESF) nos territórios em articulação com o atendimento ao adolescente.</p>
+                                <p>⭢ Acesso irrestrito a tratamento de saúde, inclusive odontológico, com realização de exames laboratoriais, prescrição de medicações, realização de testes rápidos e demais coberturas do SUS sem quaisquer tipos de preconceitos ou discriminações pela condição de socioeducando do adolescente.</p>
+                                <p>⭢ Atendimento dos egressos em tempo oportuno, e pelo período que se fizer necessário, sem interrupção dos cuidados em decorrência da extinção da medida.</p>
+                                <p>⭢ Continuidade imediata do acompanhamento terapêutico iniciado nas unidades de internação e semiliberdade para adolescentes que tiveram a medida substituída por LA e/ou PSC preservando os plano terapêutico singulares (PTS) junto às unidades de saúde de referência dos municípios (as unidades do meio fechado já devem articular-se com a gestão da PNAISARI ou saúde local em tempo hábil antes da saída do adolescente). O mesmo vale para os adolescentes que migram do meio aberto para o meio fechado.</p>
+                                <p>⭢ O descumprimento da medida por qualquer motivo não enseja interrupção ou negação de atendimento por parte do SUS, este, no entanto, deve mobilizar o adolescente a regularizar sua situação junto aos serviços do SUAS e ao Sistema de Justiça.</p>
 
                                 <!-- Subtopico -->
-                                <h3 class="Subtopico" id="item3">Assitência Social</h3>
+                                <h3 class="Subtopico" id="item3">Assistência Social</h3>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
                                     O SUAS também integra o SINASE, e através da Resolução nº 109/2009 que aprova a Tipificação Nacional de Serviços Socioassistenciais, regulamentou o Serviço de Proteção Social a Adolescentes em cumprimento de Medida Socioeducativa de Liberdade Assistida (LA) e de Prestação de Serviços à Comunidade (PSC), que tem por finalidade prover atenção socioassistencial e acompanhamento a adolescentes e jovens em cumprimento de medidas socioeducativas em meio aberto, determinadas judicialmente.
@@ -698,7 +671,7 @@ include('layout/header.php');
                                                     <img class="w-75" src="imgs/Figura11.png" alt="Radio Bluetooth N80" id="img-1">
                                                 </a>
                                             </div>
-                                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            
                                         </div>
 
                                         <!-- Imagem - MODAL-->
@@ -707,9 +680,7 @@ include('layout/header.php');
                                                 <div class="modal-content w-75">
                                                     <img class="img-fluid" src="imgs/Figura11.png" alt="Radio Bluetooth N80">
                                                 </div>
-                                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                         <!-- Imagem - End-->
@@ -727,7 +698,7 @@ include('layout/header.php');
                                                     <img class="w-75" src="imgs/Figura12.png" alt="Radio Bluetooth N80" id="img-1">
                                                 </a>
                                             </div>
-                                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            
                                         </div>
 
                                         <!-- Imagem - MODAL-->
@@ -736,9 +707,7 @@ include('layout/header.php');
                                                 <div class="modal-content w-75">
                                                     <img class="img-fluid" src="imgs/Figura12.png" alt="Radio Bluetooth N80">
                                                 </div>
-                                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                         <!-- Imagem - End-->
@@ -771,15 +740,15 @@ include('layout/header.php');
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                    Necessária entre o Serviço de MSE em Meio Aberto e os outros serviços do SUAS;
+                                ⭢ Necessária entre o Serviço de MSE em Meio Aberto e os outros serviços do SUAS;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                    A Vigilância Socioassistencial como suporte à participação da Assistência Social no Sistema Socioeducativo;
+                                ⭢ A Vigilância Socioassistencial como suporte à participação da Assistência Social no Sistema Socioeducativo;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                    A Centralidade da intersetorialidade em todas as instâncias de planejamento e de execução do atendimento socioeducativo (operacionalidade se realiza na constituição das comissões intersetoriais de acompanhamento do sistema socioeducativo e dos planos de atendimento socioeducativo).
+                                ⭢ A Centralidade da intersetorialidade em todas as instâncias de planejamento e de execução do atendimento socioeducativo (operacionalidade se realiza na constituição das comissões intersetoriais de acompanhamento do sistema socioeducativo e dos planos de atendimento socioeducativo).
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
@@ -881,10 +850,6 @@ include('layout/header.php');
                                             <p class="wow fadeIn" data-wow-delay="0.3s">
                                                 No atendimento o Serviço deve buscar a RESPONSABILIZAÇÃO e a PROTEÇÃO SOCIAL na seguinte vertente:
                                             </p>
-
-                                            <p class="wow fadeIn" data-wow-delay="0.3s">
-                                                No atendimento o Serviço deve buscar a RESPONSABILIZAÇÃO e a PROTEÇÃO SOCIAL na seguinte vertente:
-                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -906,7 +871,7 @@ include('layout/header.php');
                                         </h2>
                                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                <p>decorre da desaprovação da conduta infracional, por meio da aplicação da medida socioeducativa, que objetiva levar o adolescente à reflexão e ao reconhecimento de sua responsabilidade frente ao ato infracional cometido e suas consequências, o que vai ao encontro da ideia de responsabilidade individual. Apesar da responsabilização, o cumprimento de medidas socioeducativas deve necessariamente garantir os direitos individuais e sociais do adolescente, por meio de um atendimento que esteja atento às singularidades e potencialidades de cada um.</p>
+                                                <p>Decorre da desaprovação da conduta infracional, por meio da aplicação da medida socioeducativa, que objetiva levar o adolescente à reflexão e ao reconhecimento de sua responsabilidade frente ao ato infracional cometido e suas consequências, o que vai ao encontro da ideia de responsabilidade individual. Apesar da responsabilização, o cumprimento de medidas socioeducativas deve necessariamente garantir os direitos individuais e sociais do adolescente, por meio de um atendimento que esteja atento às singularidades e potencialidades de cada um.</p>
                                             </div>
                                         </div>
                                     </div>

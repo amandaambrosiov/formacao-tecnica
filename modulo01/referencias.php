@@ -157,7 +157,7 @@ include('layout/header.php');
                         </p>
 
                         <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book me-2"></i>
-                        _______. Cada vida importa. <strong>Relatório final do Comitê Cearense pela Prevenção de Homicídios na Adolescência.</strong> Fortaleza: Assembleia Legislativa do Estado do Ceará, 2016. Disponível em: https://cadavidaimporta.com.br/publicacoes/.
+                        _______. Cada vida importa. <strong>Relatório final do Comitê Cearense pela Prevenção de Homicídios na Adolescência.</strong> Fortaleza: Assembleia Legislativa do Estado do Ceará, 2016. Disponível em: <a href="https://cadavidaimporta.com.br/publicacoes/" target="_blank" rel="noopener noreferrer">https://cadavidaimporta.com.br/publicacoes/</a>.
                         </p>
 
                         <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book me-2"></i>
@@ -179,10 +179,7 @@ include('layout/header.php');
 
                         <!-- Citação com borda verde (esquerda) -->
                         <div class="content_box_padrao wow fadeIn center" data-wow-delay="0.7s">
-                                <p>Pronto! <?php echo $NomeUsuario ?> agora você já pode fazer
-                                    a
-                                    avaliação do curso
-                                    <strong>Formação Técnica para a execução e acompanhamento das Medidas Socioeducativas do Estado do Ceará</strong> módulo 01. Boa Sorte!
+                                <p>Pronto! <?php echo $NomeUsuario ?> você finalizou o módulo 1 do curso <strong>Formação Técnica para a execução e acompanhamento das Medidas Socioeducativas do Estado do Ceará</strong>. Agora você já pode fazer a avaliação do módulo 01. Boa Sorte!
                                 </p>
                                 <!--caixa secundaria-->
                             </div>

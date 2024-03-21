@@ -86,7 +86,7 @@
         <a href="topico04.php">
             <i class="bi bi-journals circulo"></i>Início</a>
         <a href="#item1">
-            <i class="bi bi-journals circulo"></i>04.1 - Orientações e Porcedimentos para a implementação do serviço de Mse em Meio Aberto</a>
+            <i class="bi bi-journals circulo"></i>04.1 - Orientações e Procedimentos para a implementação do serviço de Mse em Meio Aberto</a>
     </div>
 
 

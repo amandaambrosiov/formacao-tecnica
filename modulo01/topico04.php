@@ -22,7 +22,7 @@ include('layout/header.php');
                 <div class="row">
                     <div class="col-md-10 col-sm-8 container-fluid">
 
-                        <h2 class="Titulo">O serviço de Proteção Social a adolescentes em cumprimento de medida socioeducativa de liberdade assitida(LA) e de prestação de serviços à comunidade(PSC)</h2>
+                        <h2 class="Titulo">O serviço de Proteção Social a adolescentes em cumprimento de medida socioeducativa de liberdade assistida(LA) e de prestação de serviços à comunidade(PSC)</h2>
 
                         <div class="apresentacao">
                             <div>
@@ -36,7 +36,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura16.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -45,9 +45,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura16.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -82,7 +80,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura17.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -91,9 +89,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura17.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -121,7 +117,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/Figura18.png" alt="Radio Bluetooth N80" id="img-1">
                                 </a>
                             </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                            
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -130,9 +126,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/Figura18.png" alt="Radio Bluetooth N80">
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                </div>
+                                
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -159,7 +153,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/Figura19.png" alt="Radio Bluetooth N80" id="img-1">
                                 </a>
                             </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                            
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -168,9 +162,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/Figura19.png" alt="Radio Bluetooth N80">
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                </div>
+                                
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -283,7 +275,7 @@ include('layout/header.php');
                                                                 <img class="w-75" src="imgs/Figura28.png" alt="Radio Bluetooth N80" id="img-1">
                                                             </a>
                                                         </div>
-                                                        <p class="FonteFigura FonteMenor text-secondary text-light"><strong>Fonte: </strong>autor.</p>
+                                                        <p class="FonteFigura FonteMenor text-secondary text-light"><strong>Fonte: </strong>Fonte: Tipificação Nacional dos Serviços Socioassistenciais.</p>
                                                     </div>
 
                                                     <!-- Imagem - MODAL-->
@@ -293,7 +285,7 @@ include('layout/header.php');
                                                                 <img class="img-fluid" src="imgs/Figura28.png" alt="Radio Bluetooth N80">
                                                             </div>
                                                             <div class="modal-footer w-75 bg-light justify-content-center">
-                                                                <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
+                                                                <p class="text-secondary "><strong>Fonte: </strong>Fonte: Tipificação Nacional dos Serviços Socioassistenciais.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -338,7 +330,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura20.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -347,9 +339,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura20.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -367,7 +357,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura21.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -376,9 +366,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura21.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -431,7 +419,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/Figura23.png" alt="Radio Bluetooth N80" id="img-1">
                                 </a>
                             </div>
-                            <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>autor.</p>
+                            
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -440,9 +428,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/Figura23.png" alt="Radio Bluetooth N80">
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
-                                </div>
+                                
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -463,7 +449,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/Figura24.png" alt="Radio Bluetooth N80" id="img-1">
                                 </a>
                             </div>
-                            <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>autor.</p>
+                            
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -472,9 +458,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/Figura24.png" alt="Radio Bluetooth N80">
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
-                                </div>
+                                
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -518,7 +502,7 @@ include('layout/header.php');
                                     </tr>
                                 </tbody>
                             </table>
-                            <p class="FonteFigura">Fonte: Elaborado pela autora.</p>
+                            <p style="font-size: 15px;">Fonte: Elaborado pela autora.</p>
                         </div>
 
                         <div class="apresentacao">
@@ -533,7 +517,8 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura25.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>autor.</p>
+                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>Caderno SINASE, 2006.
+</p>
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -543,7 +528,8 @@ include('layout/header.php');
                                             <img class="img-fluid" src="imgs/Figura25.png" alt="Radio Bluetooth N80">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
+                                            <p class="text-secondary "><strong>Fonte: </strong>Caderno SINASE, 2006.
+</p>
                                         </div>
                                     </div>
                                 </div>
@@ -582,7 +568,8 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura26.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>autor.</p>
+                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>Caderno SINASE, 2006.
+</p>
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -592,7 +579,8 @@ include('layout/header.php');
                                             <img class="img-fluid" src="imgs/Figura26.png" alt="Radio Bluetooth N80">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
+                                            <p class="text-secondary "><strong>Fonte: </strong>Caderno SINASE, 2006.
+</p>
                                         </div>
                                     </div>
                                 </div>
@@ -648,10 +636,10 @@ include('layout/header.php');
                         </div>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">Quanto ao perfil dos técnicos que acompanharão adolescentes em cumprimento de medidas em meio aberto, é recomendável que: <br><br>
-                            experiência de trabalho no sistema socioeducativo;<br><br>
-                            conhecimento técnico sobre o atendimento socioeducativo;<br><br>
-                            experiência de trabalho em serviços, programas e projetos que atendam adolescentes;<br><br>
-                            integrem as categorias profissionais previstas pela Resolução CNAS nº 17/2011.
+                            ⭢ Experiência de trabalho no sistema socioeducativo;<br><br>
+                            ⭢ Conhecimento técnico sobre o atendimento socioeducativo;<br><br>
+                            ⭢ Experiência de trabalho em serviços, programas e projetos que atendam adolescentes;<br><br>
+                            ⭢ Integrem as categorias profissionais previstas pela Resolução CNAS nº 17/2011.
                         </p>
 
                         <!-- CAIXA DE TEXTO FIQUE ATENTO -->
@@ -722,6 +710,8 @@ include('layout/header.php');
                                 </div>
                             </div>
                         </div>
+                        <p style="font-size: 15px;">Fonte: Tipificação Nacional dos Serviços Socioassistenciais. 
+</p>
 
                         <!-- CAIXA DE TEXTO FIQUE ATENTO -->
                         <div class="destaques wow fadeIn" data-wow-delay="0.3s">
@@ -749,7 +739,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura27.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -758,9 +748,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura27.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -768,13 +756,13 @@ include('layout/header.php');
                                 <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
                             <div class="d-flex align-items-center">
-                            <p class="wow fadeIn" data-wow-delay="0.3s">
-                            O Caderno de Orientações Técnicas: Serviço de Medidas Socioeducativa em Meio Aberto (2016), elenca os procedimentos para a implementação do Serviço de MSE em Meio Aberto. São eles:
-                        </p>
+                                <p class="wow fadeIn" data-wow-delay="0.3s">
+                                    O Caderno de Orientações Técnicas: Serviço de Medidas Socioeducativa em Meio Aberto (2016), elenca os procedimentos para a implementação do Serviço de MSE em Meio Aberto (<strong>Figura 27</strong>).
+                                </p>
                             </div>
                         </div>
 
-                    
+
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">Aqui trataremos especificamente dos seguintes procedimentos:</p>
 
@@ -792,47 +780,46 @@ include('layout/header.php');
                             Conforme prevê o Art. 10º da Lei nº 12.594/2012 “Os Municípios inscreverão seus programas e alterações, bem como as entidades de atendimento executoras, no Conselho Municipal dos Direitos da Criança e do Adolescente”.
                         </p>
 
-                        <div class="content_box_padrao">
-                            <p class="wow fadeIn" data-wow-delay="0.3s">
-                                O Art.11º da mesma Lei afirma que
-
-                                Além da especificação do regime, são requisitos obrigatórios para a inscrição de programa de atendimento (no Conselho de Direitos):
-
-                                I. a exposição das linhas gerais dos métodos e técnicas pedagógicas, com a especificação das atividades de natureza coletiva;
-                                II. a indicação da estrutura material, dos recursos humanos e das estratégias de segurança compatíveis com as necessidades da respectiva unidade;
-                                III. regimento interno que regule o funcionamento da entidade, no qual deverá constar, no mínimo:
-                                a) o detalhamento das atribuições e responsabilidades do dirigente, de seus prepostos, dos membros da equipe técnica e dos demais educadores;
-                                b) a previsão das condições do exercício da disciplina e concessão de benefícios e o respectivo procedimento de aplicação; e
-                                c) a previsão da concessão de benefícios extraordinários e enaltecimento, tendo em vista tornar público o reconhecimento ao adolescente pelo esforço realizado na consecução dos objetivos do plano individual;
-                                IV - a política de formação dos recursos humanos;
-                                V - a previsão das ações de acompanhamento do adolescente após o cumprimento de medida socioeducativa;
-                                VI - a indicação da equipe técnica, cuja quantidade e formação devem estar em conformidade com as normas de referência do sistema e dos conselhos profissionais e com o atendimento socioeducativo a ser realizado; e
-                                VII - a adesão ao Sistema de Informações sobre o Atendimento Socioeducativo, bem como sua operação efetiva.
-                                Parágrafo único. O não cumprimento do previsto neste artigo sujeita as entidades de atendimento, os órgãos gestores, seus dirigentes ou prepostos à aplicação das medidas previstas no art. 97 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).
-                            </p>
-                        </div>
-
                         <p class="wow fadeIn" data-wow-delay="0.3s">
-                            Quanto à inscrição das entidades de atendimento, incluindo aqueles disponíveis para o cumprimento da medida de prestação de serviços à comunidade, é necessário destacar o que afirma o Art. 90 e 91 da mesma Lei.
+                        </strong>O Art.11º da mesma Lei afirma que...</strong><br><br>
+
+                            Além da especificação do regime, são requisitos obrigatórios para a inscrição de programa de atendimento (no Conselho de Direitos):<br><br>
+
+                            I. a exposição das linhas gerais dos métodos e técnicas pedagógicas, com a especificação das atividades de natureza coletiva;<br><br>
+                            II. a indicação da estrutura material, dos recursos humanos e das estratégias de segurança compatíveis com as necessidades da respectiva unidade;<br><br>
+                            III. regimento interno que regule o funcionamento da entidade, no qual deverá constar, no mínimo:<br><br>
+                            a) o detalhamento das atribuições e responsabilidades do dirigente, de seus prepostos, dos membros da equipe técnica e dos demais educadores;<br><br>
+                            b) a previsão das condições do exercício da disciplina e concessão de benefícios e o respectivo procedimento de aplicação; e<br><br>
+                            c) a previsão da concessão de benefícios extraordinários e enaltecimento, tendo em vista tornar público o reconhecimento ao adolescente pelo esforço realizado na consecução dos objetivos do plano individual;<br><br>
+                            IV - a política de formação dos recursos humanos;<br><br>
+                            V - a previsão das ações de acompanhamento do adolescente após o cumprimento de medida socioeducativa;<br><br>
+                            VI - a indicação da equipe técnica, cuja quantidade e formação devem estar em conformidade com as normas de referência do sistema e dos conselhos profissionais e com o atendimento socioeducativo a ser realizado; e<br><br>
+                            VII - a adesão ao Sistema de Informações sobre o Atendimento Socioeducativo, bem como sua operação efetiva.<br><br>
+                            Parágrafo único. O não cumprimento do previsto neste artigo sujeita as entidades de atendimento, os órgãos gestores, seus dirigentes ou prepostos à aplicação das medidas previstas no art. 97 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).
                         </p>
 
-                        <div class="content_box_padrao">
-                            <p class="wow fadeIn" data-wow-delay="0.3s">
-                                Art. 90 - As entidades de atendimento são responsáveis pela manutenção das próprias unidades, assim como pelo planejamento e execução de programas de proteção e socioeducativos destinados a crianças e adolescentes, em regime de:
-                                <br><br>
-                                [...]
-                                II - apoio sócio-educativo em meio aberto;
-                                [...]
-                                § 1º As entidades governamentais e não governamentais deverão proceder à inscrição de seus programas, especificando os regimes de atendimento, na forma definida neste artigo, no Conselho Municipal dos Direitos da Criança e do Adolescente, o qual manterá registro das inscrições e de suas alterações, do que fará comunicação ao Conselho Tutelar e à autoridade judiciária.
-                                § 3º Os programas em execução serão reavaliados pelo Conselho Municipal dos Direitos da Criança e do Adolescente, no máximo, a cada 2 (dois) anos, constituindo-se critérios para renovação da autorização de funcionamento:
-                                <br><br>
-                                I - o efetivo respeito às regras e princípios desta Lei, bem como às resoluções relativas à modalidade de atendimento prestado expedidas pelos Conselhos de Direitos da Criança e do Adolescente, em todos os níveis;
-                                II - a qualidade e eficiência do trabalho desenvolvido, atestadas pelo Conselho Tutelar, pelo Ministério Público e pela Justiça da Infância e da Juventude;
-                                <br><br>
-                                [...]
+                        <p class="wow fadeIn" data-wow-delay="0.3s">
+                            <strong>
+                            Quanto à inscrição das entidades de atendimento, incluindo aqueles disponíveis para o cumprimento da medida de prestação de serviços à comunidade, é necessário destacar o que afirma o Art. 90 e 91 da mesma Lei.</strong>
+                        </p>
 
-                            </p>
-                        </div>
+                        <p class="wow fadeIn" data-wow-delay="0.3s">
+                            Art. 90 - As entidades de atendimento são responsáveis pela manutenção das próprias unidades, assim como pelo planejamento e execução de programas de proteção e socioeducativos destinados a crianças e adolescentes, em regime de:
+                            <br><br>
+                            [...]
+                            II - apoio sócio-educativo em meio aberto;
+                            [...]
+                            § 1º As entidades governamentais e não governamentais deverão proceder à inscrição de seus programas, especificando os regimes de atendimento, na forma definida neste artigo, no Conselho Municipal dos Direitos da Criança e do Adolescente, o qual manterá registro das inscrições e de suas alterações, do que fará comunicação ao Conselho Tutelar e à autoridade judiciária.
+                            § 3º Os programas em execução serão reavaliados pelo Conselho Municipal dos Direitos da Criança e do Adolescente, no máximo, a cada 2 (dois) anos, constituindo-se critérios para renovação da autorização de funcionamento:
+                            <br><br>
+                            I - o efetivo respeito às regras e princípios desta Lei, bem como às resoluções relativas à modalidade de atendimento prestado expedidas pelos Conselhos de Direitos da Criança e do Adolescente, em todos os níveis;
+                            II - a qualidade e eficiência do trabalho desenvolvido, atestadas pelo Conselho Tutelar, pelo Ministério Público e pela Justiça da Infância e da Juventude;
+                            <br><br>
+                            [...]
+                            <br><br>
+                            Art. 91 - As entidades não-governamentais somente poderão funcionar depois de registradas no Conselho Municipal dos Direitos da Criança e do Adolescente, o qual comunicará o registro ao Conselho Tutelar e à autoridade judiciária da respectiva localidade.
+                        </p>
+
 
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">Projeto Político Pedagógico – PPP</h4>
@@ -869,6 +856,10 @@ include('layout/header.php');
                             </p>
                         </div>
 
+                        <p style="font-size: 15px;">
+                        Fonte: Elaborado pela autora.
+                        </p>
+
                         <p class="wow fadeIn" data-wow-delay="0.3s">
                             Além disso, deve ser pensado, discutido e elaborado pela equipe multidisciplinar/intersetorial e executado por todos os operadores das medidas. Deve abordar o espaço físico, infraestrutura, capacidade de atendimento da Unidade, recursos humanos ações/atividades, referencial teórico-metodológico, recursos financeiros, monitoramento e avaliação.
                         </p>
@@ -895,24 +886,35 @@ include('layout/header.php');
                                 <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Os princípios norteadores da sua proposta;</li>
                                 <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> O entendimento do trabalho que se quer organizar (o que queremos, por quê?);</li>
                                 <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Objetivos (geral e específicos);</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Organização que vai se dar para alcançar estes objetivos, tais como:</li>
+
+                                </ul>
+                        </div>
+
+                        <p>Organização que vai se dar para alcançar estes objetivos, tais como:</p>
+
+                        <div class="wow fadeIn col-sm-12 col-md-12" data-wow-delay="0.3s">
+                            <ol class="card-style list-group list-group-flush">
                                 <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i>
-                                    Modelo de gestão</li>
+                                    Modelo de gestão;</li>
                                 <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i>
-                                    Assembleias</li>
+                                    Assembleias;</li>
                                 <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i>
                                     Equipes e outros;</li>
                                 <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i>
                                     Detalhamento da rotina</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> O organograma</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> O fluxograma</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> O regimento interno</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Regulamento disciplinar</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Reuniões da equipe</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Estudos de caso</li>
+                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> O organograma;</li>
+                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> O fluxograma;</li>
+                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> O regimento interno;</li>
+                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Regulamento disciplinar;</li>
+                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Reuniões da equipe;</li>
+                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Estudos de caso;</li>
                                 <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Elaboração e acompanhamento do PIA.</li>
                                 </ul>
                         </div>
+
+                        <p style="font-size: 15px;">
+                        Fonte: Elaborado pela autora.
+                        </p>
 
                         <!-- CAIXA DE TEXTO FIQUE ATENTO -->
                         <div class="destaques wow fadeIn" data-wow-delay="0.3s">
@@ -992,20 +994,15 @@ include('layout/header.php');
                         </p>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">
-                            <strong>Passos metodológicos:</strong>
+                            <strong>Passos metodológicos</strong>
                         </p>
 
-                        <!-- Lista -->
-                        <div class="wow fadeIn col-sm-12 col-md-12" data-wow-delay="0.3s">
-                            <ol class="card-style list-group list-group-flush">
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Identificar, selecionar, cadastrar, e credenciar entidades (assistenciais, de saúde, de educação ou outros estabelecimentos congêneres, bem como programas governamentais ou não governamentais);</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Realização de reunião de sensibilização ou mobilização da sociedade para a apresentação do Serviço/Programa;</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Realizar visitas institucionais;</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Orientar as entidades governamentais e não governamentais da rede de proteção, a solicitarem suas inscrições no Conselho Municipal dos Direitos da Criança e do Adolescente -CMDCA, para o recebimento e acompanhamento de jovens em cumprimento de Prestação de Serviço à Comunidade – PSC;</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Especificar que as tarefas serão atribuídas conforme as aptidões do adolescente;</li>
-                                <li class="list-group-item"><i class="seta bi bi-arrow-right-short"></i> Reafirmar que a jornada máxima é de oito horas semanais, podendo ser aos sábados, domingos e feriados ou em dias úteis, de modo a não prejudicar a frequência à escola ou à jornada normal de trabalho (BRASIL, 1990).</li>
-                                </ul>
-                        </div>
+                        <p>⭢ Identificar, selecionar, cadastrar, e credenciar entidades (assistenciais, de saúde, de educação ou outros estabelecimentos congêneres, bem como programas governamentais ou não governamentais);</p>
+                        <p>⭢ Realização de reunião de sensibilização ou mobilização da sociedade para a apresentação do Serviço/Programa;</p>
+                        <p>⭢ Realizar visitas institucionais;</p>
+                        <p>⭢ Orientar as entidades governamentais e não governamentais da rede de proteção, a solicitarem suas inscrições no Conselho Municipal dos Direitos da Criança e do Adolescente -CMDCA, para o recebimento e acompanhamento de jovens em cumprimento de Prestação de Serviço à Comunidade – PSC;</p>
+                        <p>⭢ Especificar que as tarefas serão atribuídas conforme as aptidões do adolescente;</p>
+                        <p>⭢ Reafirmar que a jornada máxima é de oito horas semanais, podendo ser aos sábados, domingos e feriados ou em dias úteis, de modo a não prejudicar a frequência à escola ou à jornada normal de trabalho (BRASIL, 1990).</p>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">
                             O Art. 14 da Lei nº 12.594/2012, estabelece que cabe ao Programa municipal responsável pelos serviços de MSE, ou seja, as equipes do SUAS, realizar o credenciamento das instituições parceiras com a validação posterior do Sistema de Justiça.

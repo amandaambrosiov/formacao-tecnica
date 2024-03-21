@@ -29,8 +29,8 @@ include('layout/header.php');
 
                         
                             <p class="wow fadeIn" data-wow-delay="0.3s">
-                                <strong>O que é?</strong>
-                                <br><br>
+                                <strong>O que é?</strong><br>
+                                
                                 Prevista no Art. 117 do ECA, a PSC se configura como a execução de tarefas gratuitas de interesse geral, conforme aptidões do adolescente, sem prejudicar a frequência à escola ou à jornada normal de trabalho.
                             </p>
                         
@@ -48,12 +48,12 @@ include('layout/header.php');
 
                         
                             <p class="wow fadeIn" data-wow-delay="0.3s">
-                                <strong>Quanto tempo?</strong>
-                                <br><br>
+                                <strong>Quanto tempo?</strong><br>
+                                
                                 No máximo por 06 meses, com jornada máxima de 08 horas semanais, sem prejuízo da escola ou do trabalho. Pode ocorrer em dias úteis ou aos finais de semana.
                                 <br><br>
-                                <strong>Onde?</strong>
-                                <br><br>
+                                <strong>Onde?</strong><br>
+                                
                                 Em entidades assistenciais, hospitais, escolas e outros estabelecimentos similares, bem como em programas comunitários ou governamentais.
                             </p>
                         
@@ -82,8 +82,8 @@ include('layout/header.php');
 
                         
                             <p class="wow fadeIn" data-wow-delay="0.3s">
-                                Quais as instituições parceiras/entidades?
-                                <br><br>
+                                <strong>Quais as instituições parceiras/entidades?</strong><br>
+                                
                                 Unidades do poder público (escolas, postos de saúde, unidades da assistência social) como as da sociedade civil (projetos sociais, entidades beneficentes ou movimentos sociais) que prestem serviços relevantes à sociedade.
                             </p>
                         
@@ -122,7 +122,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura14.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -131,9 +131,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura14.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -152,7 +150,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura15.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -161,9 +159,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura15.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -228,7 +224,7 @@ include('layout/header.php');
 
                         
                             <p class="wow fadeIn" data-wow-delay="0.3s">
-                                <strong>O que é?</strong><br><br>
+                                <strong>O que é?</strong><br>
 
                                 Prevista no Art. 118 do ECA é uma medida de caráter pedagógico, fundamentada na proteção integral do adolescente e sua família. Orientando no acesso aos seus direitos e desenvolvendo trabalho técnico com o objetivo de romper com a dinâmica infracional, para a responsabilização diante das consequências do ato infracional e o desenvolvimento de suas potencialidades.
                             </p>
@@ -247,11 +243,11 @@ include('layout/header.php');
 
                         
                             <p class="wow fadeIn" data-wow-delay="0.3s">
-                                <strong>Qual objetivo?</strong><br><br>
+                                <strong>Qual objetivo?</strong><br>
 
                                 Estabelecer um processo de acompanhamento, auxílio e orientação ao adolescente. <br><br>
 
-                                <strong>Quanto tempo?</strong> <br><br>
+                                <strong>Quanto tempo?</strong> <br>
 
                                 Será fixada pelo prazo mínimo de seis meses, podendo a qualquer tempo ser prorrogada, revogada ou substituída por outra medida, ouvido o orientador, o Ministério Público e o Defensor.
 

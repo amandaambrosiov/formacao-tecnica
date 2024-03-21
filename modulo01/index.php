@@ -36,7 +36,7 @@ include('layout/header.php');
                             <!-- Apresentação -->
                             <div>
                                 <p class="texto_dark apresentacao_texto wow zoomIn" data-wow-delay="0.3s">
-                                    <strong>Olá, <?php echo $NomeUsuario ?> bem-vindo ao módulo 01 do curso Formação Técnica para a execução e acompanhamento das Medidas Socioeducativas do Estado do Ceará.</strong> Neste módulo faremos uma explanação sobre a Proteção Social para adolescentes em cumprimento de Medida Socioeducativa, suas previsões legais e o SUAS.
+                                    <strong>Olá, <?php echo $NomeUsuario ?> bem-vindo(a) ao módulo 01 do curso Formação Técnica para a execução e acompanhamento das Medidas Socioeducativas do Estado do Ceará.</strong> Neste módulo faremos uma explanação sobre a Proteção Social para adolescentes em cumprimento de Medida Socioeducativa, suas previsões legais e o SUAS.
                                 </p>
                             </div>
                         </div>

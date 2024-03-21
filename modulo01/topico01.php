@@ -57,7 +57,8 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/figura01.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>FONTE: Socioeducação: Estrutura e Funcionamento da Comunidade Educativa / Coordenação técnica Antônio Carlos Gomes da Costa. --
+Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.</p>
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -67,7 +68,9 @@ include('layout/header.php');
                                             <img class="img-fluid" src="imgs/figura01.png" alt="Radio Bluetooth N80">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            <p class="text-secondary"><strong>Fonte: </strong>FONTE: Socioeducação: Estrutura e Funcionamento da Comunidade Educativa / Coordenação técnica Antônio Carlos Gomes da Costa. --
+Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
+</p>
                                         </div>
                                     </div>
                                 </div>
@@ -134,7 +137,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/figura02.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -143,9 +146,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/figura02.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -187,8 +188,7 @@ include('layout/header.php');
                         <div class="row gap-2 card_dis">
                             <div class="col">
                                 <p class="FonteFigura FonteMenor text-secondary d-flex justify-content-center">
-                                    <strong>Fonte:</strong>
-                                    <a href="https://www.freepik.com/free-vector/flat-illustration-secretary-s-day-celebration_39431981.htm#query=woman%20illustration%20work&position=0&from_view=keyword&track=ais&uuid=597a7d63-6726-430f-9e03-4025b3b9b520" target="_blank" rel="noopener noreferrer">Imagem retirada do Freepik</a>
+                                Fonte: Freepik
                                 </p>
                                 <div class="conteudo-card">
                                     <div class="card">
@@ -217,8 +217,7 @@ include('layout/header.php');
 
                             <div class="col">
                                 <p class="FonteFigura FonteMenor text-secondary d-flex justify-content-center">
-                                    <strong>Fonte:</strong>
-                                    <a href="https://www.freepik.com/free-vector/staycation-backyard_9010394.htm#query=vetor%20homem%20relaxando%20e%20lendo%20na%20praia%20como%20coco&position=36&from_view=search&track=ais&uuid=86ff0c43-879e-4cde-bd58-e5f207d79c18" target="_blank" rel="noopener noreferrer">Imagem retirada do Freepik</a>
+                                    Fonte: Freepik
                                 </p>
 
                                 <div class="conteudo-card">
@@ -448,7 +447,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura03.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -457,9 +456,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura03.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -736,7 +733,8 @@ include('layout/header.php');
                                 </tr>
                             </tbody>
                         </table>
-                        <p class="text-end FonteFigura">Fonte: Elaborado pela autora</p>
+
+                        <p style="font-size: 15px;">Fonte: Elaborado pela autora</p>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">
                             Um bom planejamento, então, presume análise de necessidades, condições existentes, recursos disponíveis e capacidade de exequibilidade, sempre olhando de uma forma proativa, que busque antecipar desafios, uma tomada de decisões embasadas e o direcionamento de esforços condizentes.
@@ -785,8 +783,7 @@ include('layout/header.php');
                         <div class="row gap-2 card_dis">
                             <div class="col">
                                 <p class="FonteFigura FonteMenor text-secondary d-flex justify-content-center">
-                                    <strong>Fonte:</strong>
-                                    <a href="https://www.freepik.com/free-vector/flat-illustration-secretary-s-day-celebration_39431981.htm#query=woman%20illustration%20work&position=0&from_view=keyword&track=ais&uuid=597a7d63-6726-430f-9e03-4025b3b9b520" target="_blank" rel="noopener noreferrer">Imagem retirada do Freepik</a>
+                                    Fonte: Freepik
                                 </p>
                                 <div class="conteudo-card">
                                     <div class="card">
@@ -945,7 +942,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/Figura04.png" alt="Radio Bluetooth N80" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -954,9 +951,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura04.png" alt="Radio Bluetooth N80">
                                         </div>
-                                        <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
-                                        </div>
+                                        
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
