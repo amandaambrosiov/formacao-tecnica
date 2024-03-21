@@ -119,7 +119,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura14.png" data-bs-toggle="modal" data-bs-target="#Imagem14">
-                                            <img class="w-75" src="imgs/Figura14.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura14.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -129,7 +129,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura14.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura14.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -147,7 +147,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura15.png" data-bs-toggle="modal" data-bs-target="#Imagem15">
-                                            <img class="w-75" src="imgs/Figura15.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura15.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -157,7 +157,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem15" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura15.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura15.png" alt="">
                                         </div>
                                         
                                     </div>

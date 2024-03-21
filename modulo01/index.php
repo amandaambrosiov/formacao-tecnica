@@ -29,7 +29,7 @@ include('layout/header.php');
                         <div class="apresentacao_inicial">
 
                             <div class="img_resp wow zoomIn" data-wow-delay="0.3s">
-                                <img src="imgs/apresentacao04.png" style="width: 13rem;" alt="">
+                                <img src="imgs/apresentacao04.png" style="width: 13rem;" alt="Mulher apontando para direita.">
                                 <p class="apresentacao_descricao">Fonte: Imagem retirada do Freepik</p>
                             </div>
 

@@ -54,10 +54,10 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem1">
-                                            <img class="w-75" src="imgs/figura01.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/figura01.png" alt="" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>FONTE: Socioeducação: Estrutura e Funcionamento da Comunidade Educativa / Coordenação técnica Antônio Carlos Gomes da Costa. --
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Socioeducação: Estrutura e Funcionamento da Comunidade Educativa / Coordenação técnica Antônio Carlos Gomes da Costa. --
 Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.</p>
                                 </div>
 
@@ -65,10 +65,10 @@ Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.</p>
                                 <div class="modal fade text-center" id="Imagem1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/figura01.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/figura01.png" alt="">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>FONTE: Socioeducação: Estrutura e Funcionamento da Comunidade Educativa / Coordenação técnica Antônio Carlos Gomes da Costa. --
+                                            <p class="text-secondary"><strong>Fonte: </strong>Socioeducação: Estrutura e Funcionamento da Comunidade Educativa / Coordenação técnica Antônio Carlos Gomes da Costa. --
 Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
 </p>
                                         </div>
@@ -134,7 +134,7 @@ Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/figura02.png" data-bs-toggle="modal" data-bs-target="#Imagem02">
-                                            <img class="w-75" src="imgs/figura02.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/figura02.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -144,7 +144,7 @@ Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
                                 <div class="modal fade text-center" id="Imagem02" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/figura02.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/figura02.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -444,7 +444,7 @@ Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura03.png" data-bs-toggle="modal" data-bs-target="#imagem03">
-                                            <img class="w-75" src="imgs/Figura03.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura03.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -454,7 +454,7 @@ Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
                                 <div class="modal fade text-center" id="imagem03" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura03.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura03.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -939,7 +939,7 @@ Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/figura04.png" data-bs-toggle="modal" data-bs-target="#Imagem4">
-                                            <img class="w-75" src="imgs/Figura04.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura04.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -949,7 +949,7 @@ Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
                                 <div class="modal fade text-center" id="Imagem4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura04.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura04.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -984,20 +984,20 @@ Brasília : Secretaria Especial dos Direitos Humanos, 2006. 23 p.
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura05.png" data-bs-toggle="modal" data-bs-target="#ImageM5">
-                                            <img class="w-75" src="imgs/Figura05.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura05.png" alt="" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autora.</p>
                                 </div>
 
                                 <!-- Imagem - MODAL-->
                                 <div class="modal fade text-center" id="ImageM5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura05.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura05.png" alt="">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            <p class="text-secondary"><strong>Fonte: </strong>Autora.</p>
                                         </div>
                                     </div>
                                 </div>

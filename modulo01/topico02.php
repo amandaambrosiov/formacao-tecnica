@@ -140,43 +140,43 @@ include('layout/header.php');
                                         <div class="content">
                                             <div class="desc">
                                                 <div>
-                                                    <p> ⭢ Inserção de ações voltadas para o atendimento escolar, no âmbito do SINASE, nos Planos Municipais, Estaduais e Distrital de Educação;</p>
+                                                    <p> <i class="seta bi bi-arrow-right-short"></i> Inserção de ações voltadas para o atendimento escolar, no âmbito do SINASE, nos Planos Municipais, Estaduais e Distrital de Educação;</p>
                                                     <p>
-                                                    ⭢ Implementação de políticas, programas, projetos e ações educacionais para a qualificação da oferta de escolarização, no âmbito do SINASE, contemplando as diferentes modalidades e etapas do atendimento socioeducativo;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Implementação de políticas, programas, projetos e ações educacionais para a qualificação da oferta de escolarização, no âmbito do SINASE, contemplando as diferentes modalidades e etapas do atendimento socioeducativo;
                                                     </p>
                                                     <p>
-                                                    ⭢ Integração dos diferentes sistemas de informação para identificação da matrícula, acompanhamento da frequência e do rendimento escolar de adolescentes e jovens em atendimento socioeducativo;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Integração dos diferentes sistemas de informação para identificação da matrícula, acompanhamento da frequência e do rendimento escolar de adolescentes e jovens em atendimento socioeducativo;
                                                     </p>
                                                     <p>
-                                                    ⭢ O aperfeiçoamento e a adequação qualificada e contínua do censo escolar para atendimento às especificidades educacionais de adolescentes e jovens em cumprimento de medidas socioeducativas;
+                                                    <i class="seta bi bi-arrow-right-short"></i> O aperfeiçoamento e a adequação qualificada e contínua do censo escolar para atendimento às especificidades educacionais de adolescentes e jovens em cumprimento de medidas socioeducativas;
                                                     </p>
                                                     <p>
-                                                    ⭢ Promoção da participação de adolescentes e jovens em atendimento socioeducativo em exames de larga escala, nacionais e locais, em especial aqueles voltados à produção de indicadores educacionais, à certificação e ao acesso à Educação Superior;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Promoção da participação de adolescentes e jovens em atendimento socioeducativo em exames de larga escala, nacionais e locais, em especial aqueles voltados à produção de indicadores educacionais, à certificação e ao acesso à Educação Superior;
                                                     </p>
                                                     <p>
-                                                    ⭢ Promoção de parcerias com instituições de Educação Superior para o desenvolvimento de ações de pesquisa e extensão que contribuam para a criação, implementação e fortalecimento de políticas públicas educacionais no âmbito do SINASE;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Promoção de parcerias com instituições de Educação Superior para o desenvolvimento de ações de pesquisa e extensão que contribuam para a criação, implementação e fortalecimento de políticas públicas educacionais no âmbito do SINASE;
                                                     </p>
                                                     <p>
-                                                    ⭢ Implementação de políticas, programas, projetos e ações educacionais, por meio de parcerias com instituições públicas de Educação Profissional e Tecnológica, com os serviços nacionais de aprendizagem e outras entidades sociais para a inserção de adolescentes e jovens do sistema socioeducativo ou de seus egressos, como aprendizes e estagiários do Ensino Médio ou da Educação Superior, em órgãos da administração pública direta ou indireta e da iniciativa privada.
+                                                    <i class="seta bi bi-arrow-right-short"></i> Implementação de políticas, programas, projetos e ações educacionais, por meio de parcerias com instituições públicas de Educação Profissional e Tecnológica, com os serviços nacionais de aprendizagem e outras entidades sociais para a inserção de adolescentes e jovens do sistema socioeducativo ou de seus egressos, como aprendizes e estagiários do Ensino Médio ou da Educação Superior, em órgãos da administração pública direta ou indireta e da iniciativa privada.
                                                     </p>
-                                                    <p>⭢ Inserção de ações voltadas para o atendimento escolar, no âmbito do SINASE, nos Planos Municipais, Estaduais e Distrital de Educação;</p>
+                                                    <p><i class="seta bi bi-arrow-right-short"></i> Inserção de ações voltadas para o atendimento escolar, no âmbito do SINASE, nos Planos Municipais, Estaduais e Distrital de Educação;</p>
                                                     <p>
-                                                    ⭢ Implementação de políticas, programas, projetos e ações educacionais para a qualificação da oferta de escolarização, no âmbito do SINASE, contemplando as diferentes modalidades e etapas do atendimento socioeducativo;
-                                                    </p>
-                                                    <p>
-                                                    ⭢ Integração dos diferentes sistemas de informação para identificação da matrícula, acompanhamento da frequência e do rendimento escolar de adolescentes e jovens em atendimento socioeducativo;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Implementação de políticas, programas, projetos e ações educacionais para a qualificação da oferta de escolarização, no âmbito do SINASE, contemplando as diferentes modalidades e etapas do atendimento socioeducativo;
                                                     </p>
                                                     <p>
-                                                    ⭢ O aperfeiçoamento e a adequação qualificada e contínua do censo escolar para atendimento às especificidades educacionais de adolescentes e jovens em cumprimento de medidas socioeducativas;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Integração dos diferentes sistemas de informação para identificação da matrícula, acompanhamento da frequência e do rendimento escolar de adolescentes e jovens em atendimento socioeducativo;
                                                     </p>
                                                     <p>
-                                                    ⭢ Promoção da participação de adolescentes e jovens em atendimento socioeducativo em exames de larga escala, nacionais e locais, em especial aqueles voltados à produção de indicadores educacionais, à certificação e ao acesso à Educação Superior;
+                                                    <i class="seta bi bi-arrow-right-short"></i> O aperfeiçoamento e a adequação qualificada e contínua do censo escolar para atendimento às especificidades educacionais de adolescentes e jovens em cumprimento de medidas socioeducativas;
                                                     </p>
                                                     <p>
-                                                    ⭢ Promoção de parcerias com instituições de Educação Superior para o desenvolvimento de ações de pesquisa e extensão que contribuam para a criação, implementação e fortalecimento de políticas públicas educacionais no âmbito do SINASE;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Promoção da participação de adolescentes e jovens em atendimento socioeducativo em exames de larga escala, nacionais e locais, em especial aqueles voltados à produção de indicadores educacionais, à certificação e ao acesso à Educação Superior;
                                                     </p>
                                                     <p>
-                                                    ⭢ Implementação de políticas, programas, projetos e ações educacionais, por meio de parcerias com instituições públicas de Educação Profissional e Tecnológica, com os serviços nacionais de aprendizagem e outras entidades sociais para a inserção de adolescentes e jovens do sistema socioeducativo ou de seus egressos, como aprendizes e estagiários do Ensino Médio ou da Educação Superior, em órgãos da administração pública direta ou indireta e da iniciativa privada.
+                                                    <i class="seta bi bi-arrow-right-short"></i> Promoção de parcerias com instituições de Educação Superior para o desenvolvimento de ações de pesquisa e extensão que contribuam para a criação, implementação e fortalecimento de políticas públicas educacionais no âmbito do SINASE;
+                                                    </p>
+                                                    <p>
+                                                    <i class="seta bi bi-arrow-right-short"></i> Implementação de políticas, programas, projetos e ações educacionais, por meio de parcerias com instituições públicas de Educação Profissional e Tecnológica, com os serviços nacionais de aprendizagem e outras entidades sociais para a inserção de adolescentes e jovens do sistema socioeducativo ou de seus egressos, como aprendizes e estagiários do Ensino Médio ou da Educação Superior, em órgãos da administração pública direta ou indireta e da iniciativa privada.
                                                     </p>
                                                 </div>
                                             </div>
@@ -214,25 +214,25 @@ include('layout/header.php');
                                         <img src="imgs/figuraextra05.jpg" class="img" alt="">
                                         <div class="content">
                                             <div class="desc">
-                                                <p>⭢ Definir, no âmbito de sua administração, instância gestora responsável pela implementação e acompanhamento da escolarização de adolescentes e jovens em cumprimento de medidas socioeducativas e dos egressos;
+                                                <p><i class="seta bi bi-arrow-right-short"></i> Definir, no âmbito de sua administração, instância gestora responsável pela implementação e acompanhamento da escolarização de adolescentes e jovens em cumprimento de medidas socioeducativas e dos egressos;
                                                     <br><br>
-                                                    ⭢ Formalizar instrumentos para a cooperação técnica com outros órgãos setoriais para a efetivação de políticas no âmbito do SINASE;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Formalizar instrumentos para a cooperação técnica com outros órgãos setoriais para a efetivação de políticas no âmbito do SINASE;
                                                     <br><br>
-                                                    ⭢ Participar dos espaços políticos institucionais responsáveis pela definição das políticas e acompanhamento do SINASE;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Participar dos espaços políticos institucionais responsáveis pela definição das políticas e acompanhamento do SINASE;
                                                     <br><br>
-                                                    ⭢ Observar os parâmetros definidos pelos sistemas de ensino e pelo SINASE ligados ao campo educacional;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Observar os parâmetros definidos pelos sistemas de ensino e pelo SINASE ligados ao campo educacional;
                                                     <br><br>
-                                                    ⭢ Manter interlocução constante entre a escola e os programas de atendimento socioeducativo;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Manter interlocução constante entre a escola e os programas de atendimento socioeducativo;
                                                     <br><br>
-                                                    ⭢ Disponibilizar, a qualquer tempo e sempre que necessário, documentação escolar de adolescentes e jovens, em especial para subsidiar a definição da medida e a construção do Plano Individual de Atendimento;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Disponibilizar, a qualquer tempo e sempre que necessário, documentação escolar de adolescentes e jovens, em especial para subsidiar a definição da medida e a construção do Plano Individual de Atendimento;
                                                     <br><br>
-                                                    ⭢ Fortalecer a participação dos profissionais da educação na elaboração e acompanhamento do Plano Individual de Atendimento;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Fortalecer a participação dos profissionais da educação na elaboração e acompanhamento do Plano Individual de Atendimento;
                                                     <br><br>
-                                                    ⭢ Articular organizações, serviços, programas e projetos disponíveis no território que potencializem e complementem as experiências educacionais em curso;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Articular organizações, serviços, programas e projetos disponíveis no território que potencializem e complementem as experiências educacionais em curso;
                                                     <br><br>
-                                                    ⭢ Manter compromisso com a garantia do sigilo, conservando dados referentes à situação do adolescente ou jovem em atendimento socioeducativo restritos àqueles profissionais a quem tal informação seja indispensável;
+                                                    <i class="seta bi bi-arrow-right-short"></i> Manter compromisso com a garantia do sigilo, conservando dados referentes à situação do adolescente ou jovem em atendimento socioeducativo restritos àqueles profissionais a quem tal informação seja indispensável;
                                                     <br><br>
-                                                    ⭢ Articular o Plano Individual de Atendimento, com as ações desenvolvidas nas unidades escolares, com o projeto institucional e com o projeto político-pedagógico da unidade socioeducativa.
+                                                    <i class="seta bi bi-arrow-right-short"></i> Articular o Plano Individual de Atendimento, com as ações desenvolvidas nas unidades escolares, com o projeto institucional e com o projeto político-pedagógico da unidade socioeducativa.
                                                 </p>
                                             </div>
                                         </div>
@@ -387,23 +387,23 @@ include('layout/header.php');
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                ⭢ Garantir e promover a atenção integral à saúde de adolescentes em cumprimento de medida socioeducativa;
+                                <i class="seta bi bi-arrow-right-short"></i> Garantir e promover a atenção integral à saúde de adolescentes em cumprimento de medida socioeducativa;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                ⭢ Organizar os serviços de saúde dentro dos princípios do SUS e do SINASE;
+                                <i class="seta bi bi-arrow-right-short"></i> Organizar os serviços de saúde dentro dos princípios do SUS e do SINASE;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                ⭢ Desenvolver ações de promoção da saúde, prevenção de agravos e doenças e recuperação da saúde;
+                                <i class="seta bi bi-arrow-right-short"></i> Desenvolver ações de promoção da saúde, prevenção de agravos e doenças e recuperação da saúde;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                ⭢ Cumprir a Constituição Federal, a Lei Orgânica da Saúde e o ECA;
+                                <i class="seta bi bi-arrow-right-short"></i> Cumprir a Constituição Federal, a Lei Orgânica da Saúde e o ECA;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                ⭢ Cumprir o princípio da INCOMPLETUDE INSTITUCIONAL.
+                                <i class="seta bi bi-arrow-right-short"></i> Cumprir o princípio da INCOMPLETUDE INSTITUCIONAL.
                                 </p>
 
                                 <!-- CAIXA DE TEXTO FIQUE ATENTO -->
@@ -428,7 +428,7 @@ include('layout/header.php');
                                             </p>
                                             <div class="zoom">
                                                 <a href="imgs/Figura06.png" data-bs-toggle="modal" data-bs-target="#Imagem6">
-                                                    <img class="w-75" src="imgs/Figura06.png" alt="Radio Bluetooth N80" id="img-1">
+                                                    <img class="w-75" src="imgs/Figura06.png" alt="" id="img-1">
                                                 </a>
                                             </div>
                                             <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
@@ -438,7 +438,7 @@ include('layout/header.php');
                                         <div class="modal fade text-center" id="Imagem6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                 <div class="modal-content w-75">
-                                                    <img class="img-fluid" src="imgs/Figura06.png" alt="Radio Bluetooth N80">
+                                                    <img class="img-fluid" src="imgs/Figura06.png" alt="">
                                                 </div>
                                                 <div class="modal-footer w-75 bg-light justify-content-center">
                                                     <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
@@ -474,7 +474,7 @@ include('layout/header.php');
                                             </p>
                                             <div class="zoom">
                                                 <a href="imgs/Figura07.png" data-bs-toggle="modal" data-bs-target="#Imagem7">
-                                                    <img class="w-75" src="imgs/Figura07.png" alt="Radio Bluetooth N80" id="img-1">
+                                                    <img class="w-75" src="imgs/Figura07.png" alt="" id="img-1">
                                                 </a>
                                             </div>
                                             
@@ -484,7 +484,7 @@ include('layout/header.php');
                                         <div class="modal fade text-center" id="Imagem7" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                 <div class="modal-content w-75">
-                                                    <img class="img-fluid" src="imgs/Figura07.png" alt="Radio Bluetooth N80">
+                                                    <img class="img-fluid" src="imgs/Figura07.png" alt="">
                                                 </div>
                                                 
                                             </div>
@@ -500,7 +500,7 @@ include('layout/header.php');
                                             </p>
                                             <div class="zoom">
                                                 <a href="imgs/Figura08.png" data-bs-toggle="modal" data-bs-target="#Imagem8">
-                                                    <img class="w-75" src="imgs/Figura08.png" alt="Radio Bluetooth N80" id="img-1">
+                                                    <img class="w-75" src="imgs/Figura08.png" alt="" id="img-1">
                                                 </a>
                                             </div>
                                             
@@ -510,7 +510,7 @@ include('layout/header.php');
                                         <div class="modal fade text-center" id="Imagem8" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                 <div class="modal-content w-75">
-                                                    <img class="img-fluid" src="imgs/Figura08.png" alt="Radio Bluetooth N80">
+                                                    <img class="img-fluid" src="imgs/Figura08.png" alt="">
                                                 </div>
                                                 
                                             </div>
@@ -527,7 +527,7 @@ include('layout/header.php');
                                             </p>
                                             <div class="zoom">
                                                 <a href="imgs/Figura09.png" data-bs-toggle="modal" data-bs-target="#Imagem09">
-                                                    <img class="w-75" src="imgs/Figura09.png" alt="Radio Bluetooth N80" id="img-1">
+                                                    <img class="w-75" src="imgs/Figura09.png" alt="" id="img-1">
                                                 </a>
                                             </div>
                                             
@@ -537,7 +537,7 @@ include('layout/header.php');
                                         <div class="modal fade text-center" id="Imagem09" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                 <div class="modal-content w-75">
-                                                    <img class="img-fluid" src="imgs/Figura09.png" alt="Radio Bluetooth N80">
+                                                    <img class="img-fluid" src="imgs/Figura09.png" alt="">
                                                 </div>
                                                 
                                             </div>
@@ -553,7 +553,7 @@ include('layout/header.php');
                                             </p>
                                             <div class="zoom">
                                                 <a href="imgs/Figura10.png" data-bs-toggle="modal" data-bs-target="#Imagem10">
-                                                    <img class="w-75" src="imgs/Figura10.png" alt="Radio Bluetooth N80" id="img-1">
+                                                    <img class="w-75" src="imgs/Figura10.png" alt="" id="img-1">
                                                 </a>
                                             </div>
                                             
@@ -563,7 +563,7 @@ include('layout/header.php');
                                         <div class="modal fade text-center" id="Imagem10" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                 <div class="modal-content w-75">
-                                                    <img class="img-fluid" src="imgs/Figura10.png" alt="Radio Bluetooth N80">
+                                                    <img class="img-fluid" src="imgs/Figura10.png" alt="">
                                                 </div>
                                                 
                                             </div>
@@ -580,17 +580,17 @@ include('layout/header.php');
                                     A seguir, relacionaremos as principais atribuições do SUS com relação ao atendimento dos adolescentes em cumprimento de medidas socioeducativas:
                                 </p><br>
 
-                                <p>⭢ Elaboração de estratégias de sensibilização de gestores e profissionais dos serviços de saúde para ampliar o acesso dessa população à rede de saúde.</p>
-                                <p>⭢ Garantir a utilização do código 03.01.01.029-3 no atendimento da APS a adolescentes em cumprimento de MSE, conforme Portaria nº 493/2020.</p>
-                                <p>⭢ Atendimento individual ou coletivo aos adolescentes na unidade do SUAS ou do SUS com a possibilidade de realização de grupos.</p>
-                                <p>⭢ Atualização da cobertura vacinal aos adolescentes atendidos.</p>
-                                <p>⭢ Inserção dos adolescentes, que cumprem MSE em meio aberto, em ações de prevenção em geral: saúde bucal, crescimento e desenvolvimento, uso de substâncias psicoativas ou outras disponíveis na rede de saúde local ou que se fizerem necessárias de acordo com a demanda.</p>
-                                <p>⭢ A não-aderência a tratamentos de saúde não pode ser considerada como descumprimento de medida.</p>
-                                <p>⭢ Acompanhamento das famílias dos adolescentes por meio da Estratégia de Saúde da Família (ESF) nos territórios em articulação com o atendimento ao adolescente.</p>
-                                <p>⭢ Acesso irrestrito a tratamento de saúde, inclusive odontológico, com realização de exames laboratoriais, prescrição de medicações, realização de testes rápidos e demais coberturas do SUS sem quaisquer tipos de preconceitos ou discriminações pela condição de socioeducando do adolescente.</p>
-                                <p>⭢ Atendimento dos egressos em tempo oportuno, e pelo período que se fizer necessário, sem interrupção dos cuidados em decorrência da extinção da medida.</p>
-                                <p>⭢ Continuidade imediata do acompanhamento terapêutico iniciado nas unidades de internação e semiliberdade para adolescentes que tiveram a medida substituída por LA e/ou PSC preservando os plano terapêutico singulares (PTS) junto às unidades de saúde de referência dos municípios (as unidades do meio fechado já devem articular-se com a gestão da PNAISARI ou saúde local em tempo hábil antes da saída do adolescente). O mesmo vale para os adolescentes que migram do meio aberto para o meio fechado.</p>
-                                <p>⭢ O descumprimento da medida por qualquer motivo não enseja interrupção ou negação de atendimento por parte do SUS, este, no entanto, deve mobilizar o adolescente a regularizar sua situação junto aos serviços do SUAS e ao Sistema de Justiça.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Elaboração de estratégias de sensibilização de gestores e profissionais dos serviços de saúde para ampliar o acesso dessa população à rede de saúde.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Garantir a utilização do código 03.01.01.029-3 no atendimento da APS a adolescentes em cumprimento de MSE, conforme Portaria nº 493/2020.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Atendimento individual ou coletivo aos adolescentes na unidade do SUAS ou do SUS com a possibilidade de realização de grupos.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Atualização da cobertura vacinal aos adolescentes atendidos.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Inserção dos adolescentes, que cumprem MSE em meio aberto, em ações de prevenção em geral: saúde bucal, crescimento e desenvolvimento, uso de substâncias psicoativas ou outras disponíveis na rede de saúde local ou que se fizerem necessárias de acordo com a demanda.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> A não-aderência a tratamentos de saúde não pode ser considerada como descumprimento de medida.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Acompanhamento das famílias dos adolescentes por meio da Estratégia de Saúde da Família (ESF) nos territórios em articulação com o atendimento ao adolescente.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Acesso irrestrito a tratamento de saúde, inclusive odontológico, com realização de exames laboratoriais, prescrição de medicações, realização de testes rápidos e demais coberturas do SUS sem quaisquer tipos de preconceitos ou discriminações pela condição de socioeducando do adolescente.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Atendimento dos egressos em tempo oportuno, e pelo período que se fizer necessário, sem interrupção dos cuidados em decorrência da extinção da medida.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> Continuidade imediata do acompanhamento terapêutico iniciado nas unidades de internação e semiliberdade para adolescentes que tiveram a medida substituída por LA e/ou PSC preservando os plano terapêutico singulares (PTS) junto às unidades de saúde de referência dos municípios (as unidades do meio fechado já devem articular-se com a gestão da PNAISARI ou saúde local em tempo hábil antes da saída do adolescente). O mesmo vale para os adolescentes que migram do meio aberto para o meio fechado.</p>
+                                <p><i class="seta bi bi-arrow-right-short"></i> O descumprimento da medida por qualquer motivo não enseja interrupção ou negação de atendimento por parte do SUS, este, no entanto, deve mobilizar o adolescente a regularizar sua situação junto aos serviços do SUAS e ao Sistema de Justiça.</p>
 
                                 <!-- Subtopico -->
                                 <h3 class="Subtopico" id="item3">Assistência Social</h3>
@@ -668,7 +668,7 @@ include('layout/header.php');
                                             </p>
                                             <div class="zoom">
                                                 <a href="imgs/Figura11.png" data-bs-toggle="modal" data-bs-target="#Imagem11">
-                                                    <img class="w-75" src="imgs/Figura11.png" alt="Radio Bluetooth N80" id="img-1">
+                                                    <img class="w-75" src="imgs/Figura11.png" alt="" id="img-1">
                                                 </a>
                                             </div>
                                             
@@ -678,7 +678,7 @@ include('layout/header.php');
                                         <div class="modal fade text-center" id="Imagem11" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                 <div class="modal-content w-75">
-                                                    <img class="img-fluid" src="imgs/Figura11.png" alt="Radio Bluetooth N80">
+                                                    <img class="img-fluid" src="imgs/Figura11.png" alt="">
                                                 </div>
                                                 
                                             </div>
@@ -695,7 +695,7 @@ include('layout/header.php');
                                             </p>
                                             <div class="zoom">
                                                 <a href="imgs/Figura12.png" data-bs-toggle="modal" data-bs-target="#Imagem12">
-                                                    <img class="w-75" src="imgs/Figura12.png" alt="Radio Bluetooth N80" id="img-1">
+                                                    <img class="w-75" src="imgs/Figura12.png" alt="" id="img-1">
                                                 </a>
                                             </div>
                                             
@@ -705,7 +705,7 @@ include('layout/header.php');
                                         <div class="modal fade text-center" id="Imagem12" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                 <div class="modal-content w-75">
-                                                    <img class="img-fluid" src="imgs/Figura12.png" alt="Radio Bluetooth N80">
+                                                    <img class="img-fluid" src="imgs/Figura12.png" alt="">
                                                 </div>
                                                 
                                             </div>
@@ -740,15 +740,15 @@ include('layout/header.php');
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                ⭢ Necessária entre o Serviço de MSE em Meio Aberto e os outros serviços do SUAS;
+                                <i class="seta bi bi-arrow-right-short"></i> Necessária entre o Serviço de MSE em Meio Aberto e os outros serviços do SUAS;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                ⭢ A Vigilância Socioassistencial como suporte à participação da Assistência Social no Sistema Socioeducativo;
+                                <i class="seta bi bi-arrow-right-short"></i> A Vigilância Socioassistencial como suporte à participação da Assistência Social no Sistema Socioeducativo;
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
-                                ⭢ A Centralidade da intersetorialidade em todas as instâncias de planejamento e de execução do atendimento socioeducativo (operacionalidade se realiza na constituição das comissões intersetoriais de acompanhamento do sistema socioeducativo e dos planos de atendimento socioeducativo).
+                                <i class="seta bi bi-arrow-right-short"></i> A Centralidade da intersetorialidade em todas as instâncias de planejamento e de execução do atendimento socioeducativo (operacionalidade se realiza na constituição das comissões intersetoriais de acompanhamento do sistema socioeducativo e dos planos de atendimento socioeducativo).
                                 </p>
 
                                 <p class="wow fadeIn" data-wow-delay="0.3s">
@@ -820,20 +820,20 @@ include('layout/header.php');
                                             </p>
                                             <div class="zoom">
                                                 <a href="imgs/Figura13.png" data-bs-toggle="modal" data-bs-target="#Imagem13">
-                                                    <img class="w-75" src="imgs/Figura13.png" alt="Radio Bluetooth N80" id="img-1">
+                                                    <img class="w-75" src="imgs/Figura13.png" alt="" id="img-1">
                                                 </a>
                                             </div>
-                                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>autor.</p>
+                                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autora.</p>
                                         </div>
 
                                         <!-- Imagem - MODAL-->
                                         <div class="modal fade text-center" id="Imagem13" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                 <div class="modal-content w-75">
-                                                    <img class="img-fluid" src="imgs/Figura13.png" alt="Radio Bluetooth N80">
+                                                    <img class="img-fluid" src="imgs/Figura13.png" alt="">
                                                 </div>
                                                 <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong>autor.</p>
+                                                    <p class="text-secondary"><strong>Fonte: </strong>Autora.</p>
                                                 </div>
                                             </div>
                                         </div>

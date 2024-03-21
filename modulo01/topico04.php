@@ -33,7 +33,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura16.png" data-bs-toggle="modal" data-bs-target="#Imagem16">
-                                            <img class="w-75" src="imgs/Figura16.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura16.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -43,7 +43,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem16" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura16.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura16.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -77,7 +77,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura17.png" data-bs-toggle="modal" data-bs-target="#Imagem17">
-                                            <img class="w-75" src="imgs/Figura17.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura17.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -87,7 +87,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem17" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura17.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura17.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -114,7 +114,7 @@ include('layout/header.php');
                             </p>
                             <div class="zoom">
                                 <a href="imgs/Figura18.png" data-bs-toggle="modal" data-bs-target="#Imagem18">
-                                    <img class="w-75" src="imgs/Figura18.png" alt="Radio Bluetooth N80" id="img-1">
+                                    <img class="w-75" src="imgs/Figura18.png" alt="" id="img-1">
                                 </a>
                             </div>
                             
@@ -124,7 +124,7 @@ include('layout/header.php');
                         <div class="modal fade text-center" id="Imagem18" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                 <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/Figura18.png" alt="Radio Bluetooth N80">
+                                    <img class="img-fluid" src="imgs/Figura18.png" alt="">
                                 </div>
                                 
                             </div>
@@ -150,7 +150,7 @@ include('layout/header.php');
                             </p>
                             <div class="zoom">
                                 <a href="imgs/Figura19.png" data-bs-toggle="modal" data-bs-target="#Imagem19">
-                                    <img class="w-75" src="imgs/Figura19.png" alt="Radio Bluetooth N80" id="img-1">
+                                    <img class="w-75" src="imgs/Figura19.png" alt="" id="img-1">
                                 </a>
                             </div>
                             
@@ -160,7 +160,7 @@ include('layout/header.php');
                         <div class="modal fade text-center" id="Imagem19" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                 <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/Figura19.png" alt="Radio Bluetooth N80">
+                                    <img class="img-fluid" src="imgs/Figura19.png" alt="">
                                 </div>
                                 
                             </div>
@@ -272,7 +272,7 @@ include('layout/header.php');
                                                         </p>
                                                         <div class="zoom">
                                                             <a href="imgs/Figura28.png" data-bs-toggle="modal" data-bs-target="#Imagem28">
-                                                                <img class="w-75" src="imgs/Figura28.png" alt="Radio Bluetooth N80" id="img-1">
+                                                                <img class="w-75" src="imgs/Figura28.png" alt="" id="img-1">
                                                             </a>
                                                         </div>
                                                         <p class="FonteFigura FonteMenor text-secondary text-light"><strong>Fonte: </strong>Fonte: Tipificação Nacional dos Serviços Socioassistenciais.</p>
@@ -282,7 +282,7 @@ include('layout/header.php');
                                                     <div class="modal fade text-center" id="Imagem28" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                                         <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                                             <div class="modal-content w-75">
-                                                                <img class="img-fluid" src="imgs/Figura28.png" alt="Radio Bluetooth N80">
+                                                                <img class="img-fluid" src="imgs/Figura28.png" alt="">
                                                             </div>
                                                             <div class="modal-footer w-75 bg-light justify-content-center">
                                                                 <p class="text-secondary "><strong>Fonte: </strong>Fonte: Tipificação Nacional dos Serviços Socioassistenciais.</p>
@@ -327,7 +327,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura20.png" data-bs-toggle="modal" data-bs-target="#Imagem20">
-                                            <img class="w-75" src="imgs/Figura20.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura20.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -337,7 +337,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem20" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura20.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura20.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -354,7 +354,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura21.png" data-bs-toggle="modal" data-bs-target="#Imagem21">
-                                            <img class="w-75" src="imgs/Figura21.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura21.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -364,7 +364,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem21" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura21.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura21.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -381,20 +381,20 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura22.png" data-bs-toggle="modal" data-bs-target="#Imagem22">
-                                            <img class="w-75" src="imgs/Figura22.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura22.png" alt="" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>autor.</p>
+                                    <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>Autora.</p>
                                 </div>
 
                                 <!-- Imagem - MODAL-->
                                 <div class="modal fade text-center" id="Imagem22" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura22.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura22.png" alt="">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary "><strong>Fonte: </strong>autor.</p>
+                                            <p class="text-secondary "><strong>Fonte: </strong>Autora.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -416,7 +416,7 @@ include('layout/header.php');
                             </p>
                             <div class="zoom">
                                 <a href="imgs/Figura23.png" data-bs-toggle="modal" data-bs-target="#Imagem23">
-                                    <img class="w-75" src="imgs/Figura23.png" alt="Radio Bluetooth N80" id="img-1">
+                                    <img class="w-75" src="imgs/Figura23.png" alt="" id="img-1">
                                 </a>
                             </div>
                             
@@ -426,7 +426,7 @@ include('layout/header.php');
                         <div class="modal fade text-center" id="Imagem23" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                 <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/Figura23.png" alt="Radio Bluetooth N80">
+                                    <img class="img-fluid" src="imgs/Figura23.png" alt="">
                                 </div>
                                 
                             </div>
@@ -446,7 +446,7 @@ include('layout/header.php');
                             </p>
                             <div class="zoom">
                                 <a href="imgs/Figura24.png" data-bs-toggle="modal" data-bs-target="#Imagem24">
-                                    <img class="w-75" src="imgs/Figura24.png" alt="Radio Bluetooth N80" id="img-1">
+                                    <img class="w-75" src="imgs/Figura24.png" alt="" id="img-1">
                                 </a>
                             </div>
                             
@@ -456,7 +456,7 @@ include('layout/header.php');
                         <div class="modal fade text-center" id="Imagem24" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                 <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/Figura24.png" alt="Radio Bluetooth N80">
+                                    <img class="img-fluid" src="imgs/Figura24.png" alt="">
                                 </div>
                                 
                             </div>
@@ -514,7 +514,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura25.png" data-bs-toggle="modal" data-bs-target="#Imagem25">
-                                            <img class="w-75" src="imgs/Figura25.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura25.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>Caderno SINASE, 2006.
@@ -525,7 +525,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem25" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura25.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura25.png" alt="">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
                                             <p class="text-secondary "><strong>Fonte: </strong>Caderno SINASE, 2006.
@@ -565,7 +565,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura26.png" data-bs-toggle="modal" data-bs-target="#Imagem26">
-                                            <img class="w-75" src="imgs/Figura26.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura26.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     <p class="FonteFigura FonteMenor text-secondary "><strong>Fonte: </strong>Caderno SINASE, 2006.
@@ -576,7 +576,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem26" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura26.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura26.png" alt="">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
                                             <p class="text-secondary "><strong>Fonte: </strong>Caderno SINASE, 2006.
@@ -636,10 +636,10 @@ include('layout/header.php');
                         </div>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">Quanto ao perfil dos técnicos que acompanharão adolescentes em cumprimento de medidas em meio aberto, é recomendável que: <br><br>
-                            ⭢ Experiência de trabalho no sistema socioeducativo;<br><br>
-                            ⭢ Conhecimento técnico sobre o atendimento socioeducativo;<br><br>
-                            ⭢ Experiência de trabalho em serviços, programas e projetos que atendam adolescentes;<br><br>
-                            ⭢ Integrem as categorias profissionais previstas pela Resolução CNAS nº 17/2011.
+                            <i class="seta bi bi-arrow-right-short"></i> Experiência de trabalho no sistema socioeducativo;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Conhecimento técnico sobre o atendimento socioeducativo;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Experiência de trabalho em serviços, programas e projetos que atendam adolescentes;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Integrem as categorias profissionais previstas pela Resolução CNAS nº 17/2011.
                         </p>
 
                         <!-- CAIXA DE TEXTO FIQUE ATENTO -->
@@ -736,7 +736,7 @@ include('layout/header.php');
                                     </p>
                                     <div class="zoom">
                                         <a href="imgs/Figura27.png" data-bs-toggle="modal" data-bs-target="#Imagem27">
-                                            <img class="w-75" src="imgs/Figura27.png" alt="Radio Bluetooth N80" id="img-1">
+                                            <img class="w-75" src="imgs/Figura27.png" alt="" id="img-1">
                                         </a>
                                     </div>
                                     
@@ -746,7 +746,7 @@ include('layout/header.php');
                                 <div class="modal fade text-center" id="Imagem27" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/Figura27.png" alt="Radio Bluetooth N80">
+                                            <img class="img-fluid" src="imgs/Figura27.png" alt="">
                                         </div>
                                         
                                     </div>
@@ -997,12 +997,12 @@ include('layout/header.php');
                             <strong>Passos metodológicos</strong>
                         </p>
 
-                        <p>⭢ Identificar, selecionar, cadastrar, e credenciar entidades (assistenciais, de saúde, de educação ou outros estabelecimentos congêneres, bem como programas governamentais ou não governamentais);</p>
-                        <p>⭢ Realização de reunião de sensibilização ou mobilização da sociedade para a apresentação do Serviço/Programa;</p>
-                        <p>⭢ Realizar visitas institucionais;</p>
-                        <p>⭢ Orientar as entidades governamentais e não governamentais da rede de proteção, a solicitarem suas inscrições no Conselho Municipal dos Direitos da Criança e do Adolescente -CMDCA, para o recebimento e acompanhamento de jovens em cumprimento de Prestação de Serviço à Comunidade – PSC;</p>
-                        <p>⭢ Especificar que as tarefas serão atribuídas conforme as aptidões do adolescente;</p>
-                        <p>⭢ Reafirmar que a jornada máxima é de oito horas semanais, podendo ser aos sábados, domingos e feriados ou em dias úteis, de modo a não prejudicar a frequência à escola ou à jornada normal de trabalho (BRASIL, 1990).</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Identificar, selecionar, cadastrar, e credenciar entidades (assistenciais, de saúde, de educação ou outros estabelecimentos congêneres, bem como programas governamentais ou não governamentais);</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Realização de reunião de sensibilização ou mobilização da sociedade para a apresentação do Serviço/Programa;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Realizar visitas institucionais;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Orientar as entidades governamentais e não governamentais da rede de proteção, a solicitarem suas inscrições no Conselho Municipal dos Direitos da Criança e do Adolescente -CMDCA, para o recebimento e acompanhamento de jovens em cumprimento de Prestação de Serviço à Comunidade – PSC;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Especificar que as tarefas serão atribuídas conforme as aptidões do adolescente;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Reafirmar que a jornada máxima é de oito horas semanais, podendo ser aos sábados, domingos e feriados ou em dias úteis, de modo a não prejudicar a frequência à escola ou à jornada normal de trabalho (BRASIL, 1990).</p>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">
                             O Art. 14 da Lei nº 12.594/2012, estabelece que cabe ao Programa municipal responsável pelos serviços de MSE, ou seja, as equipes do SUAS, realizar o credenciamento das instituições parceiras com a validação posterior do Sistema de Justiça.
