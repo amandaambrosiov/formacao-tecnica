@@ -36,5 +36,5 @@
         new WOW().init();
     </script>
 
-    <title>EGPCE | Design de Experiência: O que é UX?</title>
+    <title>EGPCE | Formação Técnica para a execução e acompanhamento das Medidas Socioeducativas do Estado do Ceará</title>
 </head>
