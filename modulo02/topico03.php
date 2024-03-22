@@ -50,7 +50,7 @@ include('layout/header.php');
                                             <img class="w-25" src="imgs/Figura12.png" alt="" id="img-1">
                                         </a>
                                     </div>
-                                    
+
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -59,7 +59,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/Figura12.png" alt="">
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -804,8 +804,8 @@ include('layout/header.php');
                                             <img class="img-fluid" src="imgs/Figura15.png" alt="">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (BRASIL, 2022, p. 31).</p>
-                                                </div>
+                                            <p class="text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (BRASIL, 2022, p. 31).</p>
+                                        </div>
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -848,8 +848,8 @@ include('layout/header.php');
                                             <img class="img-fluid" src="imgs/Figura16.jpg" alt="">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41</p>
-                                                </div>
+                                            <p class="text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41</p>
+                                        </div>
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -1170,7 +1170,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/figura17.png" alt="" id="img-1">
                                 </a>
                             </div>
-                            
+
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -1179,7 +1179,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/figura17.png" alt="">
                                 </div>
-                                
+
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -1206,7 +1206,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/figura18.png" alt="" id="img-1">
                                 </a>
                             </div>
-                            
+
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -1215,7 +1215,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/figura18.png" alt="">
                                 </div>
-                                
+
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -1275,7 +1275,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/figura19.png" alt="" id="img-1">
                                 </a>
                             </div>
-                            
+
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -1284,7 +1284,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/figura19.png" alt="">
                                 </div>
-                                
+
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -1309,7 +1309,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/figura20.png" alt="" id="img-1">
                                 </a>
                             </div>
-                            
+
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -1318,7 +1318,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/figura20.png" alt="">
                                 </div>
-                                
+
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -1351,7 +1351,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/figura21.png" alt="" id="img-1">
                                 </a>
                             </div>
-                            
+
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -1360,7 +1360,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/figura21.png" alt="">
                                 </div>
-                                
+
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -1384,7 +1384,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/figura22.png" alt="" id="img-1">
                                 </a>
                             </div>
-                            
+
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -1393,7 +1393,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/figura22.png" alt="">
                                 </div>
-                               
+
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -1438,7 +1438,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/figura21.png" alt="" id="img-1">
                                         </a>
                                     </div>
-                                    
+
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -1447,7 +1447,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/figura21.png" alt="">
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -1506,7 +1506,7 @@ include('layout/header.php');
                                             <img class="w-75" src="imgs/figura22.png" alt="" id="img-1">
                                         </a>
                                     </div>
-                                    
+
                                 </div>
 
                                 <!-- Imagem - MODAL-->
@@ -1515,7 +1515,7 @@ include('layout/header.php');
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/figura22.png" alt="">
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                                 <!-- Imagem - End-->
@@ -1558,145 +1558,146 @@ include('layout/header.php');
 
                         <p>Após a definição das atividades com o adolescente, o planejamento continua por meio do monitoramento das ações e de reavaliações diante de mudanças do cotidiano.</p>
 
+                        <div class="row">
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
 
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 25</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura25.png" data-bs-toggle="modal" data-bs-target="#Imagem25">
-                                    <img class="w-75" src="imgs/figura25.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem25" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura25.png" alt="">
-                                </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 25</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura25.png" data-bs-toggle="modal" data-bs-target="#Imagem25">
+                                            <img class="w-75" src="imgs/figura25.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
                                 </div>
-                            </div>
-                        </div>
-                        <!-- Imagem - End-->
 
-
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 26</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura26.png" data-bs-toggle="modal" data-bs-target="#Imagem26">
-                                    <img class="w-75" src="imgs/figura26.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem26" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura26.png" alt="">
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem25" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura25.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
+
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 26</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura26.png" data-bs-toggle="modal" data-bs-target="#Imagem26">
+                                            <img class="w-75" src="imgs/figura26.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
                                 </div>
-                            </div>
-                        </div>
-                        <!-- Imagem - End-->
 
-
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 27</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura27.png" data-bs-toggle="modal" data-bs-target="#Imagem27">
-                                    <img class="w-75" src="imgs/figura27.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem27" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura27.png" alt="">
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem26" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura26.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+
+                            </div>
+
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
+
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 27</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura27.png" data-bs-toggle="modal" data-bs-target="#Imagem27">
+                                            <img class="w-75" src="imgs/figura27.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
                                 </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem27" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura27.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
-                        </div>
-                        <!-- Imagem - End-->
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
 
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 28
 
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 28
-
-                                </strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura28
-                                        .png" data-bs-toggle="modal" data-bs-target="#Imagem28
+                                        </strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura28.png" data-bs-toggle="modal" data-bs-target="#Imagem28
                                         ">
-                                    <img class="w-75" src="imgs/figura28
-                                            .png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
-                        </div>
+                                            <img class="w-75" src="imgs/figura28.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
+                                </div>
 
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem28
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem28
                                 " tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura28
-                                            .png" alt="">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura28.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Autores.
-                                    </p>
-                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
-                        </div>
-                        <!-- Imagem - End-->
+                            <div class="col">
+<!-- IMAGEM NO SITE  -->
 
-
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
+<div class="text-center img-01 wow zoomIn">
                             <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 29</strong>
                             </p>
                             <div class="zoom">
@@ -1724,6 +1725,12 @@ include('layout/header.php');
 
 
                         <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+                        </div>
+
+
+
+                        
 
                         <p><strong>Como planejar a LA?</strong></p>
 
@@ -1749,92 +1756,104 @@ include('layout/header.php');
                             <i class="seta bi bi-arrow-right-short"></i> Círculo do PIA.
                         </p>
 
-                        <!-- IMAGEM NO SITE  -->
+                        <div class="row">
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
 
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 30</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura30.png" data-bs-toggle="modal" data-bs-target="#Imagem30">
-                                    <img class="w-75" src="imgs/figura30.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41)</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem30" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura30.png" alt="">
-                                </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41)
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 30</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura30.png" data-bs-toggle="modal" data-bs-target="#Imagem30">
+                                            <img class="w-75" src="imgs/figura30.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41)</p>
                                 </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem30" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura30.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41)
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+                            </div>
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
+
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 31</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura31.png" data-bs-toggle="modal" data-bs-target="#Imagem31">
+                                            <img class="w-75" src="imgs/figura31.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+
+                                </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem31" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura31.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
+
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 32</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura32.png" data-bs-toggle="modal" data-bs-target="#Imagem32">
+                                            <img class="w-75" src="imgs/figura32.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+
+                                </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem32" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura32.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
                         </div>
-                        <!-- Imagem - End-->
+
+
 
 
 
                         <!-- FIM DA IMAGEM NO SITE  -->
 
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 31</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura31.png" data-bs-toggle="modal" data-bs-target="#Imagem31">
-                                    <img class="w-75" src="imgs/figura31.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem31" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura31.png" alt="">
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <!-- Imagem - End-->
 
 
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 32</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura32.png" data-bs-toggle="modal" data-bs-target="#Imagem32">
-                                    <img class="w-75" src="imgs/figura32.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem32" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura32.png" alt="">
-                                </div>
-                                
-                            </div>
-                        </div>
-                        <!-- Imagem - End-->
-
-
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
 
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">4ª Etapa: Monitoramento</h4>
@@ -1930,71 +1949,78 @@ include('layout/header.php');
                             <i class="seta bi bi-arrow-right-short"></i>Alterações podem ser pactuadas e sempre informadas à equipe técnica do serviço, para avaliação conjunta.
                         </p>
 
-                        
 
 
+                        <div class="row">
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
 
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 33</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura33.png" data-bs-toggle="modal" data-bs-target="#Imagem33">
-                                    <img class="w-75" src="imgs/figura33.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p. 79)</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem33" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura33.png" alt="">
-                                </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p. 79)
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 33</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura33.png" data-bs-toggle="modal" data-bs-target="#Imagem33">
+                                            <img class="w-75" src="imgs/figura33.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p. 79)</p>
                                 </div>
-                            </div>
-                        </div>
-                        <!-- Imagem - End-->
 
-
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 34</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura34.png" data-bs-toggle="modal" data-bs-target="#Imagem34">
-                                    <img class="w-75" src="imgs/figura34.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem34" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura34.png" alt="">
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem33" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura33.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p. 79)
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
+
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 34</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura34.png" data-bs-toggle="modal" data-bs-target="#Imagem34">
+                                            <img class="w-75" src="imgs/figura34.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Autores.</p>
                                 </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem34" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura34.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Autores.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
                         </div>
-                        <!-- Imagem - End-->
 
 
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
+
 
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">5ª Etapa: Avaliação do PIA</h4>
@@ -2185,9 +2211,9 @@ include('layout/header.php');
                             </p>
                         </div>
 
-                        
 
-                        
+
+
 
                         <p>Conforme observado o artigo apresenta diversas funções que possuem aspectos que devem ser considerados e verificados seu nível de alcance os quais trataremos a seguir:</p>
 
@@ -2269,7 +2295,7 @@ include('layout/header.php');
                             </p>
                             <div class="zoom">
                                 <a href="imgs/Figura35.png" data-bs-toggle="modal" data-bs-target="#Imagem35">
-                                    <img class="w-25" src="imgs/Figura35.png" alt="" id="img-1">
+                                    <img class="w-75" src="imgs/Figura35.png" alt="" id="img-1">
                                 </a>
                             </div>
                             <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 88)</p>
@@ -2282,8 +2308,8 @@ include('layout/header.php');
                                     <img class="img-fluid" src="imgs/Figura35.png" alt="">
                                 </div>
                                 <div class="modal-footer w-75 bg-light justify-content-center">
-                                                    <p class="text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 88)</p>
-                                                </div>
+                                    <p class="text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 88)</p>
+                                </div>
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -2332,118 +2358,134 @@ include('layout/header.php');
 
                         <p>O intervalo de tempo desses relatórios serão estabelecidos pela interlocução com o Poder Judiciário. Embora a decisão sobre a continuidade, a revisão ou extinção da MSE não seja de competência do técnico de referência, os relatórios de acompanhamento deverão conter informações que subsidiarão a decisão judicial do adolescente.</p>
 
+                        <div class="row">
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
 
-                        <!-- IMAGEM NO SITE  -->
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 36</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura36.png" data-bs-toggle="modal" data-bs-target="#Imagem36">
+                                            <img class="w-75" src="imgs/figura36.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
 
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 36</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura36.png" data-bs-toggle="modal" data-bs-target="#Imagem36">
-                                    <img class="w-75" src="imgs/figura36.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem36" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura36.png" alt="">
                                 </div>
-                                
-                            </div>
-                        </div>
-                        <!-- Imagem - End-->
 
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem36" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura36.png" alt="">
+                                        </div>
 
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 37</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura37.png" data-bs-toggle="modal" data-bs-target="#Imagem37">
-                                    <img class="w-75" src="imgs/figura37.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem37" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura37.png" alt="">
+                                    </div>
                                 </div>
-                                
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
-                        </div>
-                        <!-- Imagem - End-->
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
 
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 37</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura37.png" data-bs-toggle="modal" data-bs-target="#Imagem37">
+                                            <img class="w-75" src="imgs/figura37.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
 
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 38</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura38.png" data-bs-toggle="modal" data-bs-target="#Imagem38">
-                                    <img class="w-75" src="imgs/figura38.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem38" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura38.png" alt="">
                                 </div>
-                                
-                            </div>
-                        </div>
-                        <!-- Imagem - End-->
 
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem37" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura37.png" alt="">
+                                        </div>
 
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-                        <!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 39</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura39.png" data-bs-toggle="modal" data-bs-target="#Imagem39">
-                                    <img class="w-75" src="imgs/figura39.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem39" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura39.png" alt="">
+                                    </div>
                                 </div>
-                                
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+
+                            </div>
+
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
+
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 38</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura38.png" data-bs-toggle="modal" data-bs-target="#Imagem38">
+                                            <img class="w-75" src="imgs/figura38.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+
+                                </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem38" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura38.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+
+                            <div class="col">
+                                <!-- IMAGEM NO SITE  -->
+
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 39</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura39.png" data-bs-toggle="modal" data-bs-target="#Imagem39">
+                                            <img class="w-75" src="imgs/figura39.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+
+                                </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem39" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura39.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
                         </div>
-                        <!-- Imagem - End-->
 
 
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
+
+
+
+
 
                         <!-- CAIXA DE TEXTO IMPORTANTE -->
                         <div class="destaques wow fadeIn" data-wow-delay="0.3s">
@@ -2473,7 +2515,7 @@ include('layout/header.php');
                                     <img class="w-75" src="imgs/figura40.png" alt="" id="img-1">
                                 </a>
                             </div>
-                            
+
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -2482,7 +2524,7 @@ include('layout/header.php');
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/figura40.png" alt="">
                                 </div>
-                                
+
                             </div>
                         </div>
                         <!-- Imagem - End-->
@@ -2498,37 +2540,48 @@ include('layout/header.php');
                             <i class="seta bi bi-arrow-right-short"></i>Que cometeu novo ato infracional durante o cumprimento de MSE.
                         </p>
 
+                        <div class="apresentacao">
+                            <div>
+                                <!-- IMAGEM NO SITE  -->
 
-<!-- IMAGEM NO SITE  -->
-
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 41</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura41.png" data-bs-toggle="modal" data-bs-target="#Imagem41">
-                                    <img class="w-75" src="imgs/figura41.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem41" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura41.png" alt="">
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 41</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura41.png" data-bs-toggle="modal" data-bs-target="#Imagem41">
+                                            <img class="w-50" src="imgs/figura41.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
                                 </div>
-                                
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem41" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura41.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <div>
+                                    <p>Os adolescentes ou jovens que precisam de acompanhamento após o fim da medida podem ser encaminhados ao PAIF ou PAEFI, conforme sua situação. São público prioritário do Serviço de Convivência e Fortalecimento de Vínculos (SCFV) e do Programa Acessuas Trabalho.</p>
+
+                                    <p>Realizar estudos de acompanhamento de longo prazo aos grupos de Pós-Cumprimento de MSE pode funcionar como uma avaliação de impacto (efetividade) do serviço.</p>
+                                </div>
                             </div>
                         </div>
-                        <!-- Imagem - End-->
 
 
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
 
-                        <p>Os adolescentes ou jovens que precisam de acompanhamento após o fim da medida podem ser encaminhados ao PAIF ou PAEFI, conforme sua situação. São público prioritário do Serviço de Convivência e Fortalecimento de Vínculos (SCFV) e do Programa Acessuas Trabalho.</p>
 
-                        <p>Realizar estudos de acompanhamento de longo prazo aos grupos de Pós-Cumprimento de MSE pode funcionar como uma avaliação de impacto (efetividade) do serviço.</p>
 
 
 

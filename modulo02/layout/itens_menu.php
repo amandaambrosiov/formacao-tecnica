@@ -77,7 +77,7 @@
         <li class="menu">
             <a data-valor="topico04.php" style="font-size: 1.1rem; height:180px;">
                 <span class="icon space"><i class="bi bi-4-circle"></i></span>
-                <span class="txt">Fluxo dos Procedimentos das Medidas Socioeducativas em meio aberto</span>
+                <span class="txt">O Serviço PAEFI e a Relação com as Medidas Socioeducativas em Meio Fechado</span>
                 <i class="bi bi-caret-down-fill barra-sub"></i>
             </a>
         </li>
@@ -87,7 +87,8 @@
         <a href="topico04.php">
             <i class="bi bi-journals circulo"></i>Início</a>
         <a href="#item">
-            <i class="bi bi-journals circulo"></i>01.1 Inserção do Adolescente no SUAS</a>
+            <i class="bi bi-journals circulo"></i>04.1 
+O serviço PAEFI e o acompanhamento das famílias com adolescentes em cumprimento de medida socioeducativa em meio fechado</a>
     </div>
    
 

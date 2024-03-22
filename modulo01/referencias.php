@@ -179,7 +179,7 @@ include('layout/header.php');
 
                         <!-- Citação com borda verde (esquerda) -->
                         <div class="content_box_padrao wow fadeIn center" data-wow-delay="0.7s">
-                                <p>Pronto! <?php echo $NomeUsuario ?> você finalizou o módulo 1 do curso <strong>Formação Técnica para a execução e acompanhamento das Medidas Socioeducativas do Estado do Ceará</strong>. Agora você já pode fazer a avaliação do módulo 01. Boa Sorte!
+                                <p>Pronto! <?php echo $NomeUsuario ?> você finalizou o módulo 1 do curso <strong>Formação Técnica para a execução e acompanhamento das Medidas Socioeducativas do Estado do Ceará</strong>. Agora você já pode fazer a avaliação do módulo 1. Boa Sorte!
                                 </p>
                                 <!--caixa secundaria-->
                             </div>
