@@ -49,7 +49,7 @@ include('layout/header.php');
                             <p class="citacao blockquote-footer"><strong>2007. p.94.</strong></p>
                         </div>
 
-                        <p>Dessa forma, a Constituição Federal, em seu artigo 227, garante a aplicabilidade do princípio da proteção integral à criança e ao adolescente, estendendo-se à preservação da vida, da liberdade, da saúde e também, da convivência familiar e comunitária.</p>
+                        <p>Dessa forma, a Constituição Federal, em seu <strong>artigo 227</strong>, garante a aplicabilidade do princípio da proteção integral à criança e ao adolescente, estendendo-se à preservação da vida, da liberdade, da saúde e também, da convivência familiar e comunitária.</p>
 
                         <!-- CITAÇÃO -->
                         <div class="citacao_texto">
@@ -74,11 +74,11 @@ include('layout/header.php');
                                 CURIOSIDADE
                             </div>
                             <div class="content_box" id="conteudo_curiosidade">
-                                <p>Observemos o artigo 1° da Convenção sobre os Direitos da Criança de 1989, o qual delimita o conceito de criança. Este conceito está vinculado do ponto de vista da idade do indivíduo, como é possível notar pelo referido artigo: “Para efeitos da presente Convenção considera-se como criança todo ser humano com menos de dezoito anos de idade, a não ser que, em conformidade com a lei aplicável à criança, a maioridade seja alcançada antes”.</p>
+                                <p>Observemos o <strong>artigo 1° da Convenção sobre os Direitos da Criança de 1989</strong>, o qual delimita o conceito de criança. Este conceito está vinculado do ponto de vista da idade do indivíduo, como é possível notar pelo referido artigo: “Para efeitos da presente Convenção considera-se como criança todo ser humano com menos de dezoito anos de idade, a não ser que, em conformidade com a lei aplicável à criança, a maioridade seja alcançada antes”.</p>
                             </div>
                         </div>
 
-                        <p>Nesse sentido, o artigo 2° do Estatuto da Criança e do Adolescente (ECA), define os conceitos de criança e adolescente como:</p>
+                        <p>Nesse sentido, o <strong>artigo 2° do Estatuto da Criança e do Adolescente (ECA)</strong>, define os conceitos de criança e adolescente como:</p>
 
                         <div class="content_box_padrao_cinza">
                             <p>
@@ -106,37 +106,45 @@ include('layout/header.php');
                                 FIQUE ATENTO
                             </div>
                             <div class="content_box" id="conteudo_fiqueatento">
-                                <p>O Estatuto da Criança e do Adolescente (ECA), em seu artigo 103, define o conceito de ato infracional como sendo: “Art. 103. Considera-se ato infracional a conduta descrita como crime ou contravenção penal”. Sendo assim, ao analisarmos a estrutura do ato infracional, podemos verificar que ela segue a do delito, sendo não só um fato típico e antijurídico, mas também há a necessidade que os adolescentes infratores somente respondam pelos atos que praticaram na medida de suas culpabilidades.</p>
+                                <p>O Estatuto da Criança e do Adolescente (ECA), em seu <strong>artigo 103</strong>, define o conceito de ato infracional como sendo: “Art. 103. Considera-se ato infracional a conduta descrita como crime ou contravenção penal”. Sendo assim, ao analisarmos a estrutura do ato infracional, podemos verificar que ela segue a do delito, sendo não só um fato típico e antijurídico, mas também há a necessidade que os adolescentes infratores somente respondam pelos atos que praticaram na medida de suas culpabilidades.</p>
                             </div>
                         </div>
 
-                        <p>As medidas socioeducativas estão elencadas no Estatuto da Criança e do Adolescente. Trata-se de um rol taxativo e tem previsão no artigo 112. São atribuídas aos adolescentes que praticam atos infracionais:</p>
+                        <p>As medidas socioeducativas estão elencadas no Estatuto da Criança e do Adolescente. Trata-se de um rol taxativo e tem previsão no <strong>artigo 112</strong>. São atribuídas aos adolescentes que praticam atos infracionais:</p>
 
-                        <p><strong>Art. 112.</strong> Verificada a prática de ato infracional, a autoridade competente poderá aplicar ao adolescente as seguintes medidas:</p>
+                        <div class="content_box_padrao">
+                            <p><strong>Art. 112.</strong> Verificada a prática de ato infracional, a autoridade competente poderá aplicar ao adolescente as seguintes medidas:</p>
+                            <br>
+                            <p>I. Advertência;</p>
+                            <br>
+                            <p>II. Obrigação de reparar o dano;</p>
+                            <br>
+                            <p>III. Prestação de serviços à comunidade;</p>
+                            <br>
+                            <p>IV. Liberdade assistida;</p>
+                            <br>
+                            <p>V. Inserção em regime de semiliberdade;</p>
+                            <br>
+                            <p>VI. Internação em estabelecimento educacional.</p>
+                        </div>
 
-                        <p>I. Advertência;</p>
 
-                        <p>II. Obrigação de reparar o dano;</p>
-
-                        <p>III. Prestação de serviços à comunidade;</p>
-
-                        <p>IV. Liberdade assistida;</p>
-
-                        <p>V. Inserção em regime de semiliberdade;</p>
-
-                        <p>VI. Internação em estabelecimento educacional.</p>
 
                         <p>Analisando a natureza do ato infracional praticado, a certidão dos atos infracionais, bem como as circunstâncias e a capacidade de cumpri-la, caberá ao juiz da respectiva cidade, analisar a representação do ministério público, e, seguindo todos os princípios e garantias elencados neste trabalho, decidir qual a medida socioeducativa mais cabível ao caso concreto.</p>
 
                         <p>Com previsão legal no ECA, é a partir do art. 112 que podemos refletir sobre as diversas modalidades de medidas socioeducativas que podem ser impostas aos adolescentes que praticarem atos infracionais. Sendo um rol taxativo, ao ponto de que não pode ser ampliado ou alterado por discricionariedade da autoridade judiciária.</p>
 
-                        <p>O artigo 1º da lei nº 12.594/2012, que estabeleceu o Sistema Nacional de Atendimento Socioeducativo – SINASE, traz os objetivos da medida socioeducativa, que são eles:</p>
+                        <div class="content_box_padrao">
+                            <p>O artigo 1º da lei nº 12.594/2012, que estabeleceu o Sistema Nacional de Atendimento Socioeducativo – SINASE, traz os objetivos da medida socioeducativa, que são eles:</p>
+                            <br>
+                            <p><i class="seta bi bi-arrow-right-short text-light"></i> Responsabilização do adolescente quanto às consequências lesivas do ato infracional, sempre que possível incentivando a sua reparação;</p>
+                            <br>
+                            <p><i class="seta bi bi-arrow-right-short text-light"></i> Integração social e garantia de seus direitos individuais e sociais, por meio do cumprimento de seu plano individual de atendimento;</p>
+                            <br>
+                            <p><i class="seta bi bi-arrow-right-short text-light"></i> Desaprovação da conduta infracional.</p>
+                        </div>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> Responsabilização do adolescente quanto às consequências lesivas do ato infracional, sempre que possível incentivando a sua reparação;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> Integração social e garantia de seus direitos individuais e sociais, por meio do cumprimento de seu plano individual de atendimento;</p>
-
-                        <p><i class="seta bi bi-arrow-right-short"></i> Desaprovação da conduta infracional.</p>
 
                         <p>Conforme se observa do próprio texto legal, as medidas têm o caráter de ressocialização, bem como a condição de fazer o adolescente realizar uma reflexão quanto ao ato lesivo praticado, e também, se for possível, reparar o dano ocasionado. Elencaremos, separadamente, as medidas socioeducativas à frente.</p>
 
@@ -163,7 +171,7 @@ include('layout/header.php');
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">De Prestação de Serviços à comunidade</h4>
 
-                        <p>A prestação de serviços à comunidade consiste em uma medida socioeducativa aplicada ao adolescente, que realizará, gratuitamente, tarefas de interesse geral observando suas aptidões (ROSSATO; LÉPORE; CUNHA, 2018). Tem previsão legal no artigo 117 do Estatuto, onde:</p>
+                        <p>A prestação de serviços à comunidade consiste em uma medida socioeducativa aplicada ao adolescente, que realizará, gratuitamente, tarefas de interesse geral observando suas aptidões (ROSSATO; LÉPORE; CUNHA, 2018). Tem previsão legal no <strong>artigo 117</strong> do Estatuto, onde:</p>
 
                         <p><strong>Art. 117.</strong> A prestação de serviços comunitários consiste na realização de tarefas gratuitas de interesse geral, por período não excedente a seis meses, junto a entidades assistenciais, hospitais, escolas e outros estabelecimentos congêneres, bem como em programas comunitários ou governamentais. Parágrafo único. As tarefas serão atribuídas conforme as aptidões do adolescente, devendo ser cumpridas durante jornada máxima de oito horas semanais, aos sábados, domingos e feriados ou em dias úteis, de modo a não prejudicar a frequência à escola ou à jornada normal de trabalho.</p>
 
@@ -172,7 +180,7 @@ include('layout/header.php');
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">Da Liberdade Assistida</h4>
 
-                        <p>Os artigos 118 e 119 do Estatuto disciplinam sobre a medida socioeducativa de liberdade assistida. Trata-se de uma medida mais rígida e muito aplicada, importando mais responsabilidades e obrigações ao adolescente. Durante todo o período ele é acompanhado por uma equipe interdisciplinar, ficando eles responsáveis por promover, supervisionar, acompanhar sua frequência e aproveitamento escolar, diligenciar questões sobre documentações necessárias para tentar inseri-lo no mercado de trabalho.</p>
+                        <p>Os <strong>artigos 118 e 119</strong> do Estatuto disciplinam sobre a medida socioeducativa de liberdade assistida. Trata-se de uma medida mais rígida e muito aplicada, importando mais responsabilidades e obrigações ao adolescente. Durante todo o período ele é acompanhado por uma equipe interdisciplinar, ficando eles responsáveis por promover, supervisionar, acompanhar sua frequência e aproveitamento escolar, diligenciar questões sobre documentações necessárias para tentar inseri-lo no mercado de trabalho.</p>
 
                         <!-- CAIXA DE TEXTO SAIBA MAIS -->
                         <div class="destaques wow fadeIn" data-wow-delay="0.3s">
@@ -188,7 +196,7 @@ include('layout/header.php');
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">Da Semiliberdade</h4>
 
-                        <p>Com previsão legal no artigo 120 do Estatuto da Criança e do adolescente, onde se expressa:</p>
+                        <p>Com previsão legal no <strong>artigo 120</strong> do Estatuto da Criança e do adolescente, onde se expressa:</p>
 
                         <div class="content_box_padrao">
                             <p>
@@ -204,7 +212,7 @@ include('layout/header.php');
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">Da Internação</h4>
 
-                        <p>Sendo considerada a medida mais gravosa, pois, há ampla restrição da liberdade do adolescente, está prevista no artigo 121 do estatuto, que dispõe:</p>
+                        <p>Sendo considerada a medida mais gravosa, pois, há ampla restrição da liberdade do adolescente, está prevista no <strong>artigo 121</strong> do estatuto, que dispõe:</p>
 
                         <!-- Balão informativo -->
                         <div class="wow fadeIn balao_informativo1" data-wow-delay="0.3s">
@@ -257,7 +265,10 @@ include('layout/header.php');
 
                         <h5 style="font-size: 18px;">Do Gereanciamento das Vagas Socioeducativas no Estado do Ceará</h5>
 
-                        <p>A lei nº 16.040/2016, dispõe sobre a criação da Superintendência Estadual do Sistema Socioeducativo do Estado do Ceará - SEAS. É de competência da (SEAS) coordenar a gestão e a execução da política de atendimento socioeducativo, assim como coordenar a execução de programas e ações destinados ao atendimento inicial integrado de adolescentes apreendidos.,</p>
+                        <div class="content_box_padrao">
+                            <p>A lei nº 16.040/2016, dispõe sobre a criação da Superintendência Estadual do Sistema Socioeducativo do Estado do Ceará - SEAS. É de competência da (SEAS) coordenar a gestão e a execução da política de atendimento socioeducativo, assim como coordenar a execução de programas e ações destinados ao atendimento inicial integrado de adolescentes apreendidos.</p>
+                        </div>
+
 
                         <p>A Central de Regulação de Vagas encontra-se regulamentada na Portaria nº 067/2021 da Superintendência Estadual de Atendimento Socioeducativo – SEAS. O art. 1º da portaria n º 067/2021 – SEAS diz o seguinte:</p>
 
@@ -317,6 +328,11 @@ include('layout/header.php');
 
                         <!-- FIM DA IMAGEM NO SITE  -->
 
+                        <!-- Balão informativo -->
+                        <div class="wow fadeIn balao_informativo1" data-wow-delay="0.3s">
+                            <strong><i class="fa-solid fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</strong>
+                        </div>
+
                         <!--  -->
                         <div class="storytelling wow fadeIn" data-wow-delay="0.3s">
 
@@ -353,7 +369,7 @@ include('layout/header.php');
                                     <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 02</strong>
                                     </p>
                                     <div class="zoom">
-                                        <a href="imgs/figura02.png" data-bs-toggle="modal" data-bs-target="#Imagem1">
+                                        <a href="imgs/figura02.png" data-bs-toggle="modal" data-bs-target="#imagem02">
                                             <img class="w-75" src="imgs/figura02.png" alt="" id="img-1">
                                         </a>
                                     </div><br>
@@ -362,7 +378,7 @@ include('layout/header.php');
                                 </div>
 
                                 <!-- Imagem - MODAL-->
-                                <div class="modal fade text-center" id="Imagem1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal fade text-center" id="imagem02" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/figura02.png" alt="">
@@ -398,7 +414,7 @@ include('layout/header.php');
                                     <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 03</strong>
                                     </p>
                                     <div class="zoom">
-                                        <a href="imgs/figura03.png" data-bs-toggle="modal" data-bs-target="#Imagem1">
+                                        <a href="imgs/figura03.png" data-bs-toggle="modal" data-bs-target="#imagem03">
                                             <img class="w-75" src="imgs/figura03.png" alt="" id="img-1">
                                         </a>
                                     </div><br>
@@ -407,7 +423,7 @@ include('layout/header.php');
                                 </div>
 
                                 <!-- Imagem - MODAL-->
-                                <div class="modal fade text-center" id="Imagem1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal fade text-center" id="imagem03" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
                                             <img class="img-fluid" src="imgs/figura03.png" alt="">
@@ -602,13 +618,17 @@ include('layout/header.php');
 
                         <p>O atendimento socioeducativo deve levar em consideração o contexto específico no qual os adolescentes se encontram, suas histórias de vida, experiências anteriores, interesses, potencialidades e limitações. É importante compreender as particularidades de cada jovem para oferecer um atendimento especializado que seja relevante e significativo para eles.</p>
 
-                        <p>Segundo o SINASE, são três fases do atendimento socioeducativo:</p>
+                        <div class="content_box_padrao_cinza">
+                            <p>Segundo o SINASE, são três fases do atendimento socioeducativo:</p>
+                            <br>
+                            <ol>
+                                <li><strong>Fase inicial de atendimento:</strong> acolhimento do adolescente, reconhecimento e inserção em convivência individual e grupal;</li>
+                                <li><strong>Fase intermediária:</strong> fase de avanços do adolescente no desenvolvimento e nas metas pactuadas no PIA;</li>
+                                <li><strong>Fase conclusiva:</strong> momento em que o adolescente apresenta conscientização das metas atingidas em seu processo socioeducativo e prepara-se para a desinternação.</li>
+                            </ol>
+                        </div>
 
-                        <ol>
-                            <li><strong>Fase inicial de atendimento:</strong> acolhimento do adolescente, reconhecimento e inserção em convivência individual e grupal;</li>
-                            <li><strong>Fase intermediária:</strong> fase de avanços do adolescente no desenvolvimento e nas metas pactuadas no PIA;</li>
-                            <li><strong>Fase conclusiva:</strong> momento em que o adolescente apresenta conscientização das metas atingidas em seu processo socioeducativo e prepara-se para a desinternação.</li>
-                        </ol>
+
 
                         <p>Nesse contexto, o Plano Individual de Atendimento - PIA é um dos instrumentos a ser utilizado. A elaboração do PIA no meio fechado se inicia na acolhida do adolescente no programa de atendimento, para o cumprimento da medida cautelar (internação provisória) e o requisito básico para sua elaboração é a coleta inicial de dados e a realização de um estudo de caso, realizado pela equipe de referência, juntamente ao adolescente e sua família, partindo da identificação das diversas necessidades do socioeducando, buscando a construção do Projeto de Vida, como veremos a seguir:</p>
 
@@ -618,7 +638,7 @@ include('layout/header.php');
                             <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 04</strong>
                             </p>
                             <div class="zoom">
-                                <a href="imgs/figura04.png" data-bs-toggle="modal" data-bs-target="#Imagem1">
+                                <a href="imgs/figura04.png" data-bs-toggle="modal" data-bs-target="#imagem04">
                                     <img class="w-75" src="imgs/figura04.png" alt="" id="img-1">
                                 </a>
                             </div><br>
@@ -626,7 +646,7 @@ include('layout/header.php');
                         </div>
 
                         <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal fade text-center" id="imagem04" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                 <div class="modal-content w-75">
                                     <img class="img-fluid" src="imgs/figura04.png" alt="">
@@ -809,7 +829,7 @@ include('layout/header.php');
                             </div>
                         </div>
 
-                        <p>De acordo com o parágrafo único do artigo 55 do SINASE, o PIA deve ser elaborado no prazo de 45 (quarenta e cinco) dias do ingresso do adolescente no programa de atendimento para as medidas de semiliberdade ou internação.</p>
+                        <p>De acordo com o parágrafo único do <strong>artigo 55</strong> do SINASE, o PIA deve ser elaborado no prazo de 45 (quarenta e cinco) dias do ingresso do adolescente no programa de atendimento para as medidas de semiliberdade ou internação.</p>
 
                         <p>No caso dos adolescentes que vieram do meio aberto, ou progrediram de uma medida de internação para a semiliberdade, não se faz necessária a elaboração de um novo PIA, e sim a atualização do anterior, reavaliadas a metas a fim de adequar e pactuar outras, considerando o novo momento.</p>
 
@@ -822,7 +842,7 @@ include('layout/header.php');
                                 CURIOSIDADE
                             </div>
                             <div class="content_box" id="conteudo_curiosidade">
-                                <p>A Lei 12.594/2012, no parágrafo único do artigo 44, determina que: “No caso de a substituição da medida importar em vinculação do adolescente a outro programa de atendimento, o plano individual e o histórico do cumprimento da medida deverão acompanhar a transferência”.</p>
+                                <p>A Lei 12.594/2012, no parágrafo único do <strong>artigo 44</strong>, determina que: “No caso de a substituição da medida importar em vinculação do adolescente a outro programa de atendimento, o plano individual e o histórico do cumprimento da medida deverão acompanhar a transferência”.</p>
                             </div>
                         </div>
 
@@ -851,39 +871,47 @@ include('layout/header.php');
                         <!-- Subtopico -->
                         <h3 class="Subtopico" id="item3">As Práticas Restaurativas como parte do processo socioeducativo</h3>
 
-                        <!-- IMAGEM NO SITE  -->
+                        <div class="apresentacao">
+                            <div>
+                                <!-- IMAGEM NO SITE  -->
 
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 05</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura05.png" data-bs-toggle="modal" data-bs-target="#Imagem1">
-                                    <img class="w-75" src="imgs/figura05.png" alt="" id="img-1">
-                                </a>
-                            </div><br>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Acervo SEAS</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura05.png" alt="">
-                                </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Acervo SEAS
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 05</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura05.png" data-bs-toggle="modal" data-bs-target="#imagem05">
+                                            <img class="w-75" src="imgs/figura05.png" alt="" id="img-1">
+                                        </a>
+                                    </div><br>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Acervo SEAS</p>
                                 </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="imagem05" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura05.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Acervo SEAS
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <p>Inicialmente, considera-se importante, contextualizar brevemente acerca da Justiça Restaurativa, como uma abordagem metodológica que se opõe a Justiça Retributiva na mediação de conflitos, enquanto esta se ocupa em somente aplicar a sanção penal ao autor que praticou crime ou ato infracional, aquela busca responsabilizar o autor do delito e cuidar das necessidades legítimas da vítima, conforme assevera Pinto:</p>
                             </div>
                         </div>
-                        <!-- Imagem - End-->
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
 
                         <!-- CITAÇÃO -->
                         <div class="citacao_texto">
-                            <p>Inicialmente, considera-se importante, contextualizar brevemente acerca da Justiça Restaurativa, como uma abordagem metodológica que se opõe a Justiça Retributiva na mediação de conflitos, enquanto esta se ocupa em somente aplicar a sanção penal ao autor que praticou crime ou ato infracional, aquela busca responsabilizar o autor do delito e cuidar das necessidades legítimas da vítima, conforme assevera Pinto:
-                                <br><br>
+                            <p>
+
                                 “A Justiça Restaurativa baseia-se num procedimento de consenso, em que a vítima e o infrator, e, quando apropriado, outras pessoas ou membros da comunidade afetados pelo crime, como sujeitos centrais, participam coletiva e ativamente na construção de soluções para a cura das feridas, dos traumas e perdas causados pelo crime.”
                             </p>
                             <p class="citacao blockquote-footer"><strong>Pinto (2005, p.19)</strong></p>
@@ -927,31 +955,54 @@ include('layout/header.php');
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">As Ações e Projetos</h4>
 
-                        <h5 style="font-size: 25px;">Projetos Abraços em família</h5>
+                        <!-- Balão informativo -->
+                        <div class="wow fadeIn balao_informativo1" data-wow-delay="0.3s">
+                            <strong><i class="fa-solid fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</strong>
+                        </div>
 
-                        <p>O Projeto Abraços em Família – Tecendo Redes de Solidariedade no Sistema Socioeducativo, ocorre mensalmente, com temáticas sistematizadas pela Assessoria Especial de Diretrizes Socioeducativas - ASDIS, sendo organizado pela equipe de profissionais de cada centro socioeducativo. O Projeto estabelece uma metodologia de atendimento às famílias, entendidas como pessoas que são unidas por laços não necessariamente de consanguinidade, mas muito mais de aliança, afeto e afinidade, visando a co-responsabilização e o apoio aos familiares no trabalho com jovens e adolescentes em cumprimento de medida socioeducativa, buscando fortalecer uma rede de solidariedade.</p>
+                        <!--  -->
+                        <div class="storytelling wow fadeIn" data-wow-delay="0.3s">
 
-                        <p>Deste modo, tendo como parâmetro o Eixo Abordagem Familiar e Comunitário estabelecido pelo Sistema Nacional de Atendimento Socioeducativo – SINASE o Projeto define os seguintes objetivos específicos:</p>
+                            <div class="tab">
+                                <button style="width: 33.5%;" class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen"><strong>Projetos Abraços em família</strong></button>
+                                <button style="width: 33.5%;" class="tablinks" onclick="openCity(event, 'mexico')" id="defaultOpen"><strong>Portaria das Visitas Familiares</strong></button>
+                                <button style="width: 33.5%;" class="tablinks" onclick="openCity(event, 'Paris')"><strong>Assembleia com os Adolescentes</strong></button>
 
-                        <ol>
-                            <li>A formação de parcerias com organizações municipais, estaduais e federais com o objetivo de fortalecer o Sistema de Garantia de Direitos;</li>
-                            <li>Formar continuadamente as equipes dos Centros Socioeducativos sobre o conceito de família de acordo com as diretrizes da Justiça Restaurativa e do Plano Nacional de Convivência Familiar e Comunitária;</li>
-                            <li>Planejar e executar atividades de forma participativa, buscando integrar e co-responsabilizar os familiares nas atividades com os socioeducandos;</li>
-                            <li>Favorecer a inclusão de familiares em atividades e programas que visem a inserção no mercado de trabalho;</li>
-                            <li>Elaborar e executar o Plano de Apoio às Famílias por meio de visitas domiciliares, atendimentos individuais e grupais e articulações institucionais.</li>
-                        </ol>
+                            </div>
 
-                        <h5 style="font-size: 25px;">Portaria das Visitas Familiares</h5>
+                            <div id="London" class="tabcontent">
+                                <h3>Projetos Abraços em família</h3>
+                                <p>O Projeto Abraços em Família – Tecendo Redes de Solidariedade no Sistema Socioeducativo, ocorre mensalmente, com temáticas sistematizadas pela Assessoria Especial de Diretrizes Socioeducativas - ASDIS, sendo organizado pela equipe de profissionais de cada centro socioeducativo. O Projeto estabelece uma metodologia de atendimento às famílias, entendidas como pessoas que são unidas por laços não necessariamente de consanguinidade, mas muito mais de aliança, afeto e afinidade, visando a co-responsabilização e o apoio aos familiares no trabalho com jovens e adolescentes em cumprimento de medida socioeducativa, buscando fortalecer uma rede de solidariedade.</p>
+                                <br>
+                                <p>Deste modo, tendo como parâmetro o Eixo Abordagem Familiar e Comunitário estabelecido pelo Sistema Nacional de Atendimento Socioeducativo – SINASE o Projeto define os seguintes objetivos específicos:</p>
+                                <br>
+                                <ol>
+                                    <li>A formação de parcerias com organizações municipais, estaduais e federais com o objetivo de fortalecer o Sistema de Garantia de Direitos;</li>
+                                    <li>Formar continuadamente as equipes dos Centros Socioeducativos sobre o conceito de família de acordo com as diretrizes da Justiça Restaurativa e do Plano Nacional de Convivência Familiar e Comunitária;</li>
+                                    <li>Planejar e executar atividades de forma participativa, buscando integrar e co-responsabilizar os familiares nas atividades com os socioeducandos;</li>
+                                    <li>Favorecer a inclusão de familiares em atividades e programas que visem a inserção no mercado de trabalho;</li>
+                                    <li>Elaborar e executar o Plano de Apoio às Famílias por meio de visitas domiciliares, atendimentos individuais e grupais e articulações institucionais.</li>
+                                </ol>
+                            </div>
 
-                        <p>Com a instituição da Portaria nº063/2017- SEAS que regulamenta as visitas nos Centros Socioeducativos é posto em destaque esse momento do processo socioeducativo, com a presença de profissionais das equipes técnicas para acompanhamento das visitas e valorização do momento como diferencial no processo de atendimento socioeducativo.</p>
+                            <div id="mexico" class="tabcontent">
+                                <h3>Portaria das Visitas Familiares</h3>
+                                <p>Com a instituição da Portaria nº063/2017- SEAS que regulamenta as visitas nos Centros Socioeducativos é posto em destaque esse momento do processo socioeducativo, com a presença de profissionais das equipes técnicas para acompanhamento das visitas e valorização do momento como diferencial no processo de atendimento socioeducativo.</p>
+                                <br>
+                                <p>Prevê o aumento do tempo médio de visita aos adolescentes, além da realização semanal da mesma, preferencialmente aos finais de semana, dias mais propícios para os familiares estarem juntos aos seus entes, sem precisar retirá-los das atividades pedagógicas durante a semana. Regulamenta ainda a visita de pessoas do círculo da comunidade, esposas e companheiras, de acordo com a avaliação da equipe técnica para manutenção dos vínculos positivos. Considerando a necessidade de fortalecer os vínculos familiares ou ainda a necessidade de organizar e normatizar o fluxo de visitas ao adolescente em medida socioeducativa, a referida portaria estabelece uma padronização das visitas familiares aos adolescentes.</p>
+                            </div>
 
-                        <p>Prevê o aumento do tempo médio de visita aos adolescentes, além da realização semanal da mesma, preferencialmente aos finais de semana, dias mais propícios para os familiares estarem juntos aos seus entes, sem precisar retirá-los das atividades pedagógicas durante a semana. Regulamenta ainda a visita de pessoas do círculo da comunidade, esposas e companheiras, de acordo com a avaliação da equipe técnica para manutenção dos vínculos positivos. Considerando a necessidade de fortalecer os vínculos familiares ou ainda a necessidade de organizar e normatizar o fluxo de visitas ao adolescente em medida socioeducativa, a referida portaria estabelece uma padronização das visitas familiares aos adolescentes.</p>
+                            <div id="Paris" class="tabcontent">
+                                <h3>Assembleia com os Adolescentes</h3>
+                                <p>As assembleias socioeducativas se constituem como uma prática restaurativa, que está baseada na escuta coletiva dos adolescentes/jovens em cumprimento de medida socioeducativa. Considera que todos os participantes têm algo para contribuir na consolidação da comunidade socioeducativa, nesse espaço, o adolescente/jovem tem papel ativo para apresentar e discutir suas necessidades, reivindicar e sugerir soluções junto a direção da unidade, gerência, coordenação técnica, coordenação de segurança, equipe técnica e socioeducadores. Devendo a pauta da assembleia estar devidamente registrada em Livro próprio, constando a relação e assinatura de todos os participantes e os encaminhamentos para as reuniões seguintes.</p>
+                                <br>
+                                <p>As assembleias ocorrem semanalmente em cada unidade socioeducativa, de modo a permitir a participação de todos os adolescentes/jovens, pelo menos quinzenalmente, sendo de fundamental importância, a apresentação de devolutivas imediatamente ou nas reuniões seguintes, em relação às questões apresentadas pelos socioeducandos.</p>
+                            </div>
 
-                        <h5 style="font-size: 25px;">Assembleia com os Adolescentes</h5>
 
-                        <p>As assembleias socioeducativas se constituem como uma prática restaurativa, que está baseada na escuta coletiva dos adolescentes/jovens em cumprimento de medida socioeducativa. Considera que todos os participantes têm algo para contribuir na consolidação da comunidade socioeducativa, nesse espaço, o adolescente/jovem tem papel ativo para apresentar e discutir suas necessidades, reivindicar e sugerir soluções junto a direção da unidade, gerência, coordenação técnica, coordenação de segurança, equipe técnica e socioeducadores. Devendo a pauta da assembleia estar devidamente registrada em Livro próprio, constando a relação e assinatura de todos os participantes e os encaminhamentos para as reuniões seguintes.</p>
+                        </div>
 
-                        <p>As assembleias ocorrem semanalmente em cada unidade socioeducativa, de modo a permitir a participação de todos os adolescentes/jovens, pelo menos quinzenalmente, sendo de fundamental importância, a apresentação de devolutivas imediatamente ou nas reuniões seguintes, em relação às questões apresentadas pelos socioeducandos.</p>
+
 
                         <!-- CAIXA DE TEXTO IMPORTANTE -->
                         <div class="destaques wow fadeIn" data-wow-delay="0.3s">
@@ -978,7 +1029,7 @@ include('layout/header.php');
                         <h5 style="font-size: 25px;">Conselhos disciplinares</h5>
 
                         <p>
-                            A Portaria n° 093/2022-SEAS, institui o Regime Disciplinar no Sistema Socioeducativo, definindo normas, rotinas e procedimentos para a consolidação e padronização das ações dos Conselhos Disciplinares no âmbito dos Centros Socioeducativos do Estado do Ceará, em conformidade com o artigo 71 e seguintes da Lei nº 12.594/2012 o qual estabelece os princípios dos Regimes Disciplinares.
+                            A Portaria n° 093/2022-SEAS, institui o Regime Disciplinar no Sistema Socioeducativo, definindo normas, rotinas e procedimentos para a consolidação e padronização das ações dos Conselhos Disciplinares no âmbito dos Centros Socioeducativos do Estado do Ceará, em conformidade com o <strong>artigo 71</strong> e seguintes da Lei nº 12.594/2012 o qual estabelece os princípios dos Regimes Disciplinares.
                         </p>
 
                         <!-- CAIXA DE TEXTO IMPORTANTE -->
@@ -1064,7 +1115,7 @@ include('layout/header.php');
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">Fundamentação legal</h4>
 
-                        <p>O estabelecimento de programas voltados para esse fim encontra arcabouço normativo nos termos do artigo 94, inciso XVIII, do Estatuto da Criança e do Adolescente, que estabelece, entre outras, essa obrigação para as entidades que desenvolvem programas de internação.</p>
+                        <p>O estabelecimento de programas voltados para esse fim encontra arcabouço normativo nos termos do <strong>artigo 94</strong>, inciso XVIII, do Estatuto da Criança e do Adolescente, que estabelece, entre outras, essa obrigação para as entidades que desenvolvem programas de internação.</p>
 
                         <p>Em levantamento anual do SINASE (2019), um dos pontos destacados contempla a situação de adolescentes após o cumprimento de medida, destacando o monitoramento, a existência de programa de acompanhamento e, por fim, as condições de acesso e permanência no programa.</p>
 
@@ -1254,34 +1305,34 @@ include('layout/header.php');
 
                         <div class="apresentacao">
                             <div>
-<!-- IMAGEM NO SITE  -->
+                                <!-- IMAGEM NO SITE  -->
 
-<div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 06</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura06.png" data-bs-toggle="modal" data-bs-target="#Imagem1">
-                                    <img class="w-75" src="imgs/figura06.png" alt="" id="img-1">
-                                </a>
-                            </div><br>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Própria da autora</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura06.png" alt="">
-                                </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Própria da autora
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 06</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura06.png" data-bs-toggle="modal" data-bs-target="#imagem06">
+                                            <img class="w-75" src="imgs/figura06.png" alt="" id="img-1">
+                                        </a>
+                                    </div><br>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Própria da autora</p>
                                 </div>
-                            </div>
-                        </div>
-                        <!-- Imagem - End-->
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="imagem06" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura06.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Própria da autora
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
                             <div class="d-flex align-items-center">
                                 <p>Os programas socioeducativos devem ser articulados, assegurando-se, assim, atenção integral aos adolescentes, contemplando as finalidades específicas das medidas socioeducativas. Essa articulação específica visa, principalmente, o atendimento de duas perspectivas:</p>
@@ -1357,9 +1408,9 @@ include('layout/header.php');
 
 
 
-                        
 
-                        
+
+
 
 
 

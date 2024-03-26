@@ -182,6 +182,11 @@ include('layout/header.php');
 
                         <p>A Portaria Conjunta dos Ministérios da Mulher, da Família e dos Direitos Humanos e da Cidadania nº 01, de 21 de Novembro de 2022, dispõe sobre as normas gerais para a integração entre os programas de atendimento socioeducativo conforme previsto no SINASE.</p>
 
+                        <!-- Balão informativo -->
+                        <div class="wow fadeIn balao_informativo1" data-wow-delay="0.3s">
+                            <strong><i class="fa-solid fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</strong>
+                        </div>
+
                         <!--  -->
                         <div class="storytelling wow fadeIn" data-wow-delay="0.3s">
 

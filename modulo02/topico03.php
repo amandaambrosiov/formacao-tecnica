@@ -756,7 +756,7 @@ include('layout/header.php');
                         <p>Nesse sentido, a construção do PIA precisa de um olhar múltiplo e articulado, contando com, no mínimo, a experiência do Serviço Social, Pedagogia e Psicologia, podendo ainda ter a colaboração de outros profissionais.</p>
 
                         <!-- Subsubtopico -->
-                        <h3 class="subsubtopico">Intersetorialidade: Somos uam rede!</h3>
+                        <h3 class="subsubtopico">Intersetorialidade: Somos uma rede!</h3>
 
                         <p>É importante saber que o acompanhamento socioeducativo não se dá apenas no SUAS, apesar deste ser protagonista na condução do processo pedagógico. O ECA traz um entendimento claro, assim como a Resolução nº 119/2006 do CONANDA e a Lei nº 12.594/2012 (Lei do SINASE), que afirmam ser a socioeducação composta por diversas políticas sociais, como a saúde, educação, cultura, esporte e lazer, trabalho e direitos humanos, etc. A falta de entendimento quanto a esse processo de acompanhamento não ser exclusividade do SUAS, não é uma das tarefas mais fáceis pela própria ausência de reconhecimento da pluralidade do Sistema, porém é importante sensibilizar as demais políticas a fazer parte do processo de constituição do SINASE em nível local, estadual e federal.</p>
 
@@ -772,23 +772,23 @@ include('layout/header.php');
                         <p>Segundo Adimari, Paes e Costa (2013) o planejamento das metas e ações previstas na construção do PIA deverão ser sinalizadas nas demandas do adolescente e sua família relativas aos seguintes aspectos, considerados indissociáveis:</p>
 
                         <div class="content_box_padrao">
-                            <p><strong>jurídico:</strong><br> acompanhamento da situação processual relativa ao ato infracional e à medida aplicada;</p>
+                            <p><strong>Jurídico:</strong><br> acompanhamento da situação processual relativa ao ato infracional e à medida aplicada;</p>
                         </div>
 
                         <div class="content_box_padrao">
-                            <p><strong>saúde física e mental:</strong><br> álise de demandas de assistência específicas, bem como ações preventivas e curativas;</p>
+                            <p><strong>Saúde física e mental:</strong><br> álise de demandas de assistência específicas, bem como ações preventivas e curativas;</p>
                         </div>
 
                         <div class="content_box_padrao">
-                            <p><strong>psicológico:</strong><br> álise dos recursos psíquicos, da subjetividade, das condições de desenvolvimento;</p>
+                            <p><strong>Psicológico:</strong><br> álise dos recursos psíquicos, da subjetividade, das condições de desenvolvimento;</p>
                         </div>
 
                         <div class="content_box_padrao">
-                            <p><strong>psicossocial:</strong><br> álise das relações sociais, familiares e comunitárias, identificação de aspectos facilitadores e dos obstáculos à inclusão social e</p>
+                            <p><strong>Psicossocial:</strong><br> álise das relações sociais, familiares e comunitárias, identificação de aspectos facilitadores e dos obstáculos à inclusão social e</p>
                         </div>
 
                         <div class="content_box_padrao">
-                            <p><strong>pedagógico:</strong><br> álise dos aspectos relativos à escolarização, profissionalização, cultura, esporte e lazer.</p>
+                            <p><strong>Pedagógico:</strong><br> álise dos aspectos relativos à escolarização, profissionalização, cultura, esporte e lazer.</p>
                         </div>
 
                         <div class="apresentacao">
@@ -928,37 +928,37 @@ include('layout/header.php');
 
                         <div class="content_box_padrao">
                             <p>
-                                <strong>INDIVIDUAL:</strong><br> Fatores individuais, características biológicas e psicológicas, traços de personalidade;
+                                <strong>Individual:</strong><br> Fatores individuais, características biológicas e psicológicas, traços de personalidade;
                             </p>
                         </div>
 
                         <div class="content_box_padrao">
                             <p>
-                                <strong>FAMILIAR:</strong><br> Estrutura da família e o seu funcionamento, papéis e regras de convivência sociofamiliar;
+                                <strong>Familiar:</strong><br> Estrutura da família e o seu funcionamento, papéis e regras de convivência sociofamiliar;
                             </p>
                         </div>
 
                         <div class="content_box_padrao">
                             <p>
-                                <strong>PARES:</strong><br> Amigos e pessoas de convívio próximo, o que pensam e os ambientes que frequentam;
+                                <strong>Pares:</strong><br> Amigos e pessoas de convívio próximo, o que pensam e os ambientes que frequentam;
                             </p>
                         </div>
 
                         <div class="content_box_padrao">
                             <p>
-                                <strong>COMUNITÁRIO:</strong><br> Membros da vizinhança, organizações, instituições e grupos, espaços e ambientes frequentados;
+                                <strong>Comunitário:</strong><br> Membros da vizinhança, organizações, instituições e grupos, espaços e ambientes frequentados;
                             </p>
                         </div>
 
                         <div class="content_box_padrao">
                             <p>
-                                <strong>ESCOLAR:</strong><br> Ambiente, relações e situação de aprendizagem;
+                                <strong>Escolar:</strong><br> Ambiente, relações e situação de aprendizagem;
                             </p>
                         </div>
 
                         <div class="content_box_padrao">
                             <p>
-                                <strong>SOCIOCULTURAL:</strong><br> Fatores do contexto e da estrutura social, cultural e política.
+                                <strong>Sociocultural:</strong><br> Fatores do contexto e da estrutura social, cultural e política.
                             </p>
                         </div>
 
@@ -1413,50 +1413,61 @@ include('layout/header.php');
                             (…) a inserção das famílias no Cadastro Único e a devida identificação do adolescente e seu respectivo NIS no Prontuário Eletrônico Simplificado constituem procedimentos que devem ser, obrigatoriamente, incorporados ao processo de trabalho de técnicos e gestores, iniciados desde o momento da acolhida. (Caderno de Orientações Técnicas – Serviço de Medidas Socioeducativas em Meio Aberto, 2016, pág. 68)
                         </p>
 
+                        <div class="apresentacao">
+                            <div>
+                                <!-- IMAGEM NO SITE  -->
 
-                        <!-- IMAGEM NO SITE  -->
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 22</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura22.png" data-bs-toggle="modal" data-bs-target="#Imagem22">
+                                            <img class="w-75" src="imgs/figura22.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
 
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 22</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura22.png" data-bs-toggle="modal" data-bs-target="#Imagem22">
-                                    <img class="w-75" src="imgs/figura22.png" alt="" id="img-1">
-                                </a>
-                            </div>
-
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem22" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura22.png" alt="">
                                 </div>
 
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem22" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura22.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <div>
+                                    <p>Dentre as informações que poderão ser registradas estão:</p>
+
+                                    <p><i class="seta bi bi-arrow-right-short"></i> Tipo de medida determinada pelo Judiciário e a data de sua expedição;</p>
+
+                                    <p><i class="seta bi bi-arrow-right-short"></i> Número de processo;</p>
+
+                                    <p><i class="seta bi bi-arrow-right-short"></i> Data de determinação Judicial da Medida;</p>
+
+                                    <p><i class="seta bi bi-arrow-right-short"></i> Data que o adolescente chegou na unidade;</p>
+
+                                    <p><i class="seta bi bi-arrow-right-short"></i> Se o PIA já foi elaborado;</p>
+
+                                    <p><i class="seta bi bi-arrow-right-short"></i> Tipo de atividade de PSC que está sendo realizada e em qual instituição;</p>
+
+                                    <p><i class="seta bi bi-arrow-right-short"></i> Datas e o motivo do fim do acompanhamento.</p>
+                                </div>
                             </div>
                         </div>
-                        <!-- Imagem - End-->
 
 
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
 
-                        <p>Dentre as informações que poderão ser registradas estão:</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> Tipo de medida determinada pelo Judiciário e a data de sua expedição;</p>
-
-                        <p><i class="seta bi bi-arrow-right-short"></i> Número de processo;</p>
-
-                        <p><i class="seta bi bi-arrow-right-short"></i> Data de determinação Judicial da Medida;</p>
-
-                        <p><i class="seta bi bi-arrow-right-short"></i> Data que o adolescente chegou na unidade;</p>
-
-                        <p><i class="seta bi bi-arrow-right-short"></i> Se o PIA já foi elaborado;</p>
-
-                        <p><i class="seta bi bi-arrow-right-short"></i> Tipo de atividade de PSC que está sendo realizada e em qual instituição;</p>
-
-                        <p><i class="seta bi bi-arrow-right-short"></i> Datas e o motivo do fim do acompanhamento.</p>
 
                         <div class="content_box_padrao">
                             <p>
