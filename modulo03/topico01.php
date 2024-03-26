@@ -263,7 +263,7 @@ include('layout/header.php');
                         <p>Por fim, quanto a medida sancionatória de internação sanção, a previsão de aplicação desta se dá no Art. 122 inciso III e parágrafo primeiro, que somente se deve aplicar aos socioeducandos que tenham descumprido reiterada e injustificadamente qualquer outra medida anteriormente aplicada e o prazo máximo não pode ser superior três meses, devendo ser decretada judicialmente após o devido processo legal bem como que seja respeitada o que preconiza a súmula 265 do STJ, ou seja, antes de decretá-la é necessário a realização da oitiva do socioeducando.</p>
 
 
-                        <h5 style="font-size: 18px;">Do Gereanciamento das Vagas Socioeducativas no Estado do Ceará</h5>
+                        <h5 style="font-size: 18px;">Do Gerenciamento das Vagas Socioeducativas no Estado do Ceará</h5>
 
                         <div class="content_box_padrao">
                             <p>A lei nº 16.040/2016, dispõe sobre a criação da Superintendência Estadual do Sistema Socioeducativo do Estado do Ceará - SEAS. É de competência da (SEAS) coordenar a gestão e a execução da política de atendimento socioeducativo, assim como coordenar a execução de programas e ações destinados ao atendimento inicial integrado de adolescentes apreendidos.</p>
