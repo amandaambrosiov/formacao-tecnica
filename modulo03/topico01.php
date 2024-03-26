@@ -1318,6 +1318,45 @@ include('layout/header.php');
                             </div>
                         </div>
 
+                        <p>A partir das informações e direcionamentos presentes no PIA, é possível proporcionar uma continuidade na oferta de serviços e atividades, evitando rupturas e garantindo um atendimento mais efetivo e adequado às necessidades específicas de cada jovem.</p>
+
+                        <!-- Subsubtopico  -->
+                        <h4 class="subsubtopico">Desafios e perspectivas</h4>
+
+                        <p>As iniciativas de atuação conjunta das equipes que compõem as medidas socioeducativas em meio aberto e meio fechado ainda são incipientes, favorecendo, assim, à fragmentação e compartimentalização das ações e à atuação isolada, às vezes até repetitiva e desnecessária.</p>
+
+                        <!-- CAIXA DE TEXTO FIQUE ATENTO -->
+                        <div class="destaques wow fadeIn" data-wow-delay="0.3s">
+                            <div class="caixaprincipal" id="titulo_fiqueatento">
+                                <i class="fa-solid fa-person-circle-exclamation"></i>
+                                FIQUE ATENTO
+                            </div>
+                            <div class="content_box" id="conteudo_fiqueatento">
+                                <p>Um dos principais desafios é a falta de continuidade no acompanhamento socioeducativo. Sem um fluxo estabelecido, pode haver uma quebra na manutenção do trabalho realizado com os adolescentes quando ocorre a transição entre as medidas (meio aberto <--> meio fechado). Isso pode resultar na perda de informações importantes, falta de acompanhamento adequado e descontinuidade das estratégias e atividades implementadas anteriormente.</p>
+                            </div>
+                        </div>
+
+                        <p>A falta de um fluxo pode dificultar a comunicação e a troca de informações entre as equipes responsáveis pelo acompanhamento em meio aberto e pelos profissionais das instituições socioeducativas em meio fechado. A ausência de canais claros de comunicação e protocolos para compartilhamento de dados relevantes pode levar a falhas na transmissão de informações essenciais sobre o histórico, o desenvolvimento e as necessidades dos adolescentes.</p>
+
+                        <p>Outro desafio é a falta de integração das estratégias e atividades socioeducativas em meio aberto e meio fechado. Cada modalidade de medida socioeducativa possui suas particularidades e abordagens específicas, e sem esse fluxo formalizado se torna difícil integrar essas diferentes abordagens, prejudicando a coerência e a complementaridade das ações realizadas nos dois contextos, e comprometendo a efetividade do processo de ressocialização e a promoção do desenvolvimento dos adolescentes.</p>
+
+                        <p>Como perspectiva é essencial estabelecer um fluxo claro e estruturado entre as medidas socioeducativas em meio aberto e meio fechado. Isso envolve a definição de protocolos de comunicação, compartilhamento de informações, planejamento e implementação de estratégias e atividades integradas, além do acompanhamento pós-medida.</p>
+
+                        <!-- CAIXA DE TEXTO REFLITA -->
+                        <div class="destaques wow fadeIn" data-wow-delay="0.3s">
+                            <div class="caixaprincipal" id="titulo_reflita">
+                                <i class="fa-solid fa-head-side-virus"></i>
+                                REFLITA
+                            </div>
+                            <div class="content_box" id="conteudo_reflita">
+                                <p>Outro fator que merece destaque é a necessidade de fortalecimento dos estudos de casos envolvendo as equipes das medidas em meio aberto e meio fechado, permitindo uma visão mais abrangente e integrada do processo socioeducativo e proporcionando uma compreensão mais profunda das necessidades, desafios e potencialidades de cada adolescente, bem como dos contextos em que estão inseridos.</p>
+                            </div>
+                        </div>
+
+                        <p>Faz-se necessária a estruturação de um plano para a transição entre as medidas em meio aberto e meio fechado, evitando lacunas no atendimento, resultando em respostas adequadas às necessidades dos adolescentes, evitando o risco de reincidência e prejuízos à reintegração social destes.</p>
+
+
+
                         
 
                         
@@ -1344,7 +1383,7 @@ include('layout/header.php');
     <div class="text-center">
         <a href="index.php" class="btn btn-outline-success" role="button" aria-pressed="true">
             <i class="fa-solid fa-chevron-left"></i> Voltar </a>
-        <a href="topico02.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
+        <a href="referencias.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i class="fa-solid fa-chevron-right"></i></a>
     </div>
 
     <!-- BACK TO TOP -->
