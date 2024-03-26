@@ -14,7 +14,7 @@
         <li class="menu">
             <a data-valor="topico01.php">
                 <span class="icon space"><i class="bi bi-1-circle"></i></span>
-                <span class="txt">01 - Interação Humano-Computador</span>
+                <span class="txt">Práticas Restaurativas no Sistema Socioeducativo</span>
                 <i class="bi bi-caret-down-fill barra-sub"></i>
             </a>
         </li>
@@ -23,46 +23,26 @@
     <div class="dropdown-container">
         <a href="topico01.php">
             <i class="bi bi-journals circulo"></i>Início</a>
-        <a href="#item">
-            <i class="bi bi-journals circulo"></i>01.1 - Áreas de Estudo em IHC</a>
+        <a href="#item1">
+            <i class="bi bi-journals circulo"></i>01.1 - Sistema de Fases do Atendimento Socioeducativo</a>
+
+        <a href="#item2">
+            <i class="bi bi-journals circulo"></i>01.2 - Estudo polidimensional do adolescente jovem e o Plano Individual de Atendimento Socioeducativo – PIA em Meio Fechado
+        </a>
+
+        <a href="#item3">
+            <i class="bi bi-journals circulo"></i>01.3 - As Práticas Restaurativas como parte do processo socioeducativo
+        </a>
+
+        <a href="#item4">
+            <i class="bi bi-journals circulo"></i>01.4 - Programa de Atendimento Pós-Cumprimento de Medida Socioeducativa – experiência do Programa de Oportunidades e Cidadania
+        </a>
+
+        <a href="#item5">
+            <i class="bi bi-journals circulo"></i>01.5 - Relação das medidas socioeducativas em meio fechado e a política de assistência social
+
+        </a>
     </div>
-
-    <!-- Tópico -->
-    <li class="menu">
-        <a href="topico02.php">
-            <span class="icon "><i class="bi bi-2-circle"></i>
-            </span>
-            <span class="txt">02 - História do UX</i></span>
-        </a>
-    </li>
-
-
-    <!-- Tópico -->
-    <li class="menu">
-        <a href="topico03.php">
-            <span class="icon "><i class="bi bi-3-circle"></i>
-            </span>
-            <span class="txt">03 - Disciplinas de UX</i></span>
-        </a>
-    </li>
-
-    <!-- Tópico -->
-    <li class="menu">
-        <a href="topico04.php">
-            <span class="icon "><i class="bi bi-4-circle"></i>
-            </span>
-            <span class="txt">04 - Quem é usuário?</i></span>
-        </a>
-    </li>
-
-    <!-- Tópico -->
-    <li class="menu">
-        <a href="topico05.php">
-            <span class="icon "><i class="bi bi-5-circle"></i>
-            </span>
-            <span class="txt">05 - Benefícios de UX</i></span>
-        </a>
-    </li>
 
 
     <li class="menu">
