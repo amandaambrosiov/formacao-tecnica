@@ -185,18 +185,20 @@ include('layout/header.php');
                                 </h2>
                                 <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p><i class="seta bi bi-arrow-right-short"></i> Avaliação do processo da MSE junto ao adolescente e sua família;
-                                        <br><br>
-                                            <i class="seta bi bi-arrow-right-short"></i> Elaboração e encaminhamento do relatório conclusivo do cumprimento da medida socioeducativa ao Poder Judiciário;
-                                            <i class="seta bi bi-arrow-right-short"></i> Monitoramento da decisão do Poder Judiciário quanto à finalização do processo de MSE:
-                                            <br><br>
-                                            Caso o adolescente seja liberado, finalizar o acompanhamento do cumprimento da MSE registrando a avaliação no Prontuário SUAS;
-                                            Caso o adolescente não seja liberado e a medida seja prorrogada ou alterada (mas permaneça em meio aberto), readequar o PIA;
-                                            <br><br>
-                                            Caso a família seja acompanhada pelo PAEFI, analisar a possibilidade de readequação do PAF e continuar acompanhamento;
-<br><br>
-                                            <i class="seta bi bi-arrow-right-short"></i> Devolutiva para o adolescente e sua família da decisão judicial.
-                                        </p>
+                                        <p><i class="seta bi bi-arrow-right-short"></i> Avaliação do processo da MSE junto ao adolescente e sua família;</p>
+
+                                        <p><i class="seta bi bi-arrow-right-short"></i> Elaboração e encaminhamento do relatório conclusivo do cumprimento da medida socioeducativa ao Poder Judiciário;</p>
+
+                                        <p><i class="seta bi bi-arrow-right-short"></i> Monitoramento da decisão do Poder Judiciário quanto à finalização do processo de MSE:</p>
+
+                                        <p style="margin-left: 40px;"><i class="seta bi bi-arrow-right-short"></i> Caso o adolescente seja liberado, finalizar o acompanhamento do cumprimento da MSE registrando a avaliação no Prontuário SUAS;</p>
+
+                                        <p style="margin-left: 40px;"><i class="seta bi bi-arrow-right-short"></i> Caso o adolescente não seja liberado e a medida seja prorrogada ou alterada (mas permaneça em meio aberto), readequar o PIA;</p>
+
+                                        <p style="margin-left: 80px;"><i class="seta bi bi-arrow-right-short"></i> Caso a família seja acompanhada pelo PAEFI, analisar a possibilidade de readequação do PAF e continuar acompanhamento;</p>
+
+                                        <p><i class="seta bi bi-arrow-right-short"></i> Devolutiva para o adolescente e sua família da decisão judicial.</p>
+
                                     </div>
                                 </div>
                             </div>
@@ -215,9 +217,9 @@ include('layout/header.php');
                         </div>
 
                         <div class="content_box_padrao">
-                        <p>A seguir, trataremos do acompanhamento oferecido aos adolescentes em cumprimento de medidas socioeducativas, e suas famílias, através do Serviço de proteção social a adolescentes em cumprimento de medida socioeducativa de Liberdade Assistida (LA) e de Prestação de Serviços à Comunidade (PSC) executado pelos CREAS.</p>
+                            <p>A seguir, trataremos do acompanhamento oferecido aos adolescentes em cumprimento de medidas socioeducativas, e suas famílias, através do Serviço de proteção social a adolescentes em cumprimento de medida socioeducativa de Liberdade Assistida (LA) e de Prestação de Serviços à Comunidade (PSC) executado pelos CREAS.</p>
                         </div>
-                        
+
                         <p>
                             Vale destacar que, na ausência dessa Unidade, o órgão gestor da Política de Assistência Social, através da Proteção Social Especial, deve atender a demanda adaptando o que prevê o Serviço mas respeitando o SINASE.
                         </p>
