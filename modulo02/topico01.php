@@ -214,8 +214,10 @@ include('layout/header.php');
                             </div>
                         </div>
 
+                        <div class="content_box_padrao">
                         <p>A seguir, trataremos do acompanhamento oferecido aos adolescentes em cumprimento de medidas socioeducativas, e suas famílias, através do Serviço de proteção social a adolescentes em cumprimento de medida socioeducativa de Liberdade Assistida (LA) e de Prestação de Serviços à Comunidade (PSC) executado pelos CREAS.</p>
-
+                        </div>
+                        
                         <p>
                             Vale destacar que, na ausência dessa Unidade, o órgão gestor da Política de Assistência Social, através da Proteção Social Especial, deve atender a demanda adaptando o que prevê o Serviço mas respeitando o SINASE.
                         </p>

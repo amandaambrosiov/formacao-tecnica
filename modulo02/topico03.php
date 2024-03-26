@@ -71,16 +71,19 @@ include('layout/header.php');
                             </div>
                         </div>
 
-                        <div class="content_box_padrao">
-                            <p>
-                                Para Adimari, Paes e Costa (2013, p.110) o PIA é
+                        <br><br>
+
+                        <!-- CITAÇÃO -->
+                        <div class="citacao_texto">
+                            <p>Para Adimari, Paes e Costa o PIA é:
                                 <br><br>
                                 “um instrumento fundamental para garantir a equidade do processo socioeducativo, por se tratar da memória registrada e ativa dos mais importantes aspectos da vida e do processo socioeducativo do adolescente”.
                             </p>
+                            <p class="citacao blockquote-footer"><strong>Adimari, Paes e Costa (2013, p.110)</strong></p>
                         </div>
 
                         <p>
-                            Segundo o Caderno de Orientações Técnicas: Serviço de Medidas Socioeducativas em Meio Aberto (2016, p.59)
+
                         </p>
 
                         <!-- CAIXA DE TEXTO IMPORTANTE -->
@@ -90,7 +93,8 @@ include('layout/header.php');
                                 IMPORTANTE
                             </div>
                             <div class="content_box" id="conteudo_importante">
-                                <p>O PIA é um instrumento de planejamento que deve ser pactuado entre o técnico e o adolescente envolvendo a sua família e as demais políticas setoriais, conforme os objetivos e as metas consensuadas na sua elaboração. Deve ser utilizado como ferramenta para a convergência das ações intersetoriais, estabelecendo objetivos e metas a serem cumpridas pelo adolescente.</p>
+                                <p>Segundo o Caderno de Orientações Técnicas: Serviço de Medidas Socioeducativas em Meio Aberto (2016, p.59) <br><br>
+                                    O PIA é um instrumento de planejamento que deve ser pactuado entre o técnico e o adolescente envolvendo a sua família e as demais políticas setoriais, conforme os objetivos e as metas consensuadas na sua elaboração. Deve ser utilizado como ferramenta para a convergência das ações intersetoriais, estabelecendo objetivos e metas a serem cumpridas pelo adolescente.</p>
                             </div>
                         </div>
 
@@ -178,6 +182,11 @@ include('layout/header.php');
                                 <strong>Art. 59º</strong> - prevê o acesso ao PIA restrito aos servidores do respectivo programa de atendimento, ao adolescente e a seus pais ou responsável, ao Ministério Público e ao Defensor, exceto expressa autorização judicial.
                             </p>
                         </div>
+
+                        <!-- Balão informativo -->
+                        <div class="wow fadeIn balao_informativo1" data-wow-delay="0.3s">
+                            <strong><i class="fa-solid fa-lightbulb"></i> Clique nas imagems abaixo para mais informações</strong>
+                        </div><br><br>
 
                         <!-- BOTÃO GRANDE COM IMAGEM E TEXTO -->
                         <div>
@@ -278,10 +287,10 @@ include('layout/header.php');
                             <p>
                                 De forma bem sucinta e para melhor compreensão temos como objetivos do PIA:
                                 <br><br>
-                                <i class="seta bi bi-arrow-right-short"></i> estimular o adolescente a aderir ao processo socioeducativo, ampliando suas perspectivas futuras;<br><br>
-                                <i class="seta bi bi-arrow-right-short"></i> materializar o trabalho social desenvolvido com os adolescentes;<br><br>
-                                <i class="seta bi bi-arrow-right-short"></i> sistematizar as análises da equipe técnica e construir estratégias de intervenção com o adolescente;<br><br>
-                                <i class="seta bi bi-arrow-right-short"></i> estimular a responsabilização do adolescente por meio das metas estabelecidas em conjunto.
+                                <i class="seta bi bi-arrow-right-short text-light"></i> Estimular o adolescente a aderir ao processo socioeducativo, ampliando suas perspectivas futuras;<br><br>
+                                <i class="seta bi bi-arrow-right-short text-light"></i> Materializar o trabalho social desenvolvido com os adolescentes;<br><br>
+                                <i class="seta bi bi-arrow-right-short text-light"></i> Sistematizar as análises da equipe técnica e construir estratégias de intervenção com o adolescente;<br><br>
+                                <i class="seta bi bi-arrow-right-short text-light"></i> Estimular a responsabilização do adolescente por meio das metas estabelecidas em conjunto.
                             </p>
                         </div>
 
@@ -878,19 +887,21 @@ include('layout/header.php');
 
                         <p>Durante a acolhida do adolescente e de sua família, os técnicos de referência do Serviço de MSE em Meio Aberto devem orientá-los sobre:</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> a natureza e os objetivos das medidas socioeducativas em meio aberto;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> A natureza e os objetivos das medidas socioeducativas em meio aberto;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> os prazos do cumprimento da medida; a situação jurídica;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Os prazos do cumprimento da medida;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> os procedimentos técnicos e administrativos;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> A situação jurídica;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> a dimensão pedagógica e de responsabilização da medida socioeducativa;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Os procedimentos técnicos e administrativos;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> a relação com os órgãos de defesa de direitos;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> A dimensão pedagógica e de responsabilização da medida socioeducativa;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> o acesso aos serviços públicos;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> A relação com os órgãos de defesa de direitos;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> a elaboração do PIA.</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> O acesso aos serviços públicos;</p>
+
+                        <p><i class="seta bi bi-arrow-right-short"></i> A elaboração do PIA.</p>
 
                         <p>Na acolhida, assim como em todos os momentos com o adolescente, a comunicação é um fator primordial, pois precisamos ter consciência de que em nós, tudo fala: o corpo, o olhar, o gestual, o espaço e o toque também. Os adolescentes trazem linguagens próprias que se manifestam não apenas no discurso, mas nas roupas, nos cortes de cabelo, nas tatuagens, no uso de acessórios.</p>
 
@@ -953,32 +964,28 @@ include('layout/header.php');
 
                         <p>Importante ressaltar que, ao analisar cada dimensão, não se pode transformar e reduzir o PIA a nenhuma das seguintes ações:</p>
 
-                        <p>mera declaração de intenções;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Mera declaração de intenções;</p>
 
-                        <p>descrição da atuação do programa (não confundir PIA com PPP);</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Descrição da atuação do programa (não confundir PIA com PPP);</p>
 
-                        <p>diagnóstico de demandas;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Diagnóstico de demandas;</p>
 
-                        <p>instrumento burocrático que engessa o trabalho;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Instrumento burocrático que engessa o trabalho;</p>
 
-                        <p>um formulário a mais de coleta de dados;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Um formulário a mais de coleta de dados;</p>
 
-                        <p> instrumento para encurtamento ou prolongamento desnecessário da medida;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Instrumento para encurtamento ou prolongamento desnecessário da medida;</p>
 
-                        <p> instrumento de verificação da incapacidade do adolescente e da família.</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Instrumento de verificação da incapacidade do adolescente e da família.</p>
 
-                        <!-- CAIXA DE TEXTO FIQUE ATENTO -->
-                        <div class="destaques wow fadeIn" data-wow-delay="0.3s">
-                            <div class="caixaprincipal" id="titulo_fiqueatento">
-                                <i class="fa-solid fa-person-circle-exclamation"></i>
-                                FIQUE ATENTO
-                            </div>
-                            <div class="content_box" id="conteudo_fiqueatento">
-                                <p>“PIA não é um instrumento a ser PREENCHIDO. Ele deve ser CONSTRUÍDO.”
-                                    <br><br>
-                                    Carla Marcelino
-                                </p>
-                            </div>
+
+
+                        <div class="content_box_padrao">
+                            <p>
+                                “PIA não é um instrumento a ser PREENCHIDO. Ele deve ser CONSTRUÍDO.”
+                                <br>
+                                - Carla Marcelino
+                            </p>
                         </div>
 
                         <!-- Subsubtopico  -->
@@ -1012,9 +1019,9 @@ include('layout/header.php');
 
                         <p>No SUAS há muitas formas de produzir e tratar as informações que formarão o diagnóstico socioeducativo, dentre elas:</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> a entrevista;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> A entrevista;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> a visita domiciliar;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> A visita domiciliar;</p>
 
                         <p><i class="seta bi bi-arrow-right-short"></i> Prontuário do SUAS.</p>
 
@@ -1028,9 +1035,9 @@ include('layout/header.php');
 
                         <p>Existem diversas técnicas para realizar entrevistas:</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> formais ou informais;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Formais ou informais;</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> em salas reservadas ou em espaços abertos, por meio de conversas descompromissadas, durante a preparação de um lanche na copa, tomando sorvete ou comendo uma pizza junto.</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Em salas reservadas ou em espaços abertos, por meio de conversas descompromissadas, durante a preparação de um lanche na copa, tomando sorvete ou comendo uma pizza junto.</p>
 
                         <div class="content_box_padrao">
                             <p>
@@ -1158,35 +1165,42 @@ include('layout/header.php');
 
                         <p><strong>O PRONTUÁRIO SUAS FÍSICO</strong></p>
 
-                        <p>É o principal instrumento de coleta de informações disponível no SUAS e traz elementos bastante completos para um diagnóstico socioterritorial das famílias acompanhadas. Antes de começar a preencher o Prontuário do SUAS, é importante verificar se os dados sobre a família já estão em outros sistemas, como o Cadastro Único. Ele deve ser utilizado para o registro do acompanhamento pelos Serviços do CREAS (PAEFI e MSE em meio aberto).</p>
+                        <div class="apresentacao">
+                            <div>
+                                <!-- IMAGEM NO SITE  -->
 
-                        <!-- IMAGEM NO SITE  -->
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 17</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura17.png" data-bs-toggle="modal" data-bs-target="#Imagem17">
+                                            <img class="w-75" src="imgs/figura17.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
 
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 17</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura17.png" data-bs-toggle="modal" data-bs-target="#Imagem17">
-                                    <img class="w-75" src="imgs/figura17.png" alt="" id="img-1">
-                                </a>
-                            </div>
-
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem17" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura17.png" alt="">
                                 </div>
 
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem17" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura17.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+
+                            </div>
+
+                            <div class="d-flex align-items-center">
+                                <p>É o principal instrumento de coleta de informações disponível no SUAS e traz elementos bastante completos para um diagnóstico socioterritorial das famílias acompanhadas. Antes de começar a preencher o Prontuário do SUAS, é importante verificar se os dados sobre a família já estão em outros sistemas, como o Cadastro Único. Ele deve ser utilizado para o registro do acompanhamento pelos Serviços do CREAS (PAEFI e MSE em meio aberto).</p>
                             </div>
                         </div>
-                        <!-- Imagem - End-->
-
-
-
-                        <!-- FIM DA IMAGEM NO SITE  -->
 
 
 
@@ -1196,74 +1210,100 @@ include('layout/header.php');
                             </p>
                         </div>
 
-                        <!-- IMAGEM NO SITE  -->
+                        <div class="apresentacao">
+                            <div>
+                                <!-- IMAGEM NO SITE  -->
 
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 18</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura18.png" data-bs-toggle="modal" data-bs-target="#Imagem18">
-                                    <img class="w-75" src="imgs/figura18.png" alt="" id="img-1">
-                                </a>
-                            </div>
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 18</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura18.png" data-bs-toggle="modal" data-bs-target="#Imagem18">
+                                            <img class="w-75" src="imgs/figura18.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
 
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem18" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura18.png" alt="">
                                 </div>
 
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem18" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura18.png" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <p>
+                                    É necessário informar de que órgão o adolescente foi encaminhado ao CREAS ou outra unidade do SUAS para o cumprimento de medidas. Diferentemente de qualquer outro serviço na Assistência Social, a única porta de entrada é o encaminhamento do Judiciário, ou seja, só são recebidos para o serviço de medidas socioeducativas adolescentes que tenham sido sentenciados.
+                                </p>
                             </div>
                         </div>
-                        <!-- Imagem - End-->
+
+                        <div class="row">
+                            <div class="col">
+                                <div class="content_box_padrao">
+                                    <p>
+                                        Há no Prontuários SUAS questões que versam sobre diversos aspectos da vida da família atendida, como:
+                                        <br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Tipo de moradia e acesso a serviços públicos básicos;<br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Condições sociais e acesso a benefícios;<br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Formação educacional;<br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Pertencimento a populações de povos e comunidades tradicionais;<br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Condições de trabalho e renda;<br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Acesso a saúde e segurança alimentar;<br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Convivência familiar e comunitária;<br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Violações de direitos intra e/ou extrafamiliares;<br><br>
+                                        <i class="seta bi bi-arrow-right-short text-light"></i> Inserção em serviços de acolhimento.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="col">
+                                <div class="content_box_padrao">
+                                    <p>
+                                        Segundo o Caderno de orientações do serviço de MSE em meio aberto (2016) são dados necessários para a elaboração do PIA:
+                                        <br><br>
+
+                                    <div class="apresentacao">
+                                        <div>
+                                            <p>
+                                                Dados de identificação do adolescente.<br><br>
+                                                Questões relativas a:<br><br>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Escolaridade;<br><br>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Vida profissional; <br><br>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Saúde;<br><br>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Vida sexual;<br><br>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Histórico em relação à execução de medidas socioeducativas;<br><br>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Informações sobre atividades de cultura, esporte, lazer;
+                                            </p>
+                                        </div>
+                                        <div>
+                                            <p>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Informações processuais;<br><br>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Registro de documentos do adolescente ou tomada de providências em caso de não possuir os documentos necessários referentes à sua identificação;<br><br>
+                                                <i class="seta bi bi-arrow-right-short text-light"></i> Atuais perspectivas, projetos de vida e áreas de interesse.
+                                            </p>
+                                        </div>
+                                    </div>
 
 
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
-
-                        <div class="content_box_padrao_cinza">
-                            <p>
-                                É necessário informar de que órgão o adolescente foi encaminhado ao CREAS ou outra unidade do SUAS para o cumprimento de medidas. Diferentemente de qualquer outro serviço na Assistência Social, a única porta de entrada é o encaminhamento do Judiciário, ou seja, só são recebidos para o serviço de medidas socioeducativas adolescentes que tenham sido sentenciados.
-                            </p>
+                                    </p>
+                                </div>
+                            </div>
                         </div>
 
-                        <div class="content_box_padrao">
-                            <p>
-                                Há no Prontuários SUAS questões que versam sobre diversos aspectos da vida da família atendida, como:
-                                <br><br>
-                                Tipo de moradia e acesso a serviços públicos básicos;<br><br>
-                                Condições sociais e acesso a benefícios;<br><br>
-                                Formação educacional;<br><br>
-                                Pertencimento a populações de povos e comunidades tradicionais;<br><br>
-                                Condições de trabalho e renda;<br><br>
-                                Acesso a saúde e segurança alimentar;<br><br>
-                                Convivência familiar e comunitária;<br><br>
-                                Violações de direitos intra e/ou extrafamiliares;<br><br>
-                                Inserção em serviços de acolhimento.
-                            </p>
-                        </div>
 
-                        <div class="content_box_padrao">
-                            <p>
-                                Segundo o Caderno de orientações do serviço de MSE em meio aberto (2016) são dados necessários para a elaboração do PIA:
-                                <br><br>
 
-                                Dados de identificação do adolescente;<br><br>
-                                Questões relativas a:<br><br>
-                                escolaridade;<br><br>
-                                vida profissional;
-                                saúde;<br><br>
-                                vida sexual;<br><br>
-                                histórico em relação à execução de medidas socioeducativas;<br><br>
-                                informações sobre atividades de cultura, esporte, lazer;<br><br>
-                                Informações processuais;<br><br>
-                                Registro de documentos do adolescente ou tomada de providências em caso de não possuir os documentos necessários referentes à sua identificação;<br><br>
-                                Atuais perspectivas, projetos de vida e áreas de interesse.
-                            </p>
-                        </div>
+
 
                         <!-- IMAGEM NO SITE  -->
 
@@ -1431,21 +1471,21 @@ include('layout/header.php');
                                 <!-- IMAGEM NO SITE  -->
 
                                 <div class="text-center img-01 wow zoomIn">
-                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 21</strong>
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 23</strong>
                                     </p>
                                     <div class="zoom">
-                                        <a href="imgs/figura21.png" data-bs-toggle="modal" data-bs-target="#Imagem21">
-                                            <img class="w-75" src="imgs/figura21.png" alt="" id="img-1">
+                                        <a href="imgs/figura23.png" data-bs-toggle="modal" data-bs-target="#Imagem23">
+                                            <img class="w-25" src="imgs/figura23.png" alt="" id="img-1">
                                         </a>
                                     </div>
 
                                 </div>
 
                                 <!-- Imagem - MODAL-->
-                                <div class="modal fade text-center" id="Imagem21" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal fade text-center" id="Imagem23" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/figura21.png" alt="">
+                                            <img class="img-fluid" src="imgs/figura23.png" alt="">
                                         </div>
 
                                     </div>
@@ -1499,21 +1539,21 @@ include('layout/header.php');
                                 <!-- IMAGEM NO SITE  -->
 
                                 <div class="text-center img-01 wow zoomIn">
-                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 22</strong>
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 24</strong>
                                     </p>
                                     <div class="zoom">
-                                        <a href="imgs/figura22.png" data-bs-toggle="modal" data-bs-target="#Imagem22">
-                                            <img class="w-75" src="imgs/figura22.png" alt="" id="img-1">
+                                        <a href="imgs/figura24.png" data-bs-toggle="modal" data-bs-target="#Imagem24">
+                                            <img class="w-75" src="imgs/figura24.png" alt="" id="img-1">
                                         </a>
                                     </div>
 
                                 </div>
 
                                 <!-- Imagem - MODAL-->
-                                <div class="modal fade text-center" id="Imagem22" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal fade text-center" id="Imagem24" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                         <div class="modal-content w-75">
-                                            <img class="img-fluid" src="imgs/figura22.png" alt="">
+                                            <img class="img-fluid" src="imgs/figura24.png" alt="">
                                         </div>
 
                                     </div>
@@ -1695,42 +1735,42 @@ include('layout/header.php');
                                 <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
                             <div class="col">
-<!-- IMAGEM NO SITE  -->
+                                <!-- IMAGEM NO SITE  -->
 
-<div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 29</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/figura29.png" data-bs-toggle="modal" data-bs-target="#Imagem29">
-                                    <img class="w-75" src="imgs/figura29.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41)</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem29" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/figura29.png" alt="">
-                                </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41)
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 29</strong>
                                     </p>
+                                    <div class="zoom">
+                                        <a href="imgs/figura29.png" data-bs-toggle="modal" data-bs-target="#Imagem29">
+                                            <img class="w-75" src="imgs/figura29.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41)</p>
                                 </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem29" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/figura29.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong>Caderno de orientações técnicas para elaboração do plano individual de atendimento (PIA) de medidas socioeducativas em meio aberto, 2022, p.41)
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
                             </div>
                         </div>
-                        <!-- Imagem - End-->
 
 
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
-                            </div>
-                        </div>
 
-
-
-                        
 
                         <p><strong>Como planejar a LA?</strong></p>
 
@@ -1877,7 +1917,7 @@ include('layout/header.php');
                                 FIQUE ATENTO
                             </div>
                             <div class="content_box" id="conteudo_fiqueatento">
-                                <p>Monitorar não é vigiar !!!</p>
+                                <p>Monitorar não é vigiar!</p>
                             </div>
                         </div>
 
@@ -1937,16 +1977,16 @@ include('layout/header.php');
 
                         <p><strong>Cabe à unidade de acompanhamento do SUAS:</strong></p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> credenciar, capacitar, acompanhar, supervisionar e dar apoio técnico às entidades parceiras por meios diversos (reuniões semanais, videoconferências, oficinas de capacitação, supervisão continuada).</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Credenciar, capacitar, acompanhar, supervisionar e dar apoio técnico às entidades parceiras por meios diversos (reuniões semanais, videoconferências, oficinas de capacitação, supervisão continuada).</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> às Unidades devem estabelecer as rotinas de monitoramento junto à entidade em conjunto com os profissionais de nível superior e os técnicos que acompanham diretamente o adolescente, sendo discutidas coletivamente todas as dificuldades apresentadas e superadas.</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Às Unidades devem estabelecer as rotinas de monitoramento junto à entidade em conjunto com os profissionais de nível superior e os técnicos que acompanham diretamente o adolescente, sendo discutidas coletivamente todas as dificuldades apresentadas e superadas.</p>
 
                         <p><strong>Cabe à entidade parceira:</strong></p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i>apoiar o adolescente no desenvolvimento da atividade, observando sua execução, os cuidados necessários para o bom desempenho e o suporte para identificar dificuldades e dar retorno ao serviço de acompanhamento do SUAS;<br><br>
-                            <i class="seta bi bi-arrow-right-short"></i>não podem restringir sua atuação à simples realização de tarefa sem maior envolvimento da entidade com a vida do adolescente ou mesmo com o sentido da medida;<br><br>
-                            <i class="seta bi bi-arrow-right-short"></i>A frequência é uma obrigação do adolescente, contudo a entidade deve estar aberta para discutir com ele sobre as condições para execução das atividades e os percalços atravessados no cotidiano;<br><br>
-                            <i class="seta bi bi-arrow-right-short"></i>Alterações podem ser pactuadas e sempre informadas à equipe técnica do serviço, para avaliação conjunta.
+                        <p><i class="seta bi bi-arrow-right-short"></i> Apoiar o adolescente no desenvolvimento da atividade, observando sua execução, os cuidados necessários para o bom desempenho e o suporte para identificar dificuldades e dar retorno ao serviço de acompanhamento do SUAS;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Não podem restringir sua atuação à simples realização de tarefa sem maior envolvimento da entidade com a vida do adolescente ou mesmo com o sentido da medida;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> A frequência é uma obrigação do adolescente, contudo a entidade deve estar aberta para discutir com ele sobre as condições para execução das atividades e os percalços atravessados no cotidiano;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Alterações podem ser pactuadas e sempre informadas à equipe técnica do serviço, para avaliação conjunta.
                         </p>
 
 
@@ -2067,7 +2107,7 @@ include('layout/header.php');
 
                             <div id="diemensao1" class="tabcontent">
                                 <h3>1ª Dimensão</h3>
-                                <p>é aquela que fundamenta a decisão do Sistema de Justiça com relação ao adolescente e a medida socioeducativa, através de ações como: substituição, prorrogação ou extinção de medida.</p>
+                                <p>É aquela que fundamenta a decisão do Sistema de Justiça com relação ao adolescente e a medida socioeducativa, através de ações como: substituição, prorrogação ou extinção de medida.</p>
                                 <p>Essa fundamentação deve apresentar “avaliações sobre o adolescente, suas condições de vida e o contexto do ato infracional (BRASIL, 2022, p. 81).</p>
                                 <p>Depois de tomada a decisão pela autoridade judiciária (sentença) o processo avaliativo continua com a equipe técnica do serviço.</p>
                                 <p>Mesmo que haja limites de tempo na aplicação das medidas, é a avaliação sociopedagógica que determinará o período de cumprimento e os critérios para verificar o sucesso da medida. O cumprimento de uma medida será avaliado técnica e juridicamente por meio do PIA, o que aumenta nossa necessidade de qualificá-lo. (BRASIL, 2022, p. 81)</p>
@@ -2193,10 +2233,18 @@ include('layout/header.php');
                                 <p>Podem ser utilizadas várias formas de avaliação no PIA voltadas: a eficiência, referentes aos custos e benefícios; a eficácia, que avalia o alcance dos objetivos e a efetividade que é voltada aos impactos sentidos. Todas elas devem ser pensadas quando do processo de levantamento de indicadores e metas pactuadas dentro desse processo.</p>
                             </div>
                         </div>
+                        <br>
 
-                        <p><strong>Peculiaridades sobre a avaliação da medida socioeducativa de Liberdade Assistida e a de Prestação de Serviço à Comunidade</strong></p>
+                        <h5 style="font-size: 35px;">Peculiaridades sobre a avaliação da medida socioeducativa de Liberdade Assistida e a de Prestação de Serviço à Comunidade</h5>
 
-                        <p>Avaliando a Liberdade Assistida (LA)</p>
+                        <br>
+
+
+                        <p>
+                            <strong>Avaliando a Liberdade Assistida (LA)</strong>
+                        </p>
+
+
 
                         <p>De acordo com o Art. 119º do Estatuto da Criança e Adolescente, a Liberdade Assistida deve ser analisada considerando seus aspectos subjetivos e objetivos.</p>
 
@@ -2257,10 +2305,10 @@ include('layout/header.php');
 
                         <p>A avaliação na PSC compete tanto à unidade de acompanhamento do SUAS, quanto às entidades parceiras que recebem os adolescentes para a realização das atividades, de forma a ouvir os profissionais e saber quais as suas dificuldades enquanto referência neste serviço. É preciso avaliar:</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i>como os profissionais da entidade se sentiram;<br><br>
-                            <i class="seta bi bi-arrow-right-short"></i>se houve conflitos entre eles e os adolescentes;<br><br>
-                            <i class="seta bi bi-arrow-right-short"></i>se a entidade, de fato, conseguiu realizar as entregas pactuadas no PIA;<br><br>
-                            <i class="seta bi bi-arrow-right-short"></i>como os adolescentes se sentiram naquela entidade.
+                        <p><i class="seta bi bi-arrow-right-short"></i> Como os profissionais da entidade se sentiram;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Se houve conflitos entre eles e os adolescentes;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Se a entidade, de fato, conseguiu realizar as entregas pactuadas no PIA;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Como os adolescentes se sentiram naquela entidade.
                         </p>
 
                         <p>É importante que essas entidades tenham um retorno de como a PSC impactou positivamente na vida daquele adolescente após o cumprimento da medida, e quais as dificuldades enfrentadas por ele, bem como se foram sanadas.</p>
@@ -2288,67 +2336,99 @@ include('layout/header.php');
 
                         <p>No processo avaliativo alguns pontos são essenciais para sua efetivação, como os pontos fortes, os pontos sensíveis, os de hipótese e os pontos de mudanças. No quadro abaixo apresentamos os aspectos que cada um contempla.</p>
 
-                        <!-- IMAGEM NO SITE  -->
+                        <div class="apresentacao">
+                            <div>
+                                <!-- IMAGEM NO SITE  -->
 
-                        <div class="text-center img-01 wow zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2 "><strong>Figura 35</strong>
-                            </p>
-                            <div class="zoom">
-                                <a href="imgs/Figura35.png" data-bs-toggle="modal" data-bs-target="#Imagem35">
-                                    <img class="w-75" src="imgs/Figura35.png" alt="" id="img-1">
-                                </a>
-                            </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 88)</p>
-                        </div>
-
-                        <!-- Imagem - MODAL-->
-                        <div class="modal fade text-center" id="Imagem35" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/Figura35.png" alt="">
+                                <div class="text-center img-01 wow zoomIn">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2 "><strong>Figura 35</strong>
+                                    </p>
+                                    <div class="zoom">
+                                        <a href="imgs/Figura35.png" data-bs-toggle="modal" data-bs-target="#Imagem35">
+                                            <img class="w-75" src="imgs/Figura35.png" alt="" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 88)</p>
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 88)</p>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem35" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/Figura35.png" alt="">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte: </strong> Caderno de Orientações Técnicas para Elaboração do Plano Individual de Atendimento (PIA) de Medidas Socioeducativas em Meio Aberto (2022, p. 88)</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+
+                            <div class="d-flex align-items-center">
+                                <div>
+                                    <p>Diante do exposto, podemos concluir que a avaliação é um processo dinâmico e coletivo que vai além da classificação, valoração ou medição de processos, sendo fruto do compartilhamento entre sujeitos na tomada de decisões e em busca da melhoria constante do serviço de medidas socioeducativas.</p>
+
+                                    <div class="content_box_padrao">
+                                        <p>
+                                            “Avaliar é pensar se o nosso trabalho, de fato, alcança nosso objetivo: o adolescente em sua plenitude”. (BRASIL, 2022, p. 89)
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- Imagem - End-->
 
-                        <!-- FIM DA IMAGEM NO SITE  -->
 
-                        <p>Diante do exposto, podemos concluir que a avaliação é um processo dinâmico e coletivo que vai além da classificação, valoração ou medição de processos, sendo fruto do compartilhamento entre sujeitos na tomada de decisões e em busca da melhoria constante do serviço de medidas socioeducativas.</p>
 
-                        <div class="content_box_padrao">
-                            <p>
-                                “Avaliar é pensar se o nosso trabalho, de fato, alcança nosso objetivo: o adolescente em sua plenitude”. (BRASIL, 2022, p. 89)
+
+                        <!-- Balão informativo -->
+                        <div class="wow fadeIn balao_informativo1" data-wow-delay="0.3s">
+                            <strong><i class="fa-solid fa-lightbulb"></i> Clique nas imagems abaixo para mais informações</strong>
+                        </div><br><br>
+
+                        <!-- BOTÃO GRANDE COM IMAGEM E TEXTO -->
+                        <div>
+                            <p class="FonteFigura FonteMenor text-secondary d-flex justify-content-center">
+                                Fonte: Freepik
                             </p>
+                            <div class="conteudo-card">
+                                <div class="card">
+                                    <img src="imgs/figuraextra02.jpg" class="img" alt="">
+                                    <div class="content">
+                                        <p class="desc">
+                                            <strong>Art. 43.</strong> A reavaliação da manutenção, da substituição ou da suspensão das medidas de meio aberto ou de privação da liberdade e do respectivo plano individual pode ser solicitada a qualquer tempo, a pedido da direção do programa de atendimento, do defensor, do Ministério Público, do adolescente, de seus pais ou responsável.
+                                            <br><br>
+                                            <strong>§ 1º</strong> Justifica o pedido de reavaliação, entre outros motivos:
+                                            <br><br>
+                                            I. o desempenho adequado do adolescente com base no seu plano de atendimento individual, antes do prazo da reavaliação obrigatória;<br><br>
+                                            II. a inadaptação do adolescente ao programa e o reiterado descumprimento das atividades do plano individual; e<br><br>
+                                            III. a necessidade de modificação das atividades do plano individual que importem em maior restrição da liberdade do adolescente.<br><br>
+
+                                            <strong>§ 2º</strong> A autoridade judiciária poderá indeferir o pedido, de pronto, se entender insuficiente a motivação.<br><br>
+                                            <strong>§ 3º</strong> Admitido o processamento do pedido, a autoridade judiciária, se necessário, designará audiência, observando o princípio do § 1º do art. 42 desta Lei.<br><br>
+                                            <strong>§ 4º</strong> A substituição por medida mais gravosa somente ocorrerá em situações excepcionais, após o devido processo legal, inclusive na hipótese do inciso III do art. 122 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e deve ser:<br><br>
+
+                                            I. fundamentada em parecer técnico;<br><br>
+                                            II. precedida de prévia audiência e nos termos do § 1º do art. 42 desta Lei.<br><br>
+
+                                            <strong>Art. 44.</strong> Na hipótese de substituição da medida ou modificação das atividades do plano individual, a autoridade judiciária remeterá o inteiro teor da decisão à direção do programa de atendimento, assim como as peças que entender relevantes à nova situação jurídica do adolescente.<br><br>
+
+                                            Parágrafo único. No caso de a substituição da medida importar em vinculação do adolescente a outro programa de atendimento, o plano individual e o histórico do cumprimento da medida deverão acompanhar a transferência.
+                                        </p>
+                                    </div>
+                                    <div class="text-fixo-card">Reavaliação das MSE’s
+                                        <span class="arrow">&#8673;</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
 
+                        <br><br>
 
-                        <p><strong>Reavaliação das MSE’s</strong></p>
+                        <p><strong></strong></p>
 
-                        <div class="content_box_padrao_cinza">
-                            <p>
-                                <strong>Art. 43.</strong> A reavaliação da manutenção, da substituição ou da suspensão das medidas de meio aberto ou de privação da liberdade e do respectivo plano individual pode ser solicitada a qualquer tempo, a pedido da direção do programa de atendimento, do defensor, do Ministério Público, do adolescente, de seus pais ou responsável.
-                                <br><br>
-                                <strong>§ 1º</strong> Justifica o pedido de reavaliação, entre outros motivos:
-                                <br><br>
-                                I. o desempenho adequado do adolescente com base no seu plano de atendimento individual, antes do prazo da reavaliação obrigatória;<br><br>
-                                II. a inadaptação do adolescente ao programa e o reiterado descumprimento das atividades do plano individual; e<br><br>
-                                III. a necessidade de modificação das atividades do plano individual que importem em maior restrição da liberdade do adolescente.<br><br>
-
-                                <strong>§ 2º</strong> A autoridade judiciária poderá indeferir o pedido, de pronto, se entender insuficiente a motivação.<br><br>
-                                <strong>§ 3º</strong> Admitido o processamento do pedido, a autoridade judiciária, se necessário, designará audiência, observando o princípio do § 1º do art. 42 desta Lei.<br><br>
-                                <strong>§ 4º</strong> A substituição por medida mais gravosa somente ocorrerá em situações excepcionais, após o devido processo legal, inclusive na hipótese do inciso III do art. 122 da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e deve ser:<br><br>
-
-                                I. fundamentada em parecer técnico;<br><br>
-                                II. precedida de prévia audiência e nos termos do § 1º do art. 42 desta Lei.<br><br>
-
-                                <strong>Art. 44.</strong> Na hipótese de substituição da medida ou modificação das atividades do plano individual, a autoridade judiciária remeterá o inteiro teor da decisão à direção do programa de atendimento, assim como as peças que entender relevantes à nova situação jurídica do adolescente.<br><br>
-
-                                Parágrafo único. No caso de a substituição da medida importar em vinculação do adolescente a outro programa de atendimento, o plano individual e o histórico do cumprimento da medida deverão acompanhar a transferência.
-                            </p>
-                        </div>
 
                         <p><strong>RELATÓRIO DE ACOMPANHAMENTO E AVALIAÇÃO:</strong></p>
 
@@ -2536,8 +2616,8 @@ include('layout/header.php');
                         <p><strong>Adolescentes pós-cumprimento de Medidas Socioeducativas</strong></p>
 
                         <p><i class="seta bi bi-arrow-right-short"></i>É aquele cuja medida foi extinta pelo juiz;<br><br>
-                            <i class="seta bi bi-arrow-right-short"></i>Que teve a medida substituída;<br><br>
-                            <i class="seta bi bi-arrow-right-short"></i>Que cometeu novo ato infracional durante o cumprimento de MSE.
+                            <i class="seta bi bi-arrow-right-short"></i> Que teve a medida substituída;<br><br>
+                            <i class="seta bi bi-arrow-right-short"></i> Que cometeu novo ato infracional durante o cumprimento de MSE.
                         </p>
 
                         <div class="apresentacao">

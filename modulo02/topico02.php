@@ -46,11 +46,11 @@ include('layout/header.php');
 
                         <p>A articulação entre os serviços do SUAS deve ser garantida por meio de:</p>
 
-                        <p><i class="seta bi bi-arrow-right-short"></i> troca de informações;</p>
-                        <p><i class="seta bi bi-arrow-right-short"></i> definição de fluxos internos;</p>
-                        <p><i class="seta bi bi-arrow-right-short"></i> realização de reuniões entre as equipes;</p>
-                        <p><i class="seta bi bi-arrow-right-short"></i> alinhamento conceitual sobre a organização e a operacionalização dos serviços ofertados no CREAS e;</p>
-                        <p><i class="seta bi bi-arrow-right-short"></i> definição de atividades que podem ser realizadas em conjunto.</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Troca de informações;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Definição de fluxos internos;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Realização de reuniões entre as equipes;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Alinhamento conceitual sobre a organização e a operacionalização dos serviços ofertados no CREAS e;</p>
+                        <p><i class="seta bi bi-arrow-right-short"></i> Definição de atividades que podem ser realizadas em conjunto.</p>
 
                         <!-- Subsubtopico  -->
                         <h4 class="subsubtopico">Serviço de Convivência e Fortalecimento de Vínculos - SCFV</h4>
@@ -233,9 +233,9 @@ include('layout/header.php');
                                             <strong>Acompanhamento do PAIF</strong>
                                         </p>
                                         <p><i class="seta bi bi-arrow-right-short"></i> O acompanhamento realizado pelo PAIF tem como objetivo a prevenção de situações de risco social a partir do desenvolvimento de ações de caráter preventivo, protetivo e proativo, visando responder às necessidades estruturais das famílias para além das situações emergenciais (BRASIL, 2012);</p>
-                                        <p>
+                                        <p><br><br>
                                             <i class="seta bi bi-arrow-right-short"></i> O PAIF desenvolve trabalho social com famílias de caráter continuado, com foco na função protetiva das famílias na prevenção da ruptura de vínculos, na promoção do acesso a direitos e no fortalecimento de vínculos familiares e comunitários (BRASIL, 2009);
-                                        </p>
+                                        </p><br><br>
 
                                         <p>
                                             <i class="seta bi bi-arrow-right-short"></i> Uma característica importante do PAIF consiste no desenvolvimento de ações que possibilitem a antecipação às situações de violação de direitos, por meio da identificação e da promoção do desenvolvimento de potencialidades das famílias e do território a ele referenciado (BRASIL,2012).
